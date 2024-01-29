@@ -27,7 +27,15 @@ Hoài Thanh, Hoài Chân phê bình rất tinh tế, vừa phải, từ ngữ đ
 
 ### Tâm lí học tội phạm 2 - Stanton E Samenow
 
+Nếu như cuốn tập 1 khiến mình phải lên Facebook đăng bài chửi nửa ngày thì tới phần 2 này, mình đã trưởng thành hơn, mình không chửi nữa. Nói chung mình cảm giác nó là một bộ sách quá cảm tính. Người làm khoa học đầu tiên phải quan sát hiện tượng, rút ra kết luận, sau đó không ngừng tính toán, thí nghiệm đẻ chứng minh, chỉnh sửa hoặc vứt luôn kết luận đó. Cuốn sách này chỉ dừng ở 2 bước đầu. Điều đó khiến mình cảm thấy không được thuyết phục. Hoặc là tác giả viết dở đang chém gió, hoặc đây là một mảng khoa học không đủ hay với mình.
+
+Đánh giá: :star::star::star:
+
 ### Cuộc sống ở trong ngôn ngữ - Hoàng Tuệ
+
+Một cuốn sách gợi mở cho mình rất nhiều vấn đề và câu hỏi thú vị liên quan tới cấu trúc môn ngữ. Lần trước đọc cuốn "Triết lí Tiếng Việt" trong bộ sách Tiếng Việt giàu đẹp thì mình suy nghĩ nó với góc nhìn của một người quan tâm tới ngôn ngữ, bây giờ đối với cuốn này lại khiến mình liên tưởng tới LLM nhiều hơn. Ai rồi cũng khác mà. Nói chứ điểm cấn duy nhất của cuốn này là tác giả hay nhắc tới tư tưởng chính trị quá, mặc dù mình và tác giả cùng ủng hộ một đảng phái, tư tưởng chính trị nhưng mà mình không thích việc một cuốn sách nặng tính khoa học lại nhắc đến vấn đề này.
+
+Đánh giá: :star::star::star::star:
 
 ### Brief Answers to Brief Questions - Stephen Hawking
 
