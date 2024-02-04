@@ -1,7 +1,7 @@
 ---
 title: Hành trình lấy bằng IELTS của Linh
 date: 2024-01-13 06:00:00 +0700
-categories: [Journal of Scienes, Languages]
+categories: [Journal of Sciences, Languages]
 tags: [vietnamese, exam]     # TAG names should always be lowercase
 ---
 
