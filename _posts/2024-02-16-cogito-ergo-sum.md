@@ -15,7 +15,7 @@ Thế mà hôm trước, mình mơ một giấc mơ khá kinh hãi thế nhân. 
 
 Mình tin rằng những gì mình làm trong mơ phản ánh con người thật của bản thân. Và cách giấc mơ diễn biến đôi khi thể hiện góc nhìn sâu thẳm của mình. Thật đáng xấu hổ khi thừa nhận rằng, bản thân là một người tự tin thái quá vào ý chí, mặc dù trong thực tế đã thất bại rất nhiều lần khi dựa vào nó :smile:
 
-Vậy bài viết này dùng để làm gì? Với bạn, có lẽ biết thêm một gợi mở thú vị về tâm thần học trong câu chuyện của người công nhân Phineas Gage, hoặc một chút tò mò triết học từ René Descastes. Với Linh, có lẽ là cần phải chỉ rõ ra khiếm khuyết của bản thân, để từ đó không ngừng nhắc nhở: Trí tuệ minh mẫn không cảm tính, không siêu nhiên. Nó đòi hỏi một lối sống lành mạnh và rèn luyện kỉ luật. Không ai có sáu múi cơ chỉ từ việc nghĩ cũng như một não khỏe mạnh từ niềm tin.
+Vậy bài viết này dùng để làm gì? Với bạn, có lẽ biết thêm một gợi mở thú vị về tâm thần học trong câu chuyện của người công nhân Phineas Gage, hoặc một chút tò mò triết học từ René Descastes. Với Linh, có lẽ là cần phải chỉ rõ ra khiếm khuyết của bản thân, để từ đó không ngừng nhắc nhở: Trí tuệ minh mẫn không cảm tính, không siêu nhiên. Nó đòi hỏi một lối sống lành mạnh và rèn luyện kỉ luật. Không ai có sáu múi cơ chỉ từ việc nghĩ cũng như một bộ não khỏe mạnh từ niềm tin.
 
 Vậy, *my dear Linh, did you have a plan to establish a healthy mind?*
 
