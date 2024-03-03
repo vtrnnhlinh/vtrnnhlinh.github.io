@@ -1,6 +1,6 @@
 ---
 title: Project Elrond - Week 6
-date: 2024-02-26 06:00:00 +0700
+date: 2024-03-03 06:00:00 +0700
 categories: [Journal of Sciences, Project Elrond]
 tags: [english, cse, ai, project]     # TAG names should always be lowercase
 ---
