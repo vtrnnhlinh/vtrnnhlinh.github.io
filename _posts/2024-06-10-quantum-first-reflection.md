@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Quantum first reflection
 date: 2024-06-10 05:20:00 +0700
 categories: [Stories of Culture, Random Thoughts]

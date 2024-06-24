@@ -1,4 +1,5 @@
 ---
+layout: post
 title: From First Interview to First Internship
 date: 2024-04-22 01:00:00 +0700
 categories: [Linh the Engineer, Internship]

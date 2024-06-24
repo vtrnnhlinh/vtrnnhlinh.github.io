@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Finding the Lost Sparkles - Week 1
 date: 2024-06-16 22:14:00 +0700
 categories:

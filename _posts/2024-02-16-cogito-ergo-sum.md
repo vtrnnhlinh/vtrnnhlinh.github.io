@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Tôi tư duy, tôi tồn tại?
 date: 2024-02-16 02:00:00 +0700
 categories: [Stories of Culture, Random Thoughts]

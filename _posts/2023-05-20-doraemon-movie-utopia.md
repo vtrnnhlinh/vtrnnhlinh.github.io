@@ -1,4 +1,5 @@
 ---
+layout: post
 title: DORAEMON MOVIE, TRIẾT HỌC VÀ CHỦ NGHĨA XÃ HỘI KHÔNG TƯỞNG
 date: 2023-05-20 07:00:00 +0700
 categories: [Stories of Culture, Movie]

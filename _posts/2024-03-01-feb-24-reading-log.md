@@ -1,4 +1,5 @@
 ---
+layout: post
 title: February 24 Reading Log
 date: 2024-03-01 06:00:00 +0700
 categories: [Journal of Sciences, Reading Log]

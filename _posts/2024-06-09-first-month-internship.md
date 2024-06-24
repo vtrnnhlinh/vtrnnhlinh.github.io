@@ -1,4 +1,5 @@
 ---
+layout: post
 title: first month internship 
 date: 2024-06-09 02:30:00 +0700
 categories: [Linh the Engineer, Internship]
