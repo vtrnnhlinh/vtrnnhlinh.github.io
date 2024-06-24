@@ -32,8 +32,6 @@ I am excited by sophisticated matters and curious about everything.
 
 I am a wanderer chasing the beauty and knowledge.
 
-Born to learn,
+Thank you for visiting my place!
 
-Live to discover,
-
-Die to be enlightened.
+Linh.
