@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - vtrnnhlinh
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - vtrnnhlinh/codewars
+  - vtrnnhlinh/Cpp4Fun
+  - vtrnnhlinh/LISP4Aestheticism
+  - vtrnnhlinh/kickstart.nvim
