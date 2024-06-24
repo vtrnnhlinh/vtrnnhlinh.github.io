@@ -1,0 +1,17 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"> <html><body> <p>Today we come with this simple problem but mine isn’t so statistically impressive again, all because of you <code class="language-plaintext highlighter-rouge">erase()</code>!</p> <p>Link to problem: <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/?envType=study-plan-v2&amp;envId=top-interview-150" rel="external nofollow noopener" target="_blank">26. Remove Duplicates from Sorted Array</a>.</p> <h2 id="ideas">Ideas</h2> <ul> <li> <p>This problem is kinda too simple for an idea to work, I am lazy for a brilliant one.</p> </li> <li> <p>You will use a for loop to erase duplicate elements in the vector.</p> </li> </ul> <h2 id="code">Code</h2> <div class="language-cpp highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">class</span> <span class="nc">Solution</span> <span class="p">{</span>
+<span class="nl">public:</span>
+    <span class="kt">int</span> <span class="n">removeDuplicates</span><span class="p">(</span><span class="n">vector</span><span class="o">&lt;</span><span class="kt">int</span><span class="o">&gt;&amp;</span> <span class="n">nums</span><span class="p">)</span> <span class="p">{</span>
+        <span class="kt">int</span> <span class="n">n</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+    <span class="k">for</span> <span class="p">(</span><span class="n">std</span><span class="o">::</span><span class="n">vector</span><span class="o">&lt;</span><span class="kt">int</span><span class="o">&gt;::</span><span class="n">iterator</span> <span class="n">it</span> <span class="o">=</span> <span class="n">nums</span><span class="p">.</span><span class="n">begin</span><span class="p">()</span><span class="o">+</span><span class="mi">1</span><span class="p">;</span> <span class="n">it</span> <span class="o">!=</span> <span class="n">nums</span><span class="p">.</span><span class="n">end</span><span class="p">();)</span>
+    <span class="p">{</span>
+        <span class="k">if</span> <span class="p">(</span><span class="n">nums</span><span class="p">[</span><span class="n">n</span><span class="p">]</span> <span class="o">==</span> <span class="n">nums</span><span class="p">[</span><span class="n">n</span><span class="o">+</span><span class="mi">1</span><span class="p">])</span>
+            <span class="n">it</span> <span class="o">=</span> <span class="n">nums</span><span class="p">.</span><span class="n">erase</span><span class="p">(</span><span class="n">it</span><span class="p">);</span>
+        <span class="k">else</span> <span class="p">{</span>
+            <span class="n">it</span><span class="o">++</span><span class="p">;</span>
+            <span class="n">n</span><span class="o">++</span><span class="p">;</span>
+            <span class="p">}</span>
+    <span class="p">}</span>
+        <span class="k">return</span> <span class="n">nums</span><span class="p">.</span><span class="n">size</span><span class="p">();</span>
+    <span class="p">}</span>
+<span class="p">};</span>
+</code></pre></div></div> <p>From the idea to the realization, the problem is the variable type to fit with the functions of the library, haha.</p> <hr> <p>See ya next time!</p> </body></html>
