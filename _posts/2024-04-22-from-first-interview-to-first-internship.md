@@ -2,8 +2,11 @@
 layout: post
 title: From First Interview to First Internship
 date: 2024-04-22 01:00:00 +0700
-categories: [Linh the Engineer, Internship]
+categories: [Linh the Engineer]
 tags: [english, cse, career]     # TAG names should always be lowercase
+giscus_comments: true
+toc:
+   beginning: true
 ---
 
 My dear readers, I got an internship at the beginning of April. I think I was pretty lucky but still, I think it worth sharing.

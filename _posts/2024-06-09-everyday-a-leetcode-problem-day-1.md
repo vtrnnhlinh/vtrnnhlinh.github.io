@@ -2,8 +2,11 @@
 layout: post
 title: Everyday a Leetcode Problem - 88. Merge Sorted Array 
 date: 2024-06-09 15:15:00 +0700
-categories: [Linh the Engineer, Leetcode Problems]
+categories: [Linh the Engineer]
 tags: [english, cse, dsa]     # TAG names should always be lowercase
+giscus_comments: true
+toc:
+   beginning: true
 ---
 
 This summer I will open the series to practice a Leetcode problem everyday to hone my coding skills! Hope to receive your feedback.

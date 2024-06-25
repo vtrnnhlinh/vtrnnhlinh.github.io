@@ -2,8 +2,11 @@
 layout: post
 title: first month internship 
 date: 2024-06-09 02:30:00 +0700
-categories: [Linh the Engineer, Internship]
+categories: [Linh the Engineer, ]
 tags: [english, cse, career, firmware]     # TAG names should always be lowercase
+giscus_comments: true
+toc:
+   beginning: true
 ---
 
 It's about a month since the first day I start my internship. I learned a lot and experience a lot from my company, so it worth sharing, I believe so.

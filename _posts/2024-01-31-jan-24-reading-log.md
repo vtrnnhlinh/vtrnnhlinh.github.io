@@ -2,8 +2,11 @@
 layout: post
 title: January 24 Reading Log
 date: 2024-01-31 06:00:00 +0700
-categories: [Journal of Sciences, Reading Log]
+categories: [Journal of Sciences]
 tags: [vietnamese, books, reading]     # TAG names should always be lowercase
+giscus_comments: true
+toc:
+   beginning: true
 ---
 
 Tháng 1 đã kết thúc, mình cũng xin giới thiệu một số tựa sách mình đã đọc và đang đọc trong tháng này. Rất vui nếu được chia sẻ kiến thức, niềm vui và trải nghiệm với các bạn tôi.

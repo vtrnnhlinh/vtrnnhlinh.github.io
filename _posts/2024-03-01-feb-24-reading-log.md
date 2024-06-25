@@ -2,8 +2,11 @@
 layout: post
 title: February 24 Reading Log
 date: 2024-03-01 06:00:00 +0700
-categories: [Journal of Sciences, Reading Log]
+categories: [Journal of Sciences]
 tags: [vietnamese, books, reading]     # TAG names should always be lowercase
+giscus_comments: true
+toc:
+   beginning: true
 ---
 
 Tháng vừa rồi mình chỉ đọc được 1 cuốn do "bận" nghỉ Tết. Ăn uống phè phỡn quá chứ cũng không có gì.

@@ -4,11 +4,13 @@ title: Finding the Lost Sparkles - Week 1
 date: 2024-06-16 22:14:00 +0700
 categories:
   - Journal of Sciences
-  - Finding the Lost Sparkles
 tags:
   - vietnamese
   - career
   - cse
+giscus_comments: true
+toc:
+   beginning: true
 ---
 
 Bạn tôi ơi, tôi đã sợ rằng mình sẽ làm thêm một cái nhật kí thất bại, thất bại tới mức bản thân phải xóa sổ nó vội chỉ sau vài bài như cái đã làm lúc trước.

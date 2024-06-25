@@ -2,8 +2,11 @@
 layout: post
 title: Hành trình lấy bằng IELTS của Linh
 date: 2024-01-13 06:00:00 +0700
-categories: [Journal of Sciences, Languages]
+categories: [Journal of Sciences]
 tags: [vietnamese, exam]     # TAG names should always be lowercase
+giscus_comments: true
+toc:
+   beginning: true
 ---
 
 Cuối cùng thì sau bao năm dài tháng rộng, mãi tới tận bây giờ mình mới lấy được bằng IELTS. Mặc dù điểm số cũng bình thường (6.5), nhưng mình nghĩ đây là một câu chuyện khá thú vị để chia sẻ.

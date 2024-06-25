@@ -2,9 +2,9 @@
 layout: post
 title: DORAEMON MOVIE, TRIẾT HỌC VÀ CHỦ NGHĨA XÃ HỘI KHÔNG TƯỞNG
 date: 2023-05-20 07:00:00 +0700
-categories: [Stories of Culture, Movie]
+categories: [Stories of Culture]
 tags: [vietnamese, anime, doraemon]     # TAG names should always be lowercase
-toc: false
+giscus_comments: true
 ---
 
 Người chém gió: Nhân cách khác của Linh. Chém vội trước khi đi làm nhà khai phá

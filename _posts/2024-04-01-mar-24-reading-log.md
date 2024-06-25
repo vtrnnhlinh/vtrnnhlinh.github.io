@@ -2,8 +2,11 @@
 layout: post
 title: March 24 Reading Log
 date: 2024-04-01 06:00:00 +0700
-categories: [Journal of Sciences, Reading Log]
+categories: [Journal of Sciences]
 tags: [vietnamese, books, reading]     # TAG names should always be lowercase
+giscus_comments: true
+toc:
+   beginning: true
 ---
 
 Một tháng đọc không đạt KPI lắm, nhưng đành chịu vậy.

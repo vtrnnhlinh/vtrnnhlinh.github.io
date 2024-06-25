@@ -2,8 +2,11 @@
 layout: post
 title: May 24 Reading Log
 date: 2024-06-01 22:00:00 +0700
-categories: [Journal of Sciences, Reading Log]
+categories: [Journal of Sciences]
 tags: [vietnamese, books, reading] # TAG names should always be lowercase
+giscus_comments: true
+toc:
+   beginning: true
 ---
 
 Bởi vì lựa chọn một khá khó nhằn và phải đi thực tập nên mình cũng ít đọc hơn, sau đây là những cuốn mình đọc tháng này.
