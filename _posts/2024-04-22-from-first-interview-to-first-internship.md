@@ -4,6 +4,7 @@ title: From First Interview to First Internship
 date: 2024-04-22 01:00:00 +0700
 categories: [Linh the Engineer]
 tags: [english, cse, career]     # TAG names should always be lowercase
+featured: true
 giscus_comments: true
 toc:
    beginning: true
