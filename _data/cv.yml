@@ -5,8 +5,12 @@
       value: Linh Vo Tran Nha 
     - name: Date of Birth
       value: 10th November 2003
+    - name: Email
+      value: vtrnnhlinh@outlook.com
+    - name: Personal Phone
+      value: (+84) 865 167 913
     - name: Languages
-      value: Vietnamese, English
+      value: Vietnamese, English, German
 
 - title: Education
   type: time_table
