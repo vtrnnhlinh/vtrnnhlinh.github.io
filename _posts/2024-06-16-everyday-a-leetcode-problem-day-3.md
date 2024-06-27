@@ -3,7 +3,7 @@ layout: post
 title: Everyday a Leetcode Problem - 26. Remove Duplicates from Sorted Array
 date: 2024-06-16 16:00:00 +0700
 categories: Linh the Engineer
-tags: [english, cse, dsa]     # TAG names should always be lowercase
+tags: [cse, dsa]     # TAG names should always be lowercase
 giscus_comments: true
 toc:
    beginning: true

@@ -3,7 +3,7 @@ layout: post
 title: Quantum first reflection
 date: 2024-06-10 05:20:00 +0700
 categories: [Stories of Culture]
-tags: [english, cse, quantum, career] # TAG names should always be lowercase
+tags: [cse, quantum, career] # TAG names should always be lowercase
 featured: true
 giscus_comments: true
 toc:
