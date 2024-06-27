@@ -9,16 +9,11 @@ toc:
    beginning: true
 ---
 
-Tháng vừa rồi mình chỉ đọc được 1 cuốn do "bận" nghỉ Tết. Ăn uống phè phỡn quá chứ cũng không có gì.
+Due to Lunar New Year holiday, I only read one :laughing:
 
 ## 7. A Brief History of Time - Stephen Hawking
 
-Không phải lần đầu tiên mình đọc cuốn này, lần đầu đọc khoảng 4, 5 năm trước, tốn của mình rất nhiều thời gian và nghị lực để đọc hết. Bây giờ mình đọc hết dễ hơn nhiều, nhưng hiểu thì cũng chưa chắc bao nhiêu. Bởi vì cuốn sách thiếu đi những luận điểm toán học (nếu có chắc không bán được luôn quá), nên nó khiến cho mình có một cảm giác rất chi là mơ hồ.
+Not really my first time reading this one, the last time I read, it took me a lot of effort to finish :smile:. Now it's easier for me to read it, but not really grab all everything. Something I feel sad that the book lacks the mathematical proof so sometimes I feel missing something.
 
-Đánh giá: :star::star::star::star:
+Rate: :star::star::star::star:
 
----
-
-Ngoài lề do bài ngắn quá, hiện mình đã đi được nửa chặng đường của Jane Eyre và Hamlet thì còn xa lắm, không biết đảm bảo được mục tiêu một tuần một cuốn sách không nữa, haha.
-
-Tháng này bạn đã đọc được gì rồi?

@@ -6,7 +6,7 @@ subtitle: Born to learn, live to discover, die to be enlightened.
 
 profile:
   align: right
-  image: avatar.jpg
+  image: avatar.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> Homo Sapien </p>

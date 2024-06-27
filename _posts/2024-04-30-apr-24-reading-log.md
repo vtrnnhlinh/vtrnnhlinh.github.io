@@ -9,7 +9,7 @@ toc:
    beginning: true
 ---
 
-Tháng này chắc là khá đạt KPI.
+A month that I reach the KPI.Tháng này chắc là khá đạt KPI.
 
 ## 10. Dặm đường tôi đi - Võ Quang Huệ
 

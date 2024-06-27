@@ -9,20 +9,20 @@ toc:
    beginning: true
 ---
 
-Một tháng đọc không đạt KPI lắm, nhưng đành chịu vậy.
+Not meet my KPI.
 
 ## 8. Jane Eyre - Charlotte Bronte
 
-Cả đời mình chưa bao giờ nghĩ tới chuyện mình sẽ bỏ một số tiền kha khá để mua một tác phẩm lãng mạn (dễ hiểu là ngôn tình đó, hehe). Mặc dù thị trường có bản Collins Classics rẻ hơn rất nhiều nhưng không hiểu sao mình vẫn xúc bản bìa vải mạ vàng lấp lánh blink blink của MacMillan. Sau khi đọc xong, mình nghĩ đây là một tác phẩm đủ hay để mình trọng thị như vậy.
+For the entire lifetime, I can't imagine someday I will spend a lot of money for a romance work. Even though I can buy the Collins Classics version, which is far cheaper but I still grab a Macmillan one :laughing:. After finishing it, I think it worth my penny.
 
-Tôn giáo có tầm ảnh hưởng xuyên suốt cốt truyện là một tôn giáo xa lạ với mình. Có nhiều từ tiếng anh cổ, thậm chí là rất nhiều câu tiếng Pháp hay một số từ Latin khiến mình bối rối. Nhưng cái đẹp không bị giới hạn bởi ngôn ngữ, bối cảnh lịch sử hay tôn giáo :wink:.
+The religion has a great impact through the story, but I am not so familiar with religions. There are some archaic English, even some French and Latin to confuse me. But the beauty isn't limited by languages, history background or religions :wink:.
 
-Tôi tin rằng Jane Eyre chính là hình mẫu phụ nữ độc lập, mạnh mẽ và cá tính đúng nghĩa. Charlotte Bronte đã viết ra một nhân vật nữ có chiều sâu như vậy hơn 150 năm trước. Còn hiện tại chúng ta đang chìm nghỉm trong mớ sản phẩm tung hô "nữ quyền" một cách nông cạn.
+I believe that Jane Eyre is the true model of independent woman, has her own personality in its truest meaning. Charlotte Bronte wrote a deep character like her 150 years ago. And in the present, we are stuck in shallow, stupid, shitty "feminism".
 
-Đánh giá: :star::star::star::star: (Just cause Romance isn't my cup of tea)
+Rate: :star::star::star::star: (Just cause Romance isn't my cup of tea)
 
-## 9. Truyện ngắn Nguyễn Tuân - Nguyễn Tuân
+## 9. Truyen ngan Nguyen Tuan - Nguyen Tuan
 
-Dù không đọc chữ nào, tôi vẫn sẽ đánh giá quyển này ngàn sao chứ không phải 5. Chỉ đơn giản mình là một người tán thưởng Nguyễn Tuân, tán thưởng một người có tâm hồn lơ lửng tương tự như mình. Tôi thích ông ấy vì sự thấu hiểu vượt thời không, một cảm giác rất "genuine" và "sentimental" mà khi đọc những tác giả khác không có. "Nguyễn" là bộ truyện ngắn mình đã muốn đọc từ lâu, nay đã được thỏa mãn. Vẫn tiếp tục tìm Tùy bút Sông Đà.
+It's Nguyen Tuan. It's over perfect. It's shiny 5 :star:.
 
 Đánh giá: :star::star::star::star::star:

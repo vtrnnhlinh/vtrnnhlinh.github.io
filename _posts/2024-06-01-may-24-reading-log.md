@@ -9,21 +9,21 @@ toc:
    beginning: true
 ---
 
-Bởi vì lựa chọn một khá khó nhằn và phải đi thực tập nên mình cũng ít đọc hơn, sau đây là những cuốn mình đọc tháng này.
+I read less this month cause my internship started.
 
-## 15. Chuyện nghề - Nguyễn Tuân
+## 15. Chuyen nghe - Nguyen Tuan
 
-Nói sao khi, cứ hễ nhắc tới Nguyễn Tuân thì mình chắc chắn sẽ cho 5 sao?
+No doubt, I will give this book an absolute 5 stars.
 
-Đây là một cuốn sách ít đi một Nguyễn ngã ngớn, chơi đùa với những con chữ mà nhiều hơn một Nguyễn nghiêm túc với nhiều suy nghĩ, quan điểm cá nhân vô cùng rõ ràng và rành mạch.
+This is a book, we have a lesser artistic Nguyen, but a more serious one with more personal opinions. He knows what he is thinking and what he wants. Not all people can do that.
 
-Thông qua cuốn sách, mình cảm giác mình đã hiểu ông ấy thêm nhiều hơn, về khía cạnh cá nhân hay góc nhìn vô cùng sắc sảo.
+Through the book, I understand him more than ever.
 
-Đánh giá: :star::star::star::star::star:
+Rate: :star::star::star::star::star:
 
-## 16. Hoa ban đỏ - Hữu Mai
+## 16. Hoa ban do - Huu Mai
 
-Mình mua cuốn này vì năm nay kỉ niệm 70 năm chiến thắng Điện Biên Phủ. Đây là bộ phim mình xem hồi bé, có ý nghĩa rất quan trọng đối với mình. Nhưng buồn thay, phải nói thật lòng như thế này. Cuốn sách này không hay bằng một góc bộ phim. Hoặc do mình đã quá già để cảm nhận những thứ tình cảm nảy nở đẹp đẽ thời trẻ thơ, hoặc là truyện dở hơn phim thật. Mình rất buồn, và rất hụt hẫng. Mình không đọng lại được gì sau cuốn sách cả...
+I bought this one because the 70th year of Dien Bien Phu Victory. This is a movie I have watched when I was a little girl. It has an huge impact on my politics view. But it's sad to admit that, this book isn't good. I don't know if it's horrible or I am just a worse person than before? 
 
-Đánh giá: :star::star::star:
+Rate: :star::star::star:
 
