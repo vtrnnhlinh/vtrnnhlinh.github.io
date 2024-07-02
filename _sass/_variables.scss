@@ -4,27 +4,27 @@
  ******************************************************************************/
 
 // Colors
-$red-color: #ff3636 !default;
-$red-color-dark: #b71c1c !default;
-$orange-color: #f29105 !default;
-$blue-color: #0076df !default;
-$blue-color-dark: #00369f !default;
-$cyan-color: #2698ba !default;
+$red-color: #fb4934 !default;
+$red-color-dark: #cc241d !default;
+$orange-color: #d65d0e !default;
+$blue-color: #83a598 !default;
+$blue-color-dark: #458588 !default;
+$cyan-color: #689d6a !default;
 $light-cyan-color: lighten($cyan-color, 25%);
-$green-color: #00ab37 !default;
-$green-color-lime: #b7d12a !default;
-$green-color-dark: #009f06 !default;
-$green-color-light: #ddffdd !default;
-$green-color-bright: #11d68b !default;
-$purple-color: #b509ac !default;
+$green-color: #98971a !default;
+$green-color-lime: #98971a !default;
+$green-color-dark: #b8bb26 !default;
+$green-color-light: #b8bb26 !default;
+$green-color-bright: #b8bb26 !default;
+$purple-color: #b16286 !default;
 $light-purple-color: lighten($purple-color, 25%);
-$pink-color: #f92080 !default;
-$pink-color-light: #ffdddd !default;
-$yellow-color: #efcc00 !default;
+$pink-color: #fb4934 !default;
+$pink-color-light: #fb4934 !default;
+$yellow-color: #d79921 !default;
 
-$grey-color: #828282 !default;
+$grey-color: #928374 !default;
 $grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark: #1c1c1d;
+$grey-color-dark: #928374;
 $grey-900: #212529;
 
 $white-color: #ffffff !default;
@@ -32,8 +32,8 @@ $black-color: #000000 !default;
 
 // Theme colors
 
-$code-bg-color-light: rgba($purple-color, 0.05);
-$code-bg-color-dark: #2c3237 !default;
+$code-bg-color-light: #fbf1c7 !default;
+$code-bg-color-dark: #282828 !default;
 
 // Font awesome location
 $fa-font-path: "../webfonts";
