@@ -53,6 +53,7 @@
       items:
         - <a href="https://www.coursera.org/account/accomplishments/certificate/UGJ6J6SG86FC"> Introduction to the Internet of Things and Embedded Systems - Coursera </a>
         - <a href="https://www.coursera.org/account/accomplishments/certificate/LDPSZYTJ46SY"> Learning How to Learn, Powerful mental tools to help you master tough subjects - Coursera </a>
+
 - title: Nonprofit Activities
   type: time_table
   contents:
@@ -104,4 +105,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Reading, Writing and Sleeping.
+      - <u>Hobbies:</u> Reading, Writing and Sleeping.
