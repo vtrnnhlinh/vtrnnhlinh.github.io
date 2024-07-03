@@ -19,6 +19,17 @@ strong {
   color: var(--global-text-color);
 }
 
+h1 {
+  color: #d65d0e; /* Gruvbox orange */
+}
+
+h2 {
+  color: #fabd2f; /* Gruvbox yellow */
+}
+
+h3 {
+  color: #b8bb26; /* Gruvbox green */
+}
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
