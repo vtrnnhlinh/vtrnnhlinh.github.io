@@ -1,39 +1,32 @@
-/*******************************************************************************
- * Variables used throughout the theme.
- * To adjust anything, simply edit the variables below and rebuild the theme.
- ******************************************************************************/
+// Gruvbox Colors
+$gruvbox-red: #fb4934 !default;
+$gruvbox-dark-red: #cc241d !default;
+$gruvbox-orange: #fe8019 !default;
+$gruvbox-blue: #83a598 !default;
+$gruvbox-dark-blue: #458588 !default;
+$gruvbox-cyan: #8ec07c !default;
+$gruvbox-light-cyan: lighten($gruvbox-cyan, 25%);
+$gruvbox-green: #b8bb26 !default;
+$gruvbox-dark-green: #98971a !default;
+$gruvbox-light-green: #ddffdd !default;
+$gruvbox-bright-green: #8ec07c !default;
+$gruvbox-purple: #d3869b !default;
+$gruvbox-light-purple: lighten($gruvbox-purple, 25%);
+$gruvbox-pink: #d3869b !default;
+$gruvbox-light-pink: #ebdbb2 !default;
+$gruvbox-yellow: #fabd2f !default;
 
-// Colors
-$red-color: #fb4934 !default;
-$red-color-dark: #cc241d !default;
-$orange-color: #d65d0e !default;
-$blue-color: #83a598 !default;
-$blue-color-dark: #458588 !default;
-$cyan-color: #689d6a !default;
-$light-cyan-color: lighten($cyan-color, 25%);
-$green-color: #98971a !default;
-$green-color-lime: #98971a !default;
-$green-color-dark: #b8bb26 !default;
-$green-color-light: #b8bb26 !default;
-$green-color-bright: #b8bb26 !default;
-$purple-color: #b16286 !default;
-$light-purple-color: lighten($purple-color, 25%);
-$pink-color: #fb4934 !default;
-$pink-color-light: #fb4934 !default;
-$yellow-color: #d79921 !default;
+$gruvbox-grey: #928374 !default;
+$gruvbox-light-grey: lighten($gruvbox-grey, 40%);
+$gruvbox-dark-grey: #3c3836;
+$gruvbox-grey-900: #282828;
 
-$grey-color: #282828 !default;
-$grey-color-light: #fbf1c7;
-$grey-color-dark: #1d2021;
-$grey-900: #212529;
-
-$white-color: #ffffff !default;
-$black-color: #000000 !default;
+$gruvbox-white: #fbf1c7 !default;
+$gruvbox-black: #1d2021 !default;
 
 // Theme colors
-
-$code-bg-color-light: #fbf1c7 !default;
-$code-bg-color-dark: #282828 !default;
+$code-bg-color-light: rgba($gruvbox-purple, 0.05);
+$code-bg-color-dark: #2c3237 !default;
 
 // Font awesome location
 $fa-font-path: "../webfonts";
