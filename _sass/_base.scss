@@ -586,7 +586,7 @@ footer.sticky-bottom {
     }
 
     &.active .page-link {
-      color: $white-color;
+      color: $gruvbox-white;
       background-color: var(--global-theme-color);
 
       &:hover {
