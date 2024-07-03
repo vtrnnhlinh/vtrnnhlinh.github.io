@@ -20,15 +20,18 @@ strong {
 }
 
 h1 {
-  color: #d65d0e; /* Gruvbox orange */
+  color: #{$gruvbox-orange}; /* Gruvbox orange */
 }
 
 h2 {
-  color: #fabd2f; /* Gruvbox yellow */
+  color: #{$gruvbox-yellow}; /* Gruvbox yellow */
 }
 
 h3 {
-  color: #b8bb26; /* Gruvbox green */
+  color: #{$gruvbox-green}; /* Gruvbox green */
+}
+h4 {
+  color: #{$gruvbox-dark-blue};
 }
 hr {
   border-top: 1px solid var(--global-divider-color);
