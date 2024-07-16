@@ -18,7 +18,12 @@ span,
 strong {
   color: var(--global-text-color);
 }
-
+b {
+  color: #{$gruvbox-blue};
+}
+i {
+  color: #{$gruvbox-cyan};
+}
 h1 {
   color: #{$gruvbox-orange}; /* Gruvbox orange */
 }
