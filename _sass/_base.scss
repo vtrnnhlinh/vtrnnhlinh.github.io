@@ -16,12 +16,9 @@ div,
 li,
 span,
 strong {
-  color: var(--global-text-color);
-}
-b {
   color: #{$gruvbox-blue};
 }
-i {
+em {
   color: #{$gruvbox-cyan};
 }
 h1 {

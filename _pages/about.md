@@ -28,9 +28,8 @@ At the moment, I am working as an Embedded Systems Intern at [Vierobot](https://
 
 In the future, I want to become a researcher in Quantum Computing field. Current my chosen niche topic is Scheduling Quantum-Classical Computing. Making the algorithm/computing neat, optimized and effective is always my dream *chef kiss*. In the future, maybe I will dig broader to related exciting fields, but I will focus on this topic first. 
 
-I am a wanderer chasing the beauty and knowledge. To me, the nobility from heart makes a human-being valuable. Everyday I wake up, I will hone myself become a greater personality.
+I am a wanderer chasing the beauty and knowledge. To me, the nobility from heart makes a human-being valuable. Everyday I wake up, I hone myself become a greater personality.
 
 Thank you for visiting my place! Don't hesitate to contact me if you are interested, I am always open to discuss.
 
 Linh.
-
