@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am now a member of High Performance Quantum Computing Team at HCMUT, VNU-HCM :sparkles:
+I am now a member of High Performance Quantum Computing Team at HCMUT, VNU-HCM :sparkles: :smile:
