@@ -6,7 +6,7 @@ categories: [Linh the Engineer]
 tags: [cse, neovim]     # TAG names should always be lowercase
 giscus_comments: true
 toc:
-   beginning: true
+   sidebar: right
 ---
 
 Hello my dears,

@@ -6,7 +6,7 @@ categories: [Linh the Engineer]
 tags: [cse, career]     # TAG names should always be lowercase
 giscus_comments: true
 toc:
-   beginning: true
+   sidebar: right
 ---
 
 Hi everyone, hope it was a nice day to you! During my internship, there are a lot of moments that I just think that "why I didn't know this before?". So here in this post, I will share those with you, hope you can learn something from my mistakes.

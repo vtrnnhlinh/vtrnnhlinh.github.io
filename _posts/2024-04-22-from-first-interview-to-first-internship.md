@@ -7,7 +7,7 @@ tags: [cse, career]     # TAG names should always be lowercase
 featured: true
 giscus_comments: true
 toc:
-   beginning: true
+   sidebar: right
 ---
 
 My dear readers, I got an internship at the beginning of April. I think I was pretty lucky but still, I think it worth sharing.

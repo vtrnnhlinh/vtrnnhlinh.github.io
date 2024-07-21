@@ -6,7 +6,7 @@ categories: Linh the Engineer
 tags: [cse, dsa]     # TAG names should always be lowercase
 giscus_comments: true
 toc:
-   beginning: true
+   sidebar: right
 ---
 
 Let's move on to next day problem! I am doing Top Interview 150 if you wonder.

@@ -6,7 +6,7 @@ categories: [Linh the Engineer]
 tags: [cse, dsa]     # TAG names should always be lowercase
 giscus_comments: true
 toc:
-   beginning: true
+   sidebar: right
 ---
 
 This summer I will open the series to practice a Leetcode problem everyday to hone my coding skills! Hope to receive your feedback.

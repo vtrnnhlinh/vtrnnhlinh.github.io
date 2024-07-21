@@ -7,7 +7,7 @@ tags: [cse, quantum, career] # TAG names should always be lowercase
 featured: true
 giscus_comments: true
 toc:
-   beginning: true
+   sidebar: right
 ---
 
 Dear readers,

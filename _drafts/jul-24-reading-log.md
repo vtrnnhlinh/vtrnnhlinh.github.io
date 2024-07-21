@@ -6,7 +6,7 @@ categories: [Journal of Sciences]
 tags: [books, reading]     # TAG names should always be lowercase
 giscus_comments: true
 toc:
-   beginning: true
+   sidebar: right
 ---
 
 July is a tough month, no reason why. 

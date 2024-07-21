@@ -6,7 +6,7 @@ categories: Linh the Engineer
 tags: [cse, dsa]     # TAG names should always be lowercase
 giscus_comments: true
 toc:
-   beginning: true
+   sidebar: right
 ---
 
 Today we come with this simple problem but mine isn't so statistically impressive again, all because of you `erase()`!

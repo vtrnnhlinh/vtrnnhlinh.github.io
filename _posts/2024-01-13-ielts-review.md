@@ -6,7 +6,7 @@ categories: [Journal of Sciences]
 tags: [english, exam]     # TAG names should always be lowercase
 giscus_comments: true
 toc:
-   beginning: true
+   sidebar: right
 ---
 
 Finally, I got my IELTS certificate. Even though I got a normal result (6.5), but I guess this is a fun journey to share.

@@ -6,7 +6,7 @@ categories: [Journal of Sciences]
 tags: [books, reading]     # TAG names should always be lowercase
 giscus_comments: true
 toc:
-   beginning: true
+   sidebar: right
 ---
 
 A month that I reach the KPI.Tháng này chắc là khá đạt KPI.

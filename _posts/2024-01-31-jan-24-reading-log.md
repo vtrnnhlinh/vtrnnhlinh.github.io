@@ -6,7 +6,7 @@ categories: [Journal of Sciences]
 tags: [books, reading]     # TAG names should always be lowercase
 giscus_comments: true
 toc:
-   beginning: true
+   sidebar: right
 ---
 
 January comes to an end, I will introduce some books I have read in this month. Glad to share with you.

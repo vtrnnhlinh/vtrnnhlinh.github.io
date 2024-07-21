@@ -6,7 +6,7 @@ categories: [Journal of Sciences]
 tags: [books, reading] # TAG names should always be lowercase
 giscus_comments: true
 toc:
-   beginning: true
+   sidebar: right
 ---
 
 So half of the year passed, I didn't read 24/48 but only 20. Let see what I have done this month.

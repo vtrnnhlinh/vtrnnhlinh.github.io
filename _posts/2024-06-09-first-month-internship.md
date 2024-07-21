@@ -6,7 +6,7 @@ categories: [Linh the Engineer, ]
 tags: [cse, career, firmware]     # TAG names should always be lowercase
 giscus_comments: true
 toc:
-   beginning: true
+   sidebar: right
 ---
 
 It's about a month since the first day I start my internship. I learned a lot and experience a lot from my company, so it worth sharing, I believe so.
