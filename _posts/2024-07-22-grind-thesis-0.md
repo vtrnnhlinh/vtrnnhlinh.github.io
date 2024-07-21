@@ -67,7 +67,7 @@ I have to admit, this is rough and hard as hell cause I am so inexperience. I am
 
 So here are two papers I choose [A Hybrid Quantum-Classical Approach to Solving Scheduling Problems](https://ojs.aaai.org/index.php/SOCS/article/view/18390/18181) and [Hybrid Quantum-Classical Scheduling for Accelerating Neural Network Training with Newton’s Gradient Descent](https://arxiv.org/pdf/2405.00252).
 
-I will try to grab an overview and summarize the first chosen paper and send to my supervisor to see if it worth to dig deeper. I don't want to be a lazy dick, I have to make sure that I know the shit I am doing and **my supervisor is really my supervisor, not my kid-taker**.
+I will try to grab an overview and summarize the first chosen paper and send to my supervisor to see if it worth to dig deeper. I don't want to be a lazy dick, I have to make sure that I know the shit I am doing and **my supervisor is really my supervisor, not my babysitter**.
 
 ### A Hybrid Quantum-Classical Approach to Solving Scheduling Problems
 
