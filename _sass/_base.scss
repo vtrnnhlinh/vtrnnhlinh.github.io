@@ -15,8 +15,11 @@ em,
 div,
 li,
 span,
-strong {
+p {
   color: var(--global-text-color);
+}
+strong {
+  color: #{$gruvbox-light-green};
 }
 em {
   color: #{$gruvbox-purple};

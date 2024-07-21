@@ -55,7 +55,7 @@ from "Notes"  // Optional: specify the folder if you want to narrow down the sea
 where contains(file.tags, "#academic/thesis") and contains(file.tags, "#academic/papers")
 sort file.ctime asc
 ```
-```
+
 
 The result I have:
 
