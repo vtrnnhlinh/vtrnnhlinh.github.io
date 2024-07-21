@@ -71,7 +71,7 @@ I will try to grab an overview and summarize the first chosen paper and send to 
 
 ### A Hybrid Quantum-Classical Approach to Solving Scheduling Problems
 
-Because this series is purely about my progress, not the content of my progress. So if you want to check out my note about this paper, please visit my [ObsidianVault link of this paper](https://github.com/vtrnnhlinh/ObsidianVault/blob/main/Notes/A%20Hybrid%20Quantum-Classical%20Approach%20to%20Solving%20Scheduling%20Problems.md).
+Because this series is purely about my progress, not the content of my progress. So if you want to check out my note about this paper, please wait for another post or email me.
 
 I sent the link of the paper and my note, don't be shy Linh. You have to grow up.
 
