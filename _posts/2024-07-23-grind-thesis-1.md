@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Grindin' Thesis Journal - 20240722
-date: 2024-07-22 00:25:00 +0700
+date: 2024-07-23 01:15:00 +0700
 categories: [Journal of Sciences]
 tags: [academic, thesis, quantum, cse]     # TAG names should always be lowercase
 giscus_comments: true
