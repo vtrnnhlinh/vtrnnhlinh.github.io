@@ -24,7 +24,9 @@ Welcome to my personal blog.
 
 I am Linh, currently I am a Computer Engineering student at HCMUT, VNU-HCM.
 
-At the moment, I am working as an Embedded Systems Intern at [Vierobot](https://www.linkedin.com/company/vierobot/), a startup company. I have a chance to learn from talented, professional colleagues.
+Currently, I want to focus on my Thesis about Scheduling Quantum-Classical Computing. I am specially interested in Circuit Cutting, a part of this topic. How and why they can do that?
+
+In the past, I worked as an Embedded Systems Intern at [Vierobot](https://www.linkedin.com/company/vierobot/), a startup company. I had a chance to learn from talented, professional colleagues.
 
 In the future, I want to become a researcher in Quantum Computing field. My current chosen niche topic is Scheduling Quantum-Classical Computing. Making the algorithm/computing neat, optimized and effective is always my dream *chef kiss*. In the future, maybe I will dig broader to related exciting fields, but I will focus on this topic first.
 
