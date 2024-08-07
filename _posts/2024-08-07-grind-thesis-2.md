@@ -17,11 +17,11 @@ Oh well... Sorry for my disappearance. Mental breakdown is always horrible :blus
 
 I have 3 main tasks for today:
 
-- [ ] Structure and update the papers and resources
+- [x] Structure and update the papers and resources
 - [ ] Prepare presentation
    - [ ] State your concerns
    - [ ] Show what you digged
-- [ ] Ace the meeting
+- [x] Ace the meeting
 
 
 ## Reorganize the squad, ahead the march!
@@ -30,17 +30,20 @@ I barely do anything past 2 weeks, so now I need to be calm and grab an overview
 
 ### Papers I am focusing
 
+I am focusing on *Clifford-based Circuit Cutting for Quantum Simulation*, hoping that I can run the code of them, but I can't find anywhere. Or maybe I wasn't focus enough to see.
+
 ### New suggested papers
 
-### New other resources
+My supervisors sent some more paper about scheduling, even something called QOS: Quantum Operating System. There is a paper about new way to structure data with graphs, I feel interested and sense there is a connection between it and Quantum.
 
-## Presentation!
 
-### My ideas
-
-### My concerns
-
-### What I did
+- Fluxion: A Scalable Graph-Based Resource Model for HPC Scheduling Challenges
+- Scaling Quantum Computations via Gate Virtualization
+- QOS: A Quantum Operating System
+- Integration of Quantum Accelerators into HPC: Toward a Unified Quantum Platform
 
 ## Review about the meeting
+
+My teammate took 1 hour 30 minutes to present, while I only took about 5-15min. Feel kinda ashamed if you asked. But at least my direction is appreciated by my supervisors.
+I wanted to run the code of papers but I don't know how, so my supervisors told me to run the simple program from Qiskit and PennyAI first.
 
