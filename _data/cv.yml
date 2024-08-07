@@ -28,14 +28,16 @@
       institution: High Performance Quantum Computing Team - HCMUT, VNU-HCM
       year: 2024
       description:
+        - Research Scheduling Quantum-Classical Computing, specially Circuit Cutting
         - Learn about Quantum Computing
     - title: IoT & Embedded Systems Intern
       institution: Vierobot Company
-      year: 2024
+      year: Apr 2024 - Aug 2024
       description:
-        - Develop C firmware of the controller for Viercycle products
+        - Develop the protocol between Display Screen and Controller
+        - Use C/C++, Arduino, NRF SDK, OpenOCD, powered by nvim and Makefile
         - Experience protocols like UART or I2C
-        - Collaborate with other colleagues through Agile, Scrum
+        - Collaborate with other colleagues through Agile, Scrum, Git
 
 - title: Certificates
   type: time_table
