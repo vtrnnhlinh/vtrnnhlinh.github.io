@@ -32,7 +32,7 @@
         - Learn about Quantum Computing
     - title: IoT & Embedded Systems Intern
       institution: Vierobot Company
-      year: Apr 2024 - Aug 2024
+      year: Apr - Aug 2024
       description:
         - Develop the protocol between Display Screen and Controller
         - Use C/C++, Arduino, NRF SDK, OpenOCD, powered by nvim and Makefile
