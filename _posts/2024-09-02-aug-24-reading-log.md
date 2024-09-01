@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Agust 24 Reading Log
+title: August 24 Reading Log
 date: 2024-09-02 01:50:00 +0700
 categories: [Journal of Sciences]
 tags: [books, reading]     # TAG names should always be lowercase
