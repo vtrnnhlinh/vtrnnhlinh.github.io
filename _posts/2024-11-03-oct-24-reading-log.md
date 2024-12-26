@@ -45,7 +45,7 @@ It's suprisingly easier to read than I expect. The way my greatest man explain i
 
 Rate: :star::star::star::star::star:
 
-## 39. Dao - Osho
+## 30. Dao - Osho
 
 This isn't a new read. I was shocked by this book before. After this re-read, I wasn't shocked like before, but still a fresh view about Tao. And now I am more mature and realize that: this is a view about Tao of Osho. It doesn't mean Tao is actually like that, I will have my own explaination and view of it.
 
