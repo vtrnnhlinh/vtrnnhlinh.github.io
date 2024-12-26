@@ -3,7 +3,7 @@ layout: post
 title: Đại đội trưởng của tôi - của anh, của chúng ta
 date: 2024-11-03 16:15:00 +0700
 categories: [Stories of Culture]
-tags: [Drama]
+tags: [Chèo]
 giscus_comments: true
 toc:
    sidebar: right
