@@ -15,7 +15,7 @@ Cũng ngẫu nhiên thôi, nhà mình đang có ý định chuẩn bị quà cho
 
 ## 1. Giác đầu 
 
-Hề chèo đại diện cho ý chí nguyện vọng của nông dân lao khổ $\rightarrow$ đả phá chế độ đương thời và tự cổ vũ mình.
+Hề chèo đại diện cho ý chí nguyện vọng của nông dân lao khổ -> đả phá chế độ đương thời và tự cổ vũ mình.
 
 Tuy nhiên, việc **nghiên cứu, đánh giá khó khăn vô cùng**.
 
@@ -23,7 +23,7 @@ Tuy nhiên, việc **nghiên cứu, đánh giá khó khăn vô cùng**.
 
 - Khi chèo xuất hiện thì hề chèo cũng ra đời 
 - Hề chèo dựa vững chắc trên cơ sở trò nhại. Là nhại về mặt bản chất, không phải nhại về mặt hình thức, người xem nảy ra được sự đồng cảm
-- Mô phỏng cuộc sống để mua vui $\rightarrow$ vũ khí đấu tranh giai cấp
+- Mô phỏng cuộc sống để mua vui -> vũ khí đấu tranh giai cấp
 
 ## 3. Nội dung hề chèo
 
@@ -35,7 +35,7 @@ Xã hội trong hề chèo muôn màu, con người trong hề chèo thường l
 
 - Đứng trên quan điểm nhân dân lao động
 - Đi tìm nguồn gốc hiện thực xã hội, giải đáp theo tiến hóa luận và quyết định luận nguyên thủy
-- Mâu thuẫn quan điểm giai cấp tự phát $\rightarrow$ giá trị hiện thực phản phong và lạc hậu
+- Mâu thuẫn quan điểm giai cấp tự phát -> giá trị hiện thực phản phong và lạc hậu
 
 ## 5. Nghệ thuật của hề chèo
 
@@ -46,7 +46,7 @@ Xã hội trong hề chèo muôn màu, con người trong hề chèo thường l
   + Bỏ lửng (ý tại ngôn ngoại)
   + Chơi chữ
   + Câu đố
-- Tập trung khai thác 1 vài nét bản chất $\rightarrow$ biện pháp phóng đại
+- Tập trung khai thác 1 vài nét bản chất -> biện pháp phóng đại
 - Tình huống bất ngờ và dùng biện pháp đốn tỏa 
 
 ## 6. Biểu diễn của hề chèo 
@@ -55,11 +55,11 @@ Giễu hình, hóa trang
 
 ## 7. Hạn chế
 
-- Không mang lại ý nghĩa cải tạo xã hội $\rightarrow$ không có ý khẳng định vai trò ưu thắng của người lao động
+- Không mang lại ý nghĩa cải tạo xã hội -> không có ý khẳng định vai trò ưu thắng của người lao động
 - Nặng tự nhiên chủ nghĩa
 - Thái độ yêu ghét cuộc sống rõ ràng
-- Tùy tiện, tàn dư ứng diễn $\rightarrow$ lê thê mua vui không mục đích
-- Hài ngôn ngữ $\rightarrow$ câu chuyện dậm chân tại chỗ
+- Tùy tiện, tàn dư ứng diễn -> lê thê mua vui không mục đích
+- Hài ngôn ngữ -> câu chuyện dậm chân tại chỗ
 
 ## 8. Phân loại
 
