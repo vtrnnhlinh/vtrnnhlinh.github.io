@@ -13,7 +13,7 @@ I even plan not to write about December cause I am lazy... But I need to record 
 
 ---
 
-32. Meditations - Marcus Aurelius
+## 32. Meditations - Marcus Aurelius
 
 A book needs time and effort to absorb. And have to admit, I haven't get it fully. But I love the vibe and the soul of writer. Gonna re-read again and again.
 
