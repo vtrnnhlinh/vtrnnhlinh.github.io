@@ -24,13 +24,32 @@ I am responsible for the core of this project. But I don't experienced before. T
 
 After a while, I follow a Reddit post about `three.js` and `ar.js`, and even there is [AR-Examples](https://github.com/stemkoski/AR-Examples) by `stemkoski` to modify.
 
-Why I don't use default features of iOS or Android?
+> Why I don't use default features of iOS or Android?
 
 I have no experience with mobile development before, and especially I don't have a iPhone to test, while I know a lot of people in Vietnam use iPhone. So the only solution is a website to run AR.
 
-## II. Products
+## II. Progress
 
 Based on the AR-Examples repo, I fork into my group's repo and deploy on Github: [phocheo.github.io](https://phocheo.github.io/AR/)
 
+Things I did to make the examples repo suits in my need:
+
+- Change the plane size
+- Test and change video codec
+- Make the video pause when not playing 
+- Delete unnecessary pages to make the repo lighter
+
+Website to make AR markers: [AR.js Marker Training](https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html)
+
+### III. Results
+
 The markers to test: [phocheo.github.io/markers](https://github.com/phocheo/AR/tree/master/markers)
+
+AR Website: [phocheo.github.io/AR](https://phocheo.github.io/AR/)
+
+Some images to show products:
+
+![Marker_1](assets/img/WebAR_1.png)
+
+![Marker_2](assets/img/WebAR_2.png)
 
