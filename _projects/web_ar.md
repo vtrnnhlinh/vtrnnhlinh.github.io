@@ -49,7 +49,5 @@ AR Website: [phocheo.github.io/AR](https://phocheo.github.io/AR/)
 
 Some images to show products:
 
-![Marker_1](assets/img/WebAR_1.png)
-
-![Marker_2](assets/img/WebAR_2.png)
-
+{% include figure.liquid path="assets/img/WebAR_1.png" title="Marker 1" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid path="assets/img/WebAR_2.png" title="Marker 2" class="img-fluid rounded z-depth-1" %}
