@@ -2,7 +2,7 @@
 layout: post
 title: first month internship 
 date: 2024-06-09 02:30:00 +0700
-categories: [Linh the Engineer, ]
+categories: [Linh the Scientist]
 tags: [cse, career, firmware]     # TAG names should always be lowercase
 giscus_comments: true
 toc:

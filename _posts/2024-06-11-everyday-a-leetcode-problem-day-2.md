@@ -2,7 +2,7 @@
 layout: post
 title: Everyday a Leetcode Problem - 27. Remove Elements 
 date: 2024-06-11 06:00:00 +0700
-categories: Linh the Engineer
+categories: [Linh the Scientist]
 tags: [cse, dsa]     # TAG names should always be lowercase
 giscus_comments: true
 toc:
