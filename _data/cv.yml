@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 10th November 2003
     - name: Email
-      value: vtrnnhlinh@outlook.com
+      value: vtrnnhlinh@gmail.com
     - name: Personal Phone
       value: (+84) 865 167 913
     - name: Languages
@@ -28,8 +28,7 @@
       institution: High Performance Quantum Computing Team - HCMUT, VNU-HCM
       year: 2024
       description:
-        - Research Scheduling Quantum-Classical Computing, specially Circuit Cutting
-        - Learn about Quantum Computing
+        - Work on Scheduling Resources in Quantum Computing
     - title: IoT & Embedded Systems Intern
       institution: Vierobot Company
       year: Apr - Aug 2024
