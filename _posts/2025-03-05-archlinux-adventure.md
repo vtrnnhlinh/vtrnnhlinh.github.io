@@ -35,19 +35,19 @@ Then I had to insert the USB third time to install internet and GUI. I choose KD
 
 So, here we are:
 
-![arch screen](/assets/img/arch_screen.png)
+{% include figure.liquid loading="eager" path="assets/img/arch_screen.png" class="img-fluid rounded z-depth-1" zoomable=true %}
 
 ## My Arch Setup
 
-I use Sweet Theme and Candy icons of this chad [EliverLara](https://github.com/EliverLara)
+I use **Sweet Theme and Candy icons** of this chad [EliverLara](https://github.com/EliverLara)
 
-My main coding editor: nvim with AstroNvim+Konsole. I don't reuse my nvim setup at Pop!_OS. I tried to switch to Nvchad but I am not familiar with its workflow. Kitty terminal's NerdFont problem made me feel tired.
+My main coding editor: **nvim with AstroNvim+Konsole**. I don't reuse my nvim setup at Pop!_OS. I tried to switch to Nvchad but I am not familiar with its workflow. Kitty terminal's NerdFont problem made me feel tired.
 
-Terminal emulator: Alacritty. I love its opacity :wink:
+Terminal emulator: **Alacritty**. I love its opacity :wink:
 
-My note-taking and research setup: Zotero+Obsidian. I tried to use Mendeley but it's too slow to me. And maybe I will write a tutorial another day to show my workflow of Zotero+Obsidian.
+My note-taking and research setup: **Zotero+Obsidian**. I tried to use Mendeley but it's too slow to me. And maybe I will write a tutorial another day to show my workflow of Zotero+Obsidian.
 
-Mail Client: Thunderbird. Can't find better solution.
+Mail Client: **Thunderbird**. Can't find better solution.
 
-Browser: Firefox. But with the drama recently about its privacy. I am considering other options.
+Browser: **Firefox**. But with the drama recently about its privacy. I am considering other options.
 
