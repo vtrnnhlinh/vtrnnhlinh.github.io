@@ -20,6 +20,6 @@ In this blog, I hope I can share my memories, my ideas or some trivia tips for y
 
 I don't think you can learn anything in details from me, but I hope I can inspire my random visitor.
 
-Thank you so much and don't afraid to left me a note that you visited here 
+Thank you so much and don't afraid to left me a note that you visited here.
 
 Linh.
