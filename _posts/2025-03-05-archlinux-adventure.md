@@ -30,10 +30,6 @@ When I remove the media, boot into arch. **Boom**. It's a black screen, no GUI n
 
 Then I had to insert the USB third time to install internet and GUI. I choose KDE as it seems better than GNOME. (Or maybe the grass is greener on the other side).
 
-So, here we are:
-
-{% include figure.liquid loading="eager" path="assets/img/arch_screen.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-
 ## My Arch Setup
 
 I use **Sweet Theme and Candy icons** of this chad [EliverLara](https://github.com/EliverLara)
