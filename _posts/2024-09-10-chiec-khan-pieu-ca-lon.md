@@ -3,7 +3,7 @@ layout: post
 title: Khăn Piêu rơi ở chốn nào - Để người khách cũ lao xao trong lòng
 date: 2024-09-10 04:15:00 +0700
 categories: [Stories of Culture]
-tags: [Music]
+tags: [music]
 ---
 
 Đại văn hào Victor Hugo từng có một câu nói mà mình tạm dịch là: "*Lịch sử là gì? Là tiếng vọng của quá khứ tới tương lai; là phản chiếu của tương lai về quá khứ*".
