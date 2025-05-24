@@ -4,7 +4,7 @@
 
 title: Linh's Logbook # the website title (if blank, full name will be used instead)
 first_name: Linh
-middle_name: 
+middle_name:
 last_name: Vo
 contact_note: >
   Email me if you have any interesting things to share!
@@ -122,7 +122,7 @@ disqus_shortname: al-folio # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 # external_sources:
 #  - name: medium.com
-#    rss_url: 
+#    rss_url:
 #  - name: Google Blog
 #    posts:
 #      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
