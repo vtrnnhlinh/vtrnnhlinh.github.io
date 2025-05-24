@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://vtrnnhlinh.github.io//sitemap.xml
+Sitemap: https://vtrnnhlinh.github.io/sitemap.xml
