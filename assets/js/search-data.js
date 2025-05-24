@@ -204,17 +204,6 @@ ninja.data = [{
             window.location.href = "/blog/2024/chartjs/";
           
         },
-      },{id: "post-my-ielts-journey-an-honest-review-and-some-advice",
-        
-          title: "My IELTS Journey - an honest review and some advice",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/ielts-review/";
-          
-        },
       },{id: "post-a-post-with-tikzjax",
         
           title: "a post with TikZJax",
