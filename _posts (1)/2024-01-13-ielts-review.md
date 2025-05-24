@@ -4,10 +4,6 @@ title: My IELTS Journey - an honest review and some advice
 date: 2024-01-13 06:00:00 +0700
 categories: [Journal of Sciences]
 tags: [english, exam]     # TAG names should always be lowercase
-giscus_comments: true
-related_posts: true
-toc:
-  sidebar: right
 ---
 
 Finally, I got my IELTS certificate. Even though I got a normal result (6.5), but I guess this is a fun journey to share.
