@@ -72,323 +72,136 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-i-am-using-arch-btw",
+            },{id: "post-a-post-with-plotly-js",
         
-          title: "I am using Arch, btw",
+          title: "a post with plotly.js",
         
-        description: "",
+        description: "this is what included plotly.js code could look like",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/archlinux-adventure/";
+            window.location.href = "/blog/2025/plotly/";
           
         },
-      },{id: "post-january-2025-reading-log",
+      },{id: "post-a-post-with-image-galleries",
         
-          title: "January 2025 Reading Log",
+          title: "a post with image galleries",
         
-        description: "",
+        description: "this is what included image galleries could look like",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/jan-25-reading-log/";
+            window.location.href = "/blog/2024/photo-gallery/";
           
         },
-      },{id: "post-my-personal-experience-things-students-should-know-before-internship",
+      },{id: "post-a-post-with-tabs",
         
-          title: "my personal experience - things students should know before internship",
+          title: "a post with tabs",
         
-        description: "",
+        description: "this is what included tabs in a post could look like",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/things-students-should-know-before-internship/";
+            window.location.href = "/blog/2024/tabs/";
           
         },
-      },{id: "post-deccember-24-reading-log",
+      },{id: "post-a-post-with-typograms",
         
-          title: "Deccember 24 Reading Log",
+          title: "a post with typograms",
         
-        description: "",
+        description: "this is what included typograms code could look like",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/dec-24-reading-log/";
+            window.location.href = "/blog/2024/typograms/";
           
         },
-      },{id: "post-học-về-hề-chèo",
+      },{id: "post-a-post-that-can-be-cited",
         
-          title: "Học về Hề Chèo",
+          title: "a post that can be cited",
         
-        description: "",
+        description: "this is what a post that can be cited looks like",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/hoc-ve-he-cheo/";
+            window.location.href = "/blog/2024/post-citation/";
           
         },
-      },{id: "post-november-24-reading-log",
+      },{id: "post-a-post-with-pseudo-code",
         
-          title: "November 24 Reading Log",
+          title: "a post with pseudo code",
         
-        description: "",
+        description: "this is what included pseudo code could look like",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/nov-24-reading-log/";
+            window.location.href = "/blog/2024/pseudocode/";
           
         },
-      },{id: "post-grindin-39-thesis-journal-midterm-report-and-research-stage-1",
+      },{id: "post-a-post-with-code-diff",
         
-          title: "Grindin&#39; Thesis Journal - Midterm Report and Research Stage 1",
+          title: "a post with code diff",
         
-        description: "",
+        description: "this is how you can display code diffs",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/grind-thesis-3/";
+            window.location.href = "/blog/2024/code-diff/";
           
         },
-      },{id: "post-october-24-reading-log",
+      },{id: "post-a-post-with-advanced-image-components",
         
-          title: "October 24 Reading Log",
+          title: "a post with advanced image components",
         
-        description: "",
+        description: "this is what advanced image components could look like",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/oct-24-reading-log/";
+            window.location.href = "/blog/2024/advanced-images/";
           
         },
-      },{id: "post-đại-đội-trưởng-của-tôi-của-anh-của-chúng-ta",
+      },{id: "post-a-post-with-vega-lite",
         
-          title: "Đại đội trưởng của tôi - của anh, của chúng ta",
+          title: "a post with vega lite",
         
-        description: "",
+        description: "this is what included vega lite code could look like",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/dai-doi-truong-cua-toi-cua-anh-cua-chung-ta/";
+            window.location.href = "/blog/2024/vega-lite/";
           
         },
-      },{id: "post-khăn-piêu-rơi-ở-chốn-nào-để-người-khách-cũ-lao-xao-trong-lòng",
+      },{id: "post-a-post-with-geojson",
         
-          title: "Khăn Piêu rơi ở chốn nào - Để người khách cũ lao xao...",
+          title: "a post with geojson",
         
-        description: "",
+        description: "this is what included geojson code could look like",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/chiec-khan-pieu-ca-lon/";
+            window.location.href = "/blog/2024/geojson-map/";
           
         },
-      },{id: "post-august-24-reading-log",
+      },{id: "post-a-post-with-echarts",
         
-          title: "August 24 Reading Log",
+          title: "a post with echarts",
         
-        description: "",
+        description: "this is what included echarts code could look like",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/aug-24-reading-log/";
+            window.location.href = "/blog/2024/echarts/";
           
         },
-      },{id: "post-grindin-39-thesis-journal-20240807",
+      },{id: "post-a-post-with-chart-js",
         
-          title: "Grindin&#39; Thesis Journal - 20240807",
+          title: "a post with chart.js",
         
-        description: "",
+        description: "this is what included chart.js code could look like",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/grind-thesis-2/";
-          
-        },
-      },{id: "post-everyday-a-leetcode-problem-26-remove-duplicates-from-sorted-array",
-        
-          title: "Everyday a Leetcode Problem - 26. Remove Duplicates from Sorted Array",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/everyday-a-leetcode-problem-day-4/";
-          
-        },
-      },{id: "post-july-24-reading-log",
-        
-          title: "July 24 Reading Log",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/july-24-reading-log/";
-          
-        },
-      },{id: "post-grindin-39-thesis-journal-20240722",
-        
-          title: "Grindin&#39; Thesis Journal - 20240722",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/grind-thesis-1/";
-          
-        },
-      },{id: "post-grindin-39-thesis-journal-20240721",
-        
-          title: "Grindin&#39; Thesis Journal - 20240721",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/grind-thesis-0/";
-          
-        },
-      },{id: "post-june-24-reading-log",
-        
-          title: "June 24 Reading Log",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/june-24-reading-log/";
-          
-        },
-      },{id: "post-everyday-a-leetcode-problem-26-remove-duplicates-from-sorted-array",
-        
-          title: "Everyday a Leetcode Problem - 26. Remove Duplicates from Sorted Array",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/everyday-a-leetcode-problem-day-3/";
-          
-        },
-      },{id: "post-everyday-a-leetcode-problem-27-remove-elements",
-        
-          title: "Everyday a Leetcode Problem - 27. Remove Elements",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/everyday-a-leetcode-problem-day-2/";
-          
-        },
-      },{id: "post-quantum-first-reflection",
-        
-          title: "Quantum first reflection",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/quantum-first-reflection/";
-          
-        },
-      },{id: "post-everyday-a-leetcode-problem-88-merge-sorted-array",
-        
-          title: "Everyday a Leetcode Problem - 88. Merge Sorted Array",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/everyday-a-leetcode-problem-day-1/";
-          
-        },
-      },{id: "post-first-month-internship",
-        
-          title: "first month internship",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/first-month-internship/";
-          
-        },
-      },{id: "post-my-neovim-kickstart-new-tool-that-i-love",
-        
-          title: "my neovim kickstart - new tool that I love",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/my-nvim-kickstart/";
-          
-        },
-      },{id: "post-may-24-reading-log",
-        
-          title: "May 24 Reading Log",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/may-24-reading-log/";
-          
-        },
-      },{id: "post-april-24-reading-log",
-        
-          title: "April 24 Reading Log",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/apr-24-reading-log/";
-          
-        },
-      },{id: "post-from-first-interview-to-first-internship",
-        
-          title: "From First Interview to First Internship",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/from-first-interview-to-first-internship/";
-          
-        },
-      },{id: "post-march-24-reading-log",
-        
-          title: "March 24 Reading Log",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/mar-24-reading-log/";
-          
-        },
-      },{id: "post-february-24-reading-log",
-        
-          title: "February 24 Reading Log",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/feb-24-reading-log/";
-          
-        },
-      },{id: "post-january-24-reading-log",
-        
-          title: "January 24 Reading Log",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/jan-24-reading-log/";
+            window.location.href = "/blog/2024/chartjs/";
           
         },
       },{id: "post-my-ielts-journey-an-honest-review-and-some-advice",
@@ -400,6 +213,215 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/ielts-review/";
+          
+        },
+      },{id: "post-a-post-with-tikzjax",
+        
+          title: "a post with TikZJax",
+        
+        description: "this is what included TikZ code could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/tikzjax/";
+          
+        },
+      },{id: "post-a-post-with-bibliography",
+        
+          title: "a post with bibliography",
+        
+        description: "an example of a blog post with bibliography",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/post-bibliography/";
+          
+        },
+      },{id: "post-a-post-with-jupyter-notebook",
+        
+          title: "a post with jupyter notebook",
+        
+        description: "an example of a blog post with jupyter notebook",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/jupyter-notebook/";
+          
+        },
+      },{id: "post-a-post-with-custom-blockquotes",
+        
+          title: "a post with custom blockquotes",
+        
+        description: "an example of a blog post with custom blockquotes",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/custom-blockquotes/";
+          
+        },
+      },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
+        
+          title: "a post with table of contents on a sidebar",
+        
+        description: "an example of a blog post with table of contents on a sidebar",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/sidebar-table-of-contents/";
+          
+        },
+      },{id: "post-a-post-with-audios",
+        
+          title: "a post with audios",
+        
+        description: "this is what included audios could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/audios/";
+          
+        },
+      },{id: "post-a-post-with-videos",
+        
+          title: "a post with videos",
+        
+        description: "this is what included videos could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/videos/";
+          
+        },
+      },{id: "post-displaying-beautiful-tables-with-bootstrap-tables",
+        
+          title: "displaying beautiful tables with Bootstrap Tables",
+        
+        description: "an example of how to use Bootstrap Tables",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/tables/";
+          
+        },
+      },{id: "post-a-post-with-table-of-contents",
+        
+          title: "a post with table of contents",
+        
+        description: "an example of a blog post with table of contents",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/table-of-contents/";
+          
+        },
+      },{id: "post-a-post-with-giscus-comments",
+        
+          title: "a post with giscus comments",
+        
+        description: "an example of a blog post with giscus comments",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022/giscus-comments/";
+          
+        },
+      },{id: "post-a-post-with-redirect",
+        
+          title: "a post with redirect",
+        
+        description: "you can also redirect to assets like pdf",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/assets/pdf/example_pdf.pdf";
+          
+        },
+      },{id: "post-a-post-with-diagrams",
+        
+          title: "a post with diagrams",
+        
+        description: "an example of a blog post with diagrams",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2021/diagrams/";
+          
+        },
+      },{id: "post-a-distill-style-blog-post",
+        
+          title: "a distill-style blog post",
+        
+        description: "an example of a distill-style blog post and main elements",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2021/distill/";
+          
+        },
+      },{id: "post-a-post-with-twitter",
+        
+          title: "a post with twitter",
+        
+        description: "an example of a blog post with twitter",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2020/twitter/";
+          
+        },
+      },{id: "post-a-post-with-disqus-comments",
+        
+          title: "a post with disqus comments",
+        
+        description: "an example of a blog post with disqus comments",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/disqus-comments/";
+          
+        },
+      },{id: "post-a-post-with-math",
+        
+          title: "a post with math",
+        
+        description: "an example of a blog post with some math",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/math/";
+          
+        },
+      },{id: "post-a-post-with-code",
+        
+          title: "a post with code",
+        
+        description: "an example of a blog post with some code",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/code/";
+          
+        },
+      },{id: "post-a-post-with-images",
+        
+          title: "a post with images",
+        
+        description: "this is what included images could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/images/";
+          
+        },
+      },{id: "post-a-post-with-formatting-and-links",
+        
+          title: "a post with formatting and links",
+        
+        description: "march &amp; april, looking forward to summer",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/formatting-and-links/";
           
         },
       },{id: "books-the-godfather",
