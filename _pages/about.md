@@ -26,14 +26,13 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
 My dears,
 
 Royal poinciana trees already lit the skyhall in flame. I am Linh, my middle is Nha. My parents named me with the hope I would be an elegant lady.
 
 I have some sides of myself. I will introduce one by one.
 
-I am a Computer Engineering student of HCMUT-VNUHCM. I am working with Static Testing and Machine Learning. I have deep interests in C/C++, Linux, Quantum Computing and nvim. 
+I am a Computer Engineering student of HCMUT-VNUHCM. I am working with Static Testing and Machine Learning. I have deep interests in C/C++, Linux, Quantum Computing and nvim.
 
 Beside that, I have a passionate love for cultures and languages. I am pretty fluent in English, interested in German, Russian, Chinese and Latin. I love our culture, our traditional arts and lullabies.
 
