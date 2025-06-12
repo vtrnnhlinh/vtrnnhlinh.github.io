@@ -440,14 +440,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-start-my-internship-at-vierobot",
+            },},{id: "news-start-my-internship-at-vierobot",
           title: 'Start my internship at Vierobot',
           description: "",
           section: "News",},{id: "news-join-hpqc-team-hcmut",
           title: 'Join HPQC Team - HCMUT',
+          description: "",
+          section: "News",},{id: "news-start-my-internship-at-bgsv",
+          title: 'Start my internship at BGSV',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
