@@ -413,7 +413,12 @@ ninja.data = [{
           section: "News",},{id: "news-submit-the-hardcover-version-of-my-thesis-to-the-faculty",
           title: 'Submit the hardcover version of my Thesis to the Faculty',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-ar-cards-a-support-project-for-nsnd-tu-long",
+          title: 'AR Cards - a support project for NSND Tu Long',
+          description: "a post to share my ideas, progress and the result of my AR Cards project",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/AR_photocards/";
+            },},{
         id: 'social-discord',
         title: 'Discord',
         section: 'Socials',
