@@ -26,6 +26,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
 My dears,
 
 Royal poinciana trees already lit the skyhall in flame. I am Linh, my middle is Nha. My parents named me with the hope I would be an elegant lady.
