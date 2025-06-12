@@ -27,6 +27,22 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Linh,
+My dears,
 
-Bla
+Royal poinciana trees already lit the skyhall in flame. I am Linh, my middle is Nha. My parents named me with the hope I would be an elegant lady.
+
+I have some sides of myself. I will introduce one by one.
+
+I am a Computer Engineering student of HCMUT-VNUHCM. I am working with Static Testing and Machine Learning. I have deep interests in C/C++, Linux, Quantum Computing and nvim. 
+
+Beside that, I have a passionate love for cultures and languages. I am pretty fluent in English, interested in German, Russian, Chinese and Latin. I love our culture, our traditional arts and lullabies.
+
+Collecting books is also the biggest hobby of mine (next to sleeping).
+
+So in this blog, I will share maybe all about everything in my world.
+
+Sometimes it is a story, sometimes it is a point of view, maybe just a random bunch of paragraphs. But it is my genuine thinking and feeling.
+
+Don't hesitate to leave a comment, I am glad to receive interactions from others.
+
+Thank you for visiting my small corner.
