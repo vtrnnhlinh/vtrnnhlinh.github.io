@@ -396,12 +396,7 @@ ninja.data = [{
             window.location.href = "/blog/2015/images/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-start-my-internship-at-vierobot",
+      },{id: "news-start-my-internship-at-vierobot",
           title: 'Start my internship at Vierobot',
           description: "",
           section: "News",},{id: "news-join-hpqc-team-hcmut",
