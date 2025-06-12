@@ -413,12 +413,7 @@ ninja.data = [{
           section: "News",},{id: "news-submit-the-hardcover-version-of-my-thesis-to-the-faculty",
           title: 'Submit the hardcover version of my Thesis to the Faculty',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
+          section: "News",},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
