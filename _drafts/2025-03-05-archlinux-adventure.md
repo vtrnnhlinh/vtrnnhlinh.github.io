@@ -1,0 +1,46 @@
+---
+layout: post
+title: I am using Arch, btw
+date: 2025-03-05 02:45:00 +0700
+categories: [Journal of Sciences]
+tags: [linux, cse]     # TAG names should always be lowercase
+---
+
+At 2am, you know, holy hour of random ideas. I feel frustrated that I am using **Pop!_OS 22.04**. It's already 2025, we should have 24.04 version. Took me a while to do the research, and I heard that the dev team is migrating Pop!_OS to COSMOS. A uncerntain feeling captured my mind.
+
+> "What if they just drop out half way?"
+
+## What are my options?
+
+My mind wants to change to a new OS. What about Ubuntu? But it's too basic and Gnome has too much flaws, the idea of installing extensions and stuffs make me exhausted.
+
+Fedora? Kali Linux? Debian? Too many distros to choose, life is too short.
+
+I want a fun and challenging OS to play with. And yes, I choose **Arch**.
+
+Finally becoming an Arch user seems cool tbh.
+
+## Embrace the adventure
+
+It wasn't easy to install arch. I tried to follow the tutorial from chatGPT but it sucks when come to partitioning part.
+
+I had to install arch twice to be able to boot in. The dual boot story made me stuck for a while.
+
+When I remove the media, boot into arch. **Boom**. It's a black screen, no GUI no internet. Yup, I didn't believe that I have to install internet service manually.
+
+Then I had to insert the USB third time to install internet and GUI. I choose KDE as it seems better than GNOME. (Or maybe the grass is greener on the other side).
+
+## My Arch Setup
+
+I use **Sweet Theme and Candy icons** of this chad [EliverLara](https://github.com/EliverLara)
+
+My main coding editor: **nvim with AstroNvim+Konsole**. I don't reuse my nvim setup at Pop!_OS. I tried to switch to Nvchad but I am not familiar with its workflow. Kitty terminal's NerdFont problem made me feel tired.
+
+Terminal emulator: **Alacritty**. I love its opacity :wink:
+
+My note-taking and research setup: **Zotero+Obsidian**. I tried to use Mendeley but it's too slow to me. And maybe I will write a tutorial another day to show my workflow of Zotero+Obsidian.
+
+Mail Client: **Thunderbird**. Can't find better solution.
+
+Browser: **Firefox**. But with the drama recently about its privacy. I am considering other options.
+
