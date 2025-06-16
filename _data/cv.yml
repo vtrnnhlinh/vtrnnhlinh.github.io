@@ -15,7 +15,7 @@
       institution: Ho Chi Minh City University of Technology, VNU-HCM
       year: 2021-2025
       description:
-        - <b>Thesis</b> <a href="https://github.com/vtrnnhlinh/thesis/blob/main/HK242_264_DATN_LVTN_Finish_2111654_2110610.pdf">Studying and developing resource scheduling for quantum computing</a>.
+        - <b>Thesis</b> - <a href="https://github.com/vtrnnhlinh/thesis/blob/main/HK242_264_DATN_LVTN_Finish_2111654_2110610.pdf">Studying and developing resource scheduling for quantum computing</a>.
 
 - title: Experience
   type: time_table
@@ -45,7 +45,7 @@
   contents:
     - year: 2025
       items:
-        - C Programming: Getting Started - 1
+        - C Programming Getting Started - 1
         - Programming for Everybody (Getting Started with Python)
     - year: 2024
       items:
@@ -74,6 +74,6 @@
 - title: Other Interests
   type: list
   contents:
-    - <b>Natural Sciences</b> Mathematical Analysis, Linear Algebra, Discrete Mathematics
-    - <b>Social Sciences</b> Languages, Cultures, Literature
-    - <b>Technologies</b> nvim, archlinux
+    - <b>Natural Sciences</b> - Mathematical Analysis, Linear Algebra, Discrete Mathematics
+    - <b>Social Sciences</b> - Languages, Cultures, Literature
+    - <b>Technologies</b> - nvim, archlinux
