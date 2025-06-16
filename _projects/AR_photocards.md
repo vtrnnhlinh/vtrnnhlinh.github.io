@@ -2,8 +2,8 @@
 layout: page
 title: AR Cards - a support project for NSND Tu Long
 description: a post to share my ideas, progress and the result of my AR Cards project
-img: assets/img/1.jpg
-importance: 3
+img: assets/img/AR_photocards.png
+importance: 1
 category: fun
 toc:
   sidebar: right
