@@ -1,72 +1,87 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Vo Tran Nha Linh
-    - name: Date of Birth
-      value: 10th November 2003
-    - name: Languages
-      value: Vietnamese, English and German
+
+  - name: Full Name
+    value: Vo Tran Nha Linh
+  - name: Date of Birth
+    value: 10th November 2003
+  - name: Languages
+    value: Vietnamese, English and German
 
 - title: Education
   type: time_table
   contents:
-    - title: Bachelor
-      institution: Ho Chi Minh City University of Technology, VNU-HCM
-      year: 2021-2025
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+
+  - title: Bachelor
+    institution: Ho Chi Minh City University of Technology, VNU-HCM
+    year: 2021-2025
+    description:
+    - Thesis: [Studying and developing resource scheduling for quantum computing](https://github.com/vtrnnhlinh/thesis/blob/main/HK242_264_DATN_LVTN_Finish_2111654_2110610.pdf)
 
 - title: Experience
   type: time_table
   contents:
-    - title: Embedded Engineer Intern
-      institution: Bosch Global Software Technologies Vietnam (BGSV)
-      year: 04/2025-10/2025
-      description:
-        - Description 1.
-        - Description 2.
 
-    - title: Embedded System Intern
-      institution: Vierobot
-      year: 04/2024-08/2024
+  - title: Embedded Engineer Intern
+    institution: Bosch Global Software Technologies Vietnam (BGSV)
+    year: 04/2025-10/2025
+    description:
+
+    - **Static Testing** with **Astree**
+    - **Large Language Model** with **Mixture-of-Experts (MoE)**
+
+  - title: Embedded System Intern
+    institution: Vierobot
+    year: 04/2024-08/2024
+    description:
+
+    - **Communication** between display and controller
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
+  - title: <a href="https://github.com/phocheo/AR_photocards">AR Photocards</a>
+    year: 01/2025-03/2025
+    description: A simple Augmented Reality project to support idol made by `arjs` and `threejs`.
+
+- title: Certificates
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+
+  - year: 2025
+    items:
+    - C Programming: Getting Started - 1
+    - Programming for Everybody (Getting Started with Python)
+  - year: 2024
+    items:
+    - Interfacing with the Arduino
+  - year: 2023
+    items:
+    - EFSET English Certificate 73/100 (C2 Proficient)
+    - IELTS Academic 6.5
+    - Official CC Course Completion Certificate
+    - The Arduino Platform and C Programming
+  - year: 2022
+    items:
+    - Introduction to the Internet of Things and Embedded Systems
+    - Learning How to Learn: Powerful mental tools to help you master tough subjects
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+
+  - title: Quantum Computing
+    items:
+    - Scheduling HPQC Resources
+  - title: Large Language Model
+    items:
+    - Mixture-of-Experts (MoE)
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+  - **Social Sciences**: Languages, Cultures, Literature
+  - **Technologies**: nvim, archlinux, embedded devices
+  
