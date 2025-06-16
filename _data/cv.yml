@@ -15,7 +15,7 @@
       institution: Ho Chi Minh City University of Technology, VNU-HCM
       year: 2021-2025
       description:
-        - <b>Thesis</b>:<a href="https://github.com/vtrnnhlinh/thesis/blob/main/HK242_264_DATN_LVTN_Finish_2111654_2110610.pdf">Studying and developing resource scheduling for quantum computing</a>
+        - <b>Thesis</b> <a href="https://github.com/vtrnnhlinh/thesis/blob/main/HK242_264_DATN_LVTN_Finish_2111654_2110610.pdf">Studying and developing resource scheduling for quantum computing</a>.
 
 - title: Experience
   type: time_table
@@ -24,21 +24,21 @@
       institution: Bosch Global Software Technologies Vietnam (BGSV)
       year: 04/2025-10/2025
       description:
-        - <b>Static Testing</b> with Astree
-        - <b>Large Language Model</b> with Mixture-of-Experts (MoE)
+        - <b>Static Testing</b> with Astree.
+        - <b>Large Language Model</b> with Mixture-of-Experts (MoE).
 
     - title: Embedded System Intern
       institution: Vierobot
       year: 04/2024-08/2024
       description:
-        - <b>Communication</b> between display and controller
+        - <b>Communication</b> between display and controller.
 
 - title: Projects
   type: time_table
   contents:
     - title: <a href="https://github.com/phocheo/AR_photocards">AR Photocards</a>
       year: 01/2025-03/2025
-      description: A simple Augmented Reality project to support idol made by `arjs` and `threejs`.
+      description: A simple Augmented Reality project to support idol made by <code>arjs</code> and <code>threejs</code>.
 
 - title: Certificates
   type: time_table
@@ -59,7 +59,7 @@
     - year: 2022
       items:
         - Introduction to the Internet of Things and Embedded Systems
-        - Learning How to Learn: Powerful mental tools to help you master tough subjects
+        - Learning How to Learn Powerful mental tools to help you master tough subjects
 
 - title: Academic Interests
   type: nested_list
@@ -74,6 +74,6 @@
 - title: Other Interests
   type: list
   contents:
-    - <b>Natural Sciences</b>: Mathematical Analysis, Linear Algebra, Discrete Mathematics
-    - <b>Social Sciences</b>: Languages, Cultures, Literature
-    - <b>Technologies</b>: nvim, archlinux
+    - <b>Natural Sciences</b> Mathematical Analysis, Linear Algebra, Discrete Mathematics
+    - <b>Social Sciences</b> Languages, Cultures, Literature
+    - <b>Technologies</b> nvim, archlinux
