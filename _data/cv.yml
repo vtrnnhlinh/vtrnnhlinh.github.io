@@ -74,5 +74,6 @@
 - title: Other Interests
   type: list
   contents:
-    - **Social Sciences**: Languages, Cultures, Literature
-    - **Technologies**: nvim, archlinux, embedded devices
+    - <b>Natural Sciences</b>: Mathematical Analysis, Linear Algebra, Discrete Mathematics
+    - <b>Social Sciences</b>: Languages, Cultures, Literature
+    - <b>Technologies</b>: nvim, archlinux
