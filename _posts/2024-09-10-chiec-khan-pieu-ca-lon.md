@@ -10,7 +10,8 @@ related_posts: true
 toc:
   sidebar: right
 ---
-Đại văn hào Victor Hugo từng có một câu nói mà mình tạm dịch là: "*Lịch sử là gì? Là tiếng vọng của quá khứ tới tương lai; là phản chiếu của tương lai về quá khứ*".
+
+Đại văn hào Victor Hugo từng có một câu nói mà mình tạm dịch là: "_Lịch sử là gì? Là tiếng vọng của quá khứ tới tương lai; là phản chiếu của tương lai về quá khứ_".
 
 Ngược dòng thời gian, quay về với "Chín năm làm một Điện Biên/ Nên cành hoa đỏ nên thiên sử vàng", ta có nhạc sĩ Doãn Nho thời trai trẻ phụng sự cho Cách mạng, cho Độc lập, Tự do của Dân tộc. Khi ấy, tình yêu quê hương đất nước, tình yêu đồng bào đã vượt lên trên tất cả thứ tình cảm khác.
 
@@ -42,17 +43,17 @@ Quay về hiện tại tới với tiết mục của Nhà Cá Lớn.
 
 Nghe chú Tự Long ngâm, lòng lại nghĩ tới mấy câu trong Chinh Phụ Ngâm của Đặng Trần Côn:
 
-> "Trang phong lưu đang chừng niên thiếu,  
+> "Trang phong lưu đang chừng niên thiếu,
 >
->Sánh nhau cùng dan díu chữ duyên.  
+> Sánh nhau cùng dan díu chữ duyên.
 >
-> Nỡ nào đôi lứa thiếu niên,  
+> Nỡ nào đôi lứa thiếu niên,
 >
 > Quan san để cách hàn huyên cho đành!"
 
 Chinh Phụ Ngâm là khúc ai oán của người thiếu phụ có chồng ra trận, mang đậm nỗi lo cho tình yêu lứa đôi của mình. Với nhà Cá lớn, tình yêu đôi lứa không dừng lại ở chút tình riêng nam nữ, mà được phát triển lên thành tình yêu quê hương đất nước.
 
-Trong tác phẩm Hoàng tử bé của Antoine de Saint-Exupéry có một câu như thế này: "*...Khi ông nhìn trời, bởi vì ở một trong những ngôi sao đó có tôi, bởi vì trong một ngôi sao đó có tôi cười, nên ông sẽ tưởng chừng tất cả các ngôi sao đều cười...*"
+Trong tác phẩm Hoàng tử bé của Antoine de Saint-Exupéry có một câu như thế này: "_...Khi ông nhìn trời, bởi vì ở một trong những ngôi sao đó có tôi, bởi vì trong một ngôi sao đó có tôi cười, nên ông sẽ tưởng chừng tất cả các ngôi sao đều cười..._"
 
 Phải chăng ở đây nhà Cá Lớn cũng nghĩ như vậy, khi nghĩ về bản làng, bởi vì ở một trong những bản làng đó có người con gái trao anh chiếc khăn Piêu, nên tất cả bản làng trở thành điểm tựa, lí do để anh chiến đấu.
 
@@ -93,3 +94,4 @@ Còn ti tỉ thứ để khen về các anh nhà Cá Lớn trong bài hát này 
 Rất xúc động khi nghe bài hát, rất tự hào về chú Tự Long khi được nghe chú chia sẻ về quá trình làm bài hát này.
 
 P/S: Người viết không có chuyên môn về văn hóa - nghệ thuật nên không tránh khỏi sai sót, rất mở lòng đón nhận góp ý.
+
