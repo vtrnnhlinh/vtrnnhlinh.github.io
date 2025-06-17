@@ -66,6 +66,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/chiec-khan-pieu-ca-lon/";
           
         },
+      },{id: "post-my-ielts-journey",
+        
+          title: "My IELTS Journey",
+        
+        description: "an honest review and my preparation for the exam",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/ielts-review/";
+          
+        },
       },{id: "news-start-my-internship-at-vierobot",
           title: 'Start my internship at Vierobot',
           description: "",
