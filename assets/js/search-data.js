@@ -81,7 +81,7 @@ ninja.data = [{
         
           title: "Quantum first reflection",
         
-        description: "a brief story of my try on archlinux",
+        description: "my first feeling when get into HPQC Team",
         section: "Posts",
         handler: () => {
           
