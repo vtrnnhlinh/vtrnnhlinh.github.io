@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-khăn-piêu-rơi-ở-chốn-nào-để-người-khách-cũ-lao-xao-trong-lòng",
+        },{id: "post-đại-đội-trưởng-của-tôi-của-anh-của-chúng-ta",
+        
+          title: "Đại đội trưởng của tôi - của anh, của chúng ta",
+        
+        description: "Cảm nhận về vở chèo Đại đội trưởng của tôi",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/dai-doi-truong-cua-toi/";
+          
+        },
+      },{id: "post-khăn-piêu-rơi-ở-chốn-nào-để-người-khách-cũ-lao-xao-trong-lòng",
         
           title: "Khăn Piêu rơi ở chốn nào - Để người khách cũ lao xao...",
         
