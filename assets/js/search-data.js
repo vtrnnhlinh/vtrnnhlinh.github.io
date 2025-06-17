@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-đại-đội-trưởng-của-tôi-của-anh-của-chúng-ta",
+        },{id: "post-i-use-arch-btw",
+        
+          title: "I use Arch, btw",
+        
+        description: "a brief story of my try on archlinux",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/arch/";
+          
+        },
+      },{id: "post-đại-đội-trưởng-của-tôi-của-anh-của-chúng-ta",
         
           title: "Đại đội trưởng của tôi - của anh, của chúng ta",
         
