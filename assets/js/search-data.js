@@ -44,18 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-khăn-piêu-rơi-ở-chốn-nào-để-người-khách-cũ-lao-xao-trong-lòng",
-        
-          title: "Khăn Piêu rơi ở chốn nào - Để người khách cũ lao xao...",
-        
-        description: "Cảm nhận về tiết mục Chiếc Khăn Piêu của nhà Cá Lớn trong chương trình ATVNCG 2024",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/chiec-khan-pieu-ca-lon/";
-          
-        },
-      },{id: "news-start-my-internship-at-vierobot",
+        },{id: "news-start-my-internship-at-vierobot",
           title: 'Start my internship at Vierobot',
           description: "",
           section: "News",},{id: "news-join-hpqc-team-hcmut",
