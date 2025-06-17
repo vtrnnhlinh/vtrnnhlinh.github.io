@@ -77,6 +77,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/chiec-khan-pieu-ca-lon/";
           
         },
+      },{id: "post-quantum-first-reflection",
+        
+          title: "Quantum first reflection",
+        
+        description: "a brief story of my try on archlinux",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/quantum-first-reflection/";
+          
+        },
       },{id: "post-my-neovim-kickstart-new-tool-that-i-love",
         
           title: "my neovim kickstart - new tool that I love",
