@@ -44,18 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-học-về-hề-chèo",
-        
-          title: "Học về Hề Chèo",
-        
-        description: "Một số kiến thức về Hề Chèo lượm lặt từ cuốn sách Hề Chèo của Hà Văn Cầu.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/he-cheo/";
-          
-        },
-      },{id: "post-khăn-piêu-rơi-ở-chốn-nào-để-người-khách-cũ-lao-xao-trong-lòng",
+        },{id: "post-khăn-piêu-rơi-ở-chốn-nào-để-người-khách-cũ-lao-xao-trong-lòng",
         
           title: "Khăn Piêu rơi ở chốn nào - Để người khách cũ lao xao...",
         
