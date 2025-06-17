@@ -77,6 +77,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/chiec-khan-pieu-ca-lon/";
           
         },
+      },{id: "post-my-neovim-kickstart-new-tool-that-i-love",
+        
+          title: "my neovim kickstart - new tool that I love",
+        
+        description: "a brief story of my try on archlinux",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/nvim-kickstart/";
+          
+        },
       },{id: "post-my-ielts-journey",
         
           title: "My IELTS Journey",
