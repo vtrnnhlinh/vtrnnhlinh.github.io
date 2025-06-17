@@ -7,8 +7,7 @@ tags: music vietnamese
 categories: Stories-of-Culture
 giscus_comments: true
 related_posts: true
-toc:
-  sidebar: right
+toc: false
 ---
 
 Đại văn hào Victor Hugo từng có một câu nói mà mình tạm dịch là:  
