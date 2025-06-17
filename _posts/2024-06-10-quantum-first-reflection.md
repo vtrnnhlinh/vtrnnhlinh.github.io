@@ -2,7 +2,7 @@
 layout: post
 title: Quantum first reflection
 date: 2024-06-10 05:20:00 +0700
-description: a brief story of my try on archlinux
+description: my first feeling when get into HPQC Team
 tags: cse english
 categories: Journal-of-Sciences
 giscus_comments: true
