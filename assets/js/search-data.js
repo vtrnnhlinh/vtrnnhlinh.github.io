@@ -88,6 +88,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/chiec-khan-pieu-ca-lon/";
           
         },
+      },{id: "post-mixture-of-experts-first-diggin-39",
+        
+          title: "Mixture-of-Experts - first diggin&#39;",
+        
+        description: "my first take when discovering MoE",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/moe-overview/";
+          
+        },
       },{id: "post-quantum-first-reflection",
         
           title: "Quantum first reflection",
