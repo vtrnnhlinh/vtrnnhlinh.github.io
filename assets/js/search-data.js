@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-i-use-arch-btw",
+        },{id: "post-i-am-done-my-thesis-so-what-39-s-next",
+        
+          title: "I am done my Thesis, so what&#39;s next?",
+        
+        description: "my sharing after finishing my thesis",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/thesis-reflection/";
+          
+        },
+      },{id: "post-i-use-arch-btw",
         
           title: "I use Arch, btw",
         
