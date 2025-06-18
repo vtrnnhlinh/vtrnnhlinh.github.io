@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: distill
 title: Mixture-of-Experts - first diggin'
 date: 2025-06-18 15:30:00 +0700
 description: my first take when discovering MoE
