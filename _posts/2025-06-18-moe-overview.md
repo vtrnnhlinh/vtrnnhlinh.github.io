@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mixture-of-Experts - first diggin'
-date: 2024-06-18 15:30:00 +0700
+date: 2025-06-18 15:30:00 +0700
 description: my first take when discovering MoE
 tags: cse ml moe english
 categories: Linh-the-Engineer
