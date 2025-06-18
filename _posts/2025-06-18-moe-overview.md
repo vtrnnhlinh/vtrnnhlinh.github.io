@@ -12,7 +12,7 @@ toc:
 related_publications: true
 ---
 
-At Bosch, I have a chance to discover about Machine Learning, specifically LLM and MoE. In this post I will share the content of my first presentation about Mixture-of-Experts (MoE). I take the structure and content mainly from a survey in 2025 {% cite mu2025comprehensive %} and some information from a survey in 2024 {% cite Cai_2025 %}.
+At Bosch, I have a chance to discover about Machine Learning, specifically LLM and MoE. In this post I will share the content of my first presentation about Mixture-of-Experts (MoE). I take the structure and content mainly from a survey in 2025 {% cite mu2025comprehensive %} and some information from a survey in 2024 {% cite cai2024survey %}.
 
 > **Disclaimer**: I am very noob in this field, I am not sure what I wrote in this post is true. But if I find out any problems, I will update.
 
@@ -46,7 +46,7 @@ We can categorise Gating Function into 3 types:
 
 ### Experts
 
-Experts are small LLM models that specialise in solving a defined dataset. The **Experts Network** based on Transformer {% cite vaswani2023attentionneed %} structure.
+Experts are small LLM models that specialise in solving a defined dataset. The **Experts Network** based on Transformer {% cite vaswani2017attention %} structure.
 
 There are 3 popular experts network method:
 
@@ -54,8 +54,8 @@ There are 3 popular experts network method:
   - Suitable to incorporate sparse activation mechanisms
   - Ideal choice for introducing the MoE mechanism
 - Apply MoE to the attention module in Transformer
-	- **MoA** {% cite wang2024moamixtureofattentionsubjectcontextdisentanglement %} Mixture-of-Attention – gating network to dynamically select the most relevant attention
-	- **MoH** {% cite jin2025mohmultiheadattentionmixtureofhead %} Mixture-of-Head attention – has great potential
+	- **MoA** {% cite wang2024moa %} Mixture-of-Attention – gating network to dynamically select the most relevant attention
+	- **MoH** {% cite jin2024moh %} Mixture-of-Head attention – has great potential
 - Apply MoE to CNN layer
 	- Fully leverage CNN’s strengths in local feature extraction 
 	- Apply mainly in Computer Vision field
