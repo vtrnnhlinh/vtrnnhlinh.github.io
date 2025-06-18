@@ -121,6 +121,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/nvim-kickstart/";
           
         },
+      },{id: "post-from-first-interview-to-first-internship",
+        
+          title: "From First Interview to First Internship",
+        
+        description: "my story and some sharings when I get into intership hunt",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/first-interview-first-internship/";
+          
+        },
       },{id: "post-my-ielts-journey",
         
           title: "My IELTS Journey",
