@@ -11,7 +11,7 @@ toc:
   sidebar: right
 ---
 
-I submitted the hardcover of my Thesis to my Faculty, so what will I do in near future? I once shared some details in this post <d-footnote><a href ="https://vtrnnhlinh.github.io/blog/2024/quantum-first-reflection/">Quantum first reflection</d-footnote>.
+I submitted the hardcover of my Thesis to my Faculty, so what will I do in near future? I once shared some details in this post <d-footnote>[Quantum first reflection](https://vtrnnhlinh.github.io/blog/2024/quantum-first-reflection/)</d-footnote>.
 
 But I think there are a lot of changes comparing to the post, so I will share some details, to clarify myself and give you some more information.
 
