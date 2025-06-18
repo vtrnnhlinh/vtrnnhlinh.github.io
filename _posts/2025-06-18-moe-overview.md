@@ -12,7 +12,7 @@ toc:
 related_publications: true
 ---
 
-At Bosch, I have a chance to discover about Machine Learning, specifically LLM and MoE. In this post I will share the content of my first presentation about Mixture-of-Experts (MoE). I take the structure and content mainly from a survey in 2025 (Mu et al, 2025) {% cite mu2025comprehensive %} and some information from a survey in 2024 {% cite cai2024survey %}
+At Bosch, I have a chance to discover about Machine Learning, specifically LLM and MoE. In this post I will share the content of my first presentation about Mixture-of-Experts (MoE). I take the structure and content mainly from a survey in 2025 {% cite mu2025comprehensive %} and some information from a survey in 2024 {% cite cai2024survey %}.
 
 > **Disclaimer**: I am very noob in this field, I am not sure what I wrote in this post is true. But if I find out any problems, I will update.
 
