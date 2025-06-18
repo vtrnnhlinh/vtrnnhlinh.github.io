@@ -7,6 +7,7 @@ tags: cse plans english
 categories: Journal-of-Sciences
 giscus_comments: true
 related_posts: true
+featured: true
 toc:
   sidebar: right
 ---
