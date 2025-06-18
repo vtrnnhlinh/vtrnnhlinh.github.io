@@ -3,7 +3,7 @@ layout: post
 title: Quantum first reflection
 date: 2024-06-10 05:20:00 +0700
 description: my first feeling when get into HPQC Team
-tags: cse english
+tags: cse qc english
 categories: Journal-of-Sciences
 giscus_comments: true
 related_posts: true
