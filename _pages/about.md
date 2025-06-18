@@ -27,19 +27,25 @@ latest_posts:
 
 My dears,
 
-Royal poinciana trees already lit the skyhall in flame. I am Linh, my middle is Nha. My parents named me with the hope I would be an elegant lady.
+I am Linh, my middle is Nha. My parents named me with the hope I would be an elegant lady.
 
 I have some sides of myself. I will introduce one by one.
 
-I am a Computer Engineering student of HCMUT-VNUHCM. I am working with Static Testing and Machine Learning. I have deep interests in C/C++, Linux, Quantum Computing and nvim.
+A Computer Engineer that works with Static Testing and Machine Learning. The [thesis](vtrhttps://github.com/vtrnnhlinh/thesis/blob/main/HK242_264_DATN_LVTN_Finish_2111654_2110610.pdf) is in Quantum Computing.
 
-Beside that, I have a passionate love for cultures and languages. I am pretty fluent in English, interested in German, Russian, Chinese and Latin. I love our culture, our traditional arts and lullabies.
+A tech nerd that loves C/C++, archlinux and nvim.
 
-Collecting books is also the biggest hobby of mine (next to sleeping).
+A knowledge seeker for cultures and languages, pretty fluent in English, interested in German, Russian, Chinese and Latin.
 
-So in this blog, I will share maybe all about everything in my world.
+A hopeless romantic soul that loves our culture, our traditional arts and lullabies.
+
+A bookworm loves LoTR and likes collecting special editions of favorite authors.
+
+So in this blog, I will share maybe all about everything in my world. You can imagine it's like a hotpot, you can find anything in it.
 
 Sometimes it is a story, sometimes it is a point of view, maybe just a random bunch of paragraphs. But it is my genuine thinking and feeling.
+
+I try to divide my contents into 3 categories and mainly written in 2 languages: Vietnamese and English.
 
 Don't hesitate to leave a comment, I am glad to receive interactions from others.
 
