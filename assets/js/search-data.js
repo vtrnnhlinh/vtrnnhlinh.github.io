@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-i-am-done-my-thesis-so-what-39-s-next",
+        },{id: "post-mixture-of-experts-first-diggin-39",
+        
+          title: "Mixture-of-Experts - first diggin&#39;",
+        
+        description: "my first take when discovering MoE",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/moe-overview/";
+          
+        },
+      },{id: "post-i-am-done-my-thesis-so-what-39-s-next",
         
           title: "I am done my Thesis, so what&#39;s next?",
         
@@ -86,17 +97,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/chiec-khan-pieu-ca-lon/";
-          
-        },
-      },{id: "post-mixture-of-experts-first-diggin-39",
-        
-          title: "Mixture-of-Experts - first diggin&#39;",
-        
-        description: "my first take when discovering MoE",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/moe-overview/";
           
         },
       },{id: "post-quantum-first-reflection",
