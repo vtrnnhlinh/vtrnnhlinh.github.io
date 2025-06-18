@@ -3,7 +3,7 @@ layout: post
 title: I am done my Thesis, so what's next?
 date: 2025-06-18 11:00:00 +0700
 description: my sharing after finishing my thesis
-tags: cse english
+tags: cse plans english
 categories: Journal-of-Sciences
 giscus_comments: true
 related_posts: true
