@@ -118,7 +118,7 @@ The products has a lot of feedbacks on Threads, both in videos and images. I wil
     </div>
 </div>
 <div class="caption">
-    Nguồn: <a href= "https://www.threads.com/@hnm.hanh/post/DIGqJ_bTsUj?xmt=AQF0Aq88IVr3TfHBbdaUONr6HAYN6cvL4CoOV_9ecp3kww">@hnm.hanh</a> và <a href= "https://www.threads.com/@thao_sayaka/post/DIOXDfSSF-u?xmt=AQF0Aq88IVr3TfHBbdaUONr6HAYN6cvL4CoOV_9ecp3kww">@thao_sayaka</a>.
+    Source: <a href= "https://www.threads.com/@hnm.hanh/post/DIGqJ_bTsUj?xmt=AQF0Aq88IVr3TfHBbdaUONr6HAYN6cvL4CoOV_9ecp3kww">@hnm.hanh</a> và <a href= "https://www.threads.com/@thao_sayaka/post/DIOXDfSSF-u?xmt=AQF0Aq88IVr3TfHBbdaUONr6HAYN6cvL4CoOV_9ecp3kww">@thao_sayaka</a>.
 </div>
 
 ## Take-aways
