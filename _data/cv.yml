@@ -36,7 +36,7 @@
 - title: Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/phocheo/AR_photocards">AR Photocards</a>
+    - title: <a href="https://vtrnnhlinh.github.io/projects/AR_photocards/">AR Photocards</a>
       year: 01/2025-03/2025
       description: A simple Augmented Reality project to support idol made by <code>arjs</code> and <code>threejs</code>.
 
