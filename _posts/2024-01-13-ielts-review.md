@@ -3,7 +3,7 @@ layout: post
 title: My IELTS Journey
 date: 2024-01-13 06:00:00 +0700
 description: an honest review and my preparation for the exam
-tags: languages english
+tags: languages exams english
 categories: Journal-of-Sciences
 giscus_comments: true
 related_posts: true
