@@ -15,4 +15,11 @@ At Bosch, I have a chance to discover about Machine Learning, specifically LLM a
 
 ## Basics of MoE
 
+### Why MoE?
 
+AI applications are developing fast, we can say some popular names like ChatGPT, Gemini, DeepSeek,... But developing it also faces some problems, 2 major problems are:
+
+- Computational cost of training and deploying
+- Integrating conflicting or heterogeneous knowledge within a single model
+
+So here we are, MoE is proposed to tackle these 2 problems.
