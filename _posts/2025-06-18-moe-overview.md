@@ -9,6 +9,7 @@ giscus_comments: true
 related_posts: true
 toc:
   sidebar: right
+bibliography: 2025-06-18-moe-overview.bib
 ---
 
 At Bosch, I have a chance to discover about Machine Learning, specifically LLM and MoE. In this post I will share the content of my first presentation about Mixture-of-Experts (MoE). I take the structure and content mainly from a survey in 2025 (Mu et al, 2025) <d-cite key="mu2025comprehensive"></d-cite> and some information from a survey in 2024 (Cai et al, 2024) <d-cite key="cai2024survey"></d-cite>.
