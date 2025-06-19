@@ -44,18 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-tutorial-megatron-swift-and-qwen2-5-setup",
-        
-          title: "Tutorial - Megatron-SWIFT and Qwen2.5 Setup",
-        
-        description: "my tutorial to setup Megatron-SWIFT to train Qwen2.5 locally",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/megatron-swift-setup/";
-          
-        },
-      },{id: "post-mixture-of-experts-first-diggin-39",
+        },{id: "post-mixture-of-experts-first-diggin-39",
         
           title: "Mixture-of-Experts - first diggin&#39;",
         
