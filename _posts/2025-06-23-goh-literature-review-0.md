@@ -52,6 +52,13 @@ I believe my wanted structure is far from this work, but a thousand miles start 
 - Multi-Head Attention
 - Feed Forward
 
+We employ residual connection around each of 2 sub-layers, followed by layer normalization.
+
+### My Proposal of Transformer
+
+- `Objects.py`: Implement of **Feed Forward** and **Multi-Head Attention**
+- `Stacks.py`: Implement of **Encoder** and **Decoder** Stacks. Or, `SubLayers.py`'s components with **layer normalization**.
+- `SubLayers.py`: Implement of **residual connection** with `Objects.py`'s components.
 
 
 ## Structure of Network
