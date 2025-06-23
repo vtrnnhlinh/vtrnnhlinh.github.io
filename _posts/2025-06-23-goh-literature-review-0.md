@@ -12,7 +12,7 @@ toc:
 related_publications: true
 ---
 
-At work I am assigned to learn about Mixture-of-Experts (MoE) but my mentor wants another specific approach to tailor-made to our problem.
+At work I am assigned to learn about Mixture-of-Experts (MoE) but my mentor wants another specific, tailor-made approach to our problem.
 
 I name it **Graphs-of-Heads** (GoH).
 
@@ -56,10 +56,11 @@ We employ residual connection around each of 2 sub-layers, followed by layer nor
 
 ### My Proposal of Transformer
 
-- `Objects.py`: Implement of **Feed Forward** and **Multi-Head Attention**
-- `Stacks.py`: Implement of **Encoder** and **Decoder** Stacks. Or, `SubLayers.py`'s components with **layer normalization**.
-- `SubLayers.py`: Implement of **residual connection** with `Objects.py`'s components.
-
+- `Attention.py`: Implemention of **Scaled Dot-Product Attention**.
+- `Objects.py`: Import `Attention.py`. Implement of **Feed Forward**, **Multi-Head Attention**, **Residual Connection** and **Layer Normalization**.
+- `SubLayers.py`: Import `Objects.py`. Implement of **Feed Forward Layer** and **Multi-Head Attention Layer**.
+- `Stacks.py`: Import `SubLayers.py`. Implement **Encoder** and **Decoder** stacks.
+- `Transformer.py`: Import `SubLayers.py`. 
 
 ## Structure of Network
 
