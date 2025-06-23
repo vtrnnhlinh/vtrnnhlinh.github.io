@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AR Photocards
+title: AR - Augmented Reality for Photocards
 description: a support project for NSND Tu Long at ATVNCG Concert Day3, 4 with Augmented Reality technology
 img: assets/img/AR_photocards.png
 importance: 1
@@ -135,7 +135,7 @@ I am planning to make an animated 3D version of him, don't know where this proje
 
 ## Links
 
-- **Source code**: [phocheo/AR_photocards](https://github.com/phocheo/AR_photocards/tree/master)
+- **Source code**: [phocheo/AR_photocards](https://github.com/phocheo/AR/tree/master)
 - **Reference code**: [stemkoski/AR-Examples](https://stemkoski.github.io/AR-Examples/)
 
 ### Feedback Videos
