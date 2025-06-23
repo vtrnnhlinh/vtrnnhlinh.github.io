@@ -155,11 +155,11 @@ ninja.data = [{
           section: "News",},{id: "news-submit-the-hardcover-version-of-my-thesis-to-the-faculty",
           title: 'Submit the hardcover version of my Thesis to the Faculty',
           description: "",
-          section: "News",},{id: "projects-ar-photocards",
-          title: 'AR Photocards',
+          section: "News",},{id: "projects-ar-augmented-reality-for-photocards",
+          title: 'AR - Augmented Reality for Photocards',
           description: "a support project for NSND Tu Long at ATVNCG Concert Day3, 4 with Augmented Reality technology",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/AR_photocards/";
+              window.location.href = "/projects/AR/";
             },},{
         id: 'social-discord',
         title: 'Discord',
