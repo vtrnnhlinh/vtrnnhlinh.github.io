@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Self-Study Setup - Summer 2025
+title: My Life Setup - Summer 2025
 date: 2025-06-18 15:30:00 +0700
 description: my routines and tools used for summer 2025
 tags: cse languages plans english
@@ -14,16 +14,24 @@ related_publications: true
 
 When I write this, my life is a mess. I am drown in endless fantasies. I write to encourage and clarify for myself. I hope that I can follow what I expect here.
 
-## Natural Sciences
+## Routines, Tasks and Mental Health
 
-### Linear Algebra
+### RoutineFlow
 
-### Discrete Mathematics
+### TickTick
 
-## Social Sciences
+### Tochi
 
-### Languages
+## Self-Study
 
-### Linguistics
+### Natural Sciences
 
-## Career
+### Social Sciences
+
+### Technology
+
+## Work
+
+### MS Todo
+
+### Teams
