@@ -62,7 +62,9 @@ We employ residual connection around each of 2 sub-layers, followed by layer nor
 - `Stacks.py`: Import `SubLayers.py`. Implement **Encoder** and **Decoder** stacks.
 - `Transformer.py`: Import `SubLayers.py`. 
 
-## Structure of Network
+## Transformer to MoH
+
+In my understanding, MoH {% cite jin2024moh %} is a mix of Mixture-of-Experts (MoE) and `transformer` {% cite vaswani2017attention %}. 
 
 ## Training Strategy
 
