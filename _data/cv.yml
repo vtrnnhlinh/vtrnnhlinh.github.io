@@ -67,9 +67,10 @@
     - title: Quantum Computing
       items:
         - Scheduling HPQC Resources
-    - title: Large Language Model
+    - title: Machine Learning
       items:
         - Mixture-of-Experts (MoE)
+        - Large Language Model (LLM)
 
 - title: Other Interests
   type: list
