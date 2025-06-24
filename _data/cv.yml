@@ -64,13 +64,13 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Quantum Computing
-      items:
-        - Scheduling HPQC Resources
     - title: Machine Learning
       items:
         - Mixture-of-Experts (MoE)
         - Large Language Model (LLM)
+    - title: Quantum Computing
+      items:
+        - Scheduling HPQC Resources
 
 - title: Other Interests
   type: list
