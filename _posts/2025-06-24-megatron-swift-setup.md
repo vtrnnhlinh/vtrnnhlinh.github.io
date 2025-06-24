@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tutorial - Megatron-SWIFT and Qwen2.5 Setup
-date: 2025-06-19 11:30:00 +0700
+date: 2025-06-24 16:45:00 +0700
 description: my tutorial to setup Megatron-SWIFT to train Qwen2.5 locally
 tags: cse ml moe english
 categories: Linh-the-Engineer
@@ -48,6 +48,15 @@ Then we will install `pytorch` and `torchvision` first.
 pip install pytorch==2.3.0 torchvision==0.18.0
 ```
 
+Next we need to install `apex`, `transformer-engine`, and `ms-swift`.
+
+```bash
+git clone https://github.com/NVIDIA/apex
+cd apex
+pip install -v --disable-pip-version-check --no-cache-dir --no-build-isolation --config-settings "--build-option=--cpp_ext" --config-settings "--build-option=--cuda_ext" ./
+pip install transformer-engine
+pip install ms-swift
+```
 
 ## Download Qwen2.5
 
@@ -80,5 +89,24 @@ huggingface-cli login --token <your-token>
 
 Finally, we can clone the model repo to our folder. Example: [Qwen2.5-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct)
 
-
+```bash
+cd <model folder>
+git lfs install
+git clone https://huggingface.co/Qwen/Qwen2.5-7B-Instruct
+```
 ## Test
+
+Create a `test.sh` file to run test.
+
+```bash
+CUDA_VISIBLE_DEVICES=0 \
+swift export \
+    --model <model_dir>/Qwen2.5-7B-Instruct \
+    --to_mcore true \
+    --torch_dtype bfloat16 \
+    --output_dir Qwen2.5-7B-Instruct-mcore
+```
+
+---
+
+I am afraid that because I wrote the tutorial after finishing setup, so maybe there is some incompatible version and tweak steps that I forgot. So comment to tell me if you can't follow the tutorial.
