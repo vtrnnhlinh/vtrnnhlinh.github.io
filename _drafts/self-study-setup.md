@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Self-Study Setup - Work Academic Balance
+title: Self-Study Setup - Summer 2025
 date: 2025-06-18 15:30:00 +0700
-description: my routines and tools used for balancing my work and academic life
+description: my routines and tools used for summer 2025
 tags: cse languages plans english
 categories: Linh-the-Engineer
 giscus_comments: true
@@ -11,3 +11,19 @@ toc:
   sidebar: right
 related_publications: true
 ---
+
+When I write this, my life is a mess. I am drown in endless fantasies. I write to encourage and clarify for myself. I hope that I can follow what I expect here.
+
+## Natural Sciences
+
+### Linear Algebra
+
+### Discrete Mathematics
+
+## Social Sciences
+
+### Languages
+
+### Linguistics
+
+## Career
