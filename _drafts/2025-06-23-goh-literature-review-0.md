@@ -2,7 +2,7 @@
 layout: post
 title: Graphs-of-Heads - The First Literature Review
 date: 2025-06-23 11:30:00 +0700
-description: the first literature review of my series writting about my work I called Heads of Neuron Networks
+description: the first literature review of my series writting about my work I called Graph-of-Heads
 tags: cse ml moe goh english
 categories: Linh-the-Engineer
 giscus_comments: true
@@ -30,9 +30,12 @@ The Python project structure I apply is the [navdeep-G/samplemod](https://github
 
 The training framework will be Megatron-LM {% cite shoeybi2019megatron %} with continual, meta and multi-task learning. Federated Learning will be developed when the application is deployed for many users.
 
-## Attention!!
+{% include figure.liquid loading="eager" path="assets/img/plan_llm.png" class="img-fluid rounded z-depth-1" %}
+My imagined structure.
 
-I want to develop from scratch to understand and have fully the technology in my hands. We will start from `Transformer` Structure {% cite vaswani2017attention %}.
+## Attention is all you need!!
+
+We will start from `Transformer` Structure {% cite vaswani2017attention %}.
 
 I am pretty bad at Python, so I will learn and reference a lot of repositories, both in how they structure the file and the coding methodology.
 
@@ -42,25 +45,50 @@ I reference [SCCSMARTCODE/attention-is-all-you-need-from-scratch](https://github
 
 I believe my wanted structure is far from this work, but a thousand miles start from a step.
 
-### Architecture of Transformer
+### Encoder & Decoder
 
 {% include figure.liquid loading="eager" path="assets/img/attention_architecture.png" class="img-fluid rounded z-depth-1" %}
 `Transformer` architecture. Source: {% cite vaswani2017attention %}.
 
-**Encoder** has a stack of $N=6$ layer. Each layer has 2 sub-layers:
+With the illustration, you can see the `Transformer` has 2 main modules are **Encoder** and **Decoder**. There is also something worth noticing is **Positional Encoding**.
+
+**Encoder** and **Decoder** has a stack of $N=6$ layer. Encoder's layer has 2 sub-layers:
 
 - Multi-Head Attention
 - Feed Forward
 
-We employ residual connection around each of 2 sub-layers, followed by layer normalization.
+While Decoder's layer has 3 sub-layers:
 
-### My Proposal of Transformer
+- Multi-Head Attention
+- Feed Forward
+- Masked Multi-Head Attention
 
-- `Attention.py`: Implemention of **Scaled Dot-Product Attention**.
-- `Objects.py`: Import `Attention.py`. Implement of **Feed Forward**, **Multi-Head Attention**, **Residual Connection** and **Layer Normalization**.
-- `SubLayers.py`: Import `Objects.py`. Implement of **Feed Forward Layer** and **Multi-Head Attention Layer**.
-- `Stacks.py`: Import `SubLayers.py`. Implement **Encoder** and **Decoder** stacks.
-- `Transformer.py`: Import `SubLayers.py`. 
+We employ residual connection around each of sub-layers, followed by layer normalization. The dimension is $d_{model} = 512$.
+
+### Attention
+
+To me, this is the heart of this work.
+
+Attention function is mapping a query and a set of key-value pairs to vectors output.
+
+- Output is weighted sum of values
+- The weight has another compatibility function to calculate
+
+#### Scaled Dot-Product Attention
+
+- Input:
+  - **Q**: queries
+  - **K**: keys of dimension $d_k$
+  - **V**: values of dimension $d_v$
+
+$$Attention (Q,K,V) = softmax(\frac{QK^T}{\sqrt{d_k})V$$
+
+- $\frac{1}{\sqrt{d_k}}$: scaling factor. Why? To avoid `softmax` is pushed into regions result extremely small gradients
+- **Dot-product attention** faster and more space-efficient in practice than **additive attention**
+
+#### Multi-Head Attention
+
+- Why? 
 
 ## Transformer to MoH
 
