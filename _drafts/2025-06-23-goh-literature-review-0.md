@@ -88,7 +88,10 @@ $$Attention (Q,K,V) = softmax(\frac{QK^T}{\sqrt{d_k})V$$
 
 #### Multi-Head Attention
 
-- Why? 
+They perform the attention function in parallel, yielding $d_v$-dim output values. They are concatenated and projected, make final values.
+
+$$MultiHead(Q,K,V) = Concat(head_1,.... head_n)W^O$$
+$$head_i = Attention(QW^Q_i, KW^K_i, VW^V_i)$$
 
 ## Transformer to MoH
 
