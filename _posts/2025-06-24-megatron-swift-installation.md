@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Tutorial - Megatron-SWIFT and Qwen2.5 Setup
+title: Tutorial - Megatron-SWIFT and Qwen2.5 Installation
 date: 2025-06-24 16:45:00 +0700
-description: my tutorial to setup Megatron-SWIFT to train Qwen2.5 locally
+description: my tutorial to install Megatron-SWIFT to train Qwen2.5 locally
 tags: cse ml moe english
 categories: Linh-the-Engineer
 giscus_comments: true
