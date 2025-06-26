@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-tutorial-megatron-swift-and-qwen2-5-installation",
+        },{id: "post-my-life-setup-summer-2025",
+        
+          title: "My Life Setup - Summer 2025",
+        
+        description: "my routines and tools used for summer 2025",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/my-life-setup-summer-25/";
+          
+        },
+      },{id: "post-tutorial-megatron-swift-and-qwen2-5-installation",
         
           title: "Tutorial - Megatron-SWIFT and Qwen2.5 Installation",
         
