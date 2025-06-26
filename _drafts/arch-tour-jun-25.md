@@ -16,5 +16,9 @@ I made a significant change to my arch setup, as I switch from KDE to i3wm. It's
 
 ## Windows Displayer and Manager
 
+I use [**i3wm**](https://i3wm.org/) and
+
+
 ## nvim
 
+I am currently using **nvim0.11** and **AstroNvim v5**.
