@@ -16,7 +16,10 @@ I made a significant change to my arch setup, as I switch from KDE to i3wm. It's
 
 ## Windows Displayer and Manager
 
-I use [**i3wm**](https://i3wm.org/) and
+I use [**i3wm**](https://i3wm.org/) and [**ly**]() as my Windows Displayer and Display Manager.
+
+
+
 
 
 ## nvim
