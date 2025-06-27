@@ -124,3 +124,28 @@ They believe that with changes, they made 2 significant advantages:
 
 - First, allows each token select most relevant attention heads, improve efficiency without sacrificing accuracy or increasing the params.
 - Second, with weighted sum, MoH enhances the flexibility of attention mechanism.
+
+### Design
+
+The core of the work is **MoH**, which treats attention heads as experts.
+
+$$MoH(X, X') = \sum^h_{i=1} g_i H^i W^i_O$$
+
+- $X, X'$: input tokens
+- $g_i$: routing score
+- $H^i$: Head ith
+- $W^i_O$: output of projection matrix
+
+Inspired by DeepSeek {% cite dai2024deepseekmoe %}, MoH designs a subset of heads as **shared heads** that remain always activated. This will consolidate common knowledge within shared heads.
+
+**Two-Stage Routing** for dynamically balance the weights between shared and routed heads. Routing scores are determined by both the **score of each individual head** and **score associated with the head type**. 
+
+### Training
+
+Training LLMs from scratch, they use Megatron-LM {% cite shoeybi2019megatron %} with public datasets.
+
+With Continual Learning, they tuned `LLaMA3-8B`. 3 challenges when doing this:
+
+1. Determine the shared attention heads
+2. Add head routers
+3. Weight attention heads
