@@ -9,7 +9,6 @@ giscus_comments: true
 related_posts: true
 toc:
   sidebar: right
-related_publications: true
 ---
 
 When I write this, my life is a mess. I am drown in endless fantasies. I write to encourage and clarify for myself. I hope that I can follow what I expect here.
