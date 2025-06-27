@@ -81,7 +81,7 @@ Attention function is mapping a query and a set of key-value pairs to vectors ou
   - **K**: keys of dimension $d_k$
   - **V**: values of dimension $d_v$
 
-$$Attention (Q,K,V) = softmax(\frac{QK^T}{\sqrt{d_k})V$$
+$$Attention (Q,K,V) = softmax(\frac{QK^T}{\sqrt{d_k}})V$$
 
 - $\frac{1}{\sqrt{d_k}}$: scaling factor. Why? To avoid `softmax` is pushed into regions result extremely small gradients
 - **Dot-product attention** faster and more space-efficient in practice than **additive attention**
