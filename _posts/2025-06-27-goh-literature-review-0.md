@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Graphs-of-Heads - The First Literature Review
-date: 2025-06-23 11:30:00 +0700
+date: 2025-06-27 18:30:00 +0700
 description: the first literature review of my series writting about my work I called Graph-of-Heads
 tags: cse ml moe goh english
 categories: Linh-the-Engineer
@@ -138,7 +138,7 @@ $$MoH(X, X') = \sum^h_{i=1} g_i H^i W^i_O$$
 
 Inspired by DeepSeek {% cite dai2024deepseekmoe %}, MoH designs a subset of heads as **shared heads** that remain always activated. This will consolidate common knowledge within shared heads.
 
-**Two-Stage Routing** for dynamically balance the weights between shared and routed heads. Routing scores are determined by both the **score of each individual head** and **score associated with the head type**. 
+**Two-Stage Routing** for dynamically balance the weights between shared and routed heads. Routing scores are determined by both the **score of each individual head** and **score associated with the head type**. To avoid the unbalanced load, MoH applies **Load Balance Loss**.
 
 ### Training
 
@@ -149,3 +149,7 @@ With Continual Learning, they tuned `LLaMA3-8B`. 3 challenges when doing this:
 1. Determine the shared attention heads
 2. Add head routers
 3. Weight attention heads
+
+---
+
+That's all for the day. The next post I will discuss about GaCLLM and how I imagine the system will work.
