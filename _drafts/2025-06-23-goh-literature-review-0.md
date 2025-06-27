@@ -114,10 +114,13 @@ This is the method to inject information about the relative or absolute position
 $$PE_{(pos, 2i)} = sin(pos/10000^{2i/d_{model}})$$
 $$PE_{(pos, 2i+1)} = cos(pos/10000^{2i/d_{model}})$$
 
-## Transformer to MoH
+## MoH (Mixture-of-Heads)
 
-In my understanding, MoH {% cite jin2024moh %} is a mix of Mixture-of-Experts (MoE) and `transformer` {% cite vaswani2017attention %}. 
+In my understanding, MoH {% cite jin2024moh %} is a mix of Mixture-of-Experts (MoE) and `transformer` {% cite vaswani2017attention %}.
 
-## Training Strategy
+They made 2 important changes, one, there is a TopK router to activate heads for each token. They also replace the standard summation in multi-head attention to weighted sum.
 
-## Conclusion
+They believe that with changes, they made 2 significant advantages:
+
+- First, allows each token select most relevant attention heads, improve efficiency without sacrificing accuracy or increasing the params.
+- Second, with weighted sum, MoH enhances the flexibility of attention mechanism.
