@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-my-life-setup-summer-2025",
+        },{id: "post-graphs-of-heads-the-first-literature-review",
+        
+          title: "Graphs-of-Heads - The First Literature Review",
+        
+        description: "the first literature review of my series writting about my work I called Graph-of-Heads",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/goh-literature-review-0/";
+          
+        },
+      },{id: "post-my-life-setup-summer-2025",
         
           title: "My Life Setup - Summer 2025",
         
