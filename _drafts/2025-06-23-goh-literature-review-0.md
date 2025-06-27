@@ -93,6 +93,27 @@ They perform the attention function in parallel, yielding $d_v$-dim output value
 $$MultiHead(Q,K,V) = Concat(head_1,.... head_n)W^O$$
 $$head_i = Attention(QW^Q_i, KW^K_i, VW^V_i)$$
 
+#### Attention in Transformer
+
+We will remind the input of attention. We will have Q (Queries), K (keys) and V (values). `Transformer` uses attention in 3 ways:
+
+- "encoder-decoder attention" layer: Q from previous decoder layer, K, V from output of encoder.
+- "encoder self-attention" layer: Q, K, V from previous encoder layer.
+- "decoder self-attention" layer: Similar to encoder one, however they masked out all values in the input of `softmax` (set to $-\infty$) in scaled dot-product attention.
+
+### Position-wise Feed-Forward Networks
+
+FFN has 2 linear transformations with a ReLU activation<d-footnote>Rectified Linear Unit (ReLU) is a piecewise linear function that outputs the input directly if it is positive; otherwise, it outputs zero</d-footnote>:
+
+$$FFN(x) = max(0, xW_1+b_1)W_2 +b_2$$
+
+### Positional Encoding
+
+This is the method to inject information about the relative or absolute position of the tokens in the sequence. **Positional Encoding** has the same dimension $d_{model}$ as the embeddedings. In this work, they use sine and cosine functions
+
+$$PE_{(pos, 2i)} = sin(pos/10000^{2i/d_{model}})$$
+$$PE_{(pos, 2i+1)} = cos(pos/10000^{2i/d_{model}})$$
+
 ## Transformer to MoH
 
 In my understanding, MoH {% cite jin2024moh %} is a mix of Mixture-of-Experts (MoE) and `transformer` {% cite vaswani2017attention %}. 
