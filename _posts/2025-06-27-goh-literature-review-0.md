@@ -99,7 +99,7 @@ We will remind the input of attention. We will have Q (Queries), K (keys) and V 
 
 - "encoder-decoder attention" layer: Q from previous decoder layer, K, V from output of encoder.
 - "encoder self-attention" layer: Q, K, V from previous encoder layer.
-- "decoder self-attention" layer: Similar to encoder one, however they masked out all values in the input of `softmax` (set to $-\infty$) in scaled dot-product attention.
+- "decoder self-attention" layer: Similar to encoder one, however they masked out all values in the input of `softmax` (set to $-\infty$) in scaled dot-product attention to illegal connections.
 
 ### Position-wise Feed-Forward Networks
 
