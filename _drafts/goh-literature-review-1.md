@@ -37,4 +37,4 @@ They adopt LoRa {% cite hu2022lora %} for parameter-efficient learning to improv
 {% include figure.liquid loading="eager" path="assets/img/graphs_gacllm.png" class="img-fluid rounded z-depth-1" %}
 My understanding about proposed graphs.
 
-The graph will be $G = (V, E)$ with $V$ are the users and items. $V = \{u|u \in U\} \cup \{ i|i \in I\}$. The edges $E$ are constructed by the interactions between users and items. Each node has a textual description. 
+The graph will be $G = (V, E)$ with $V$ are the users and items. The edges $E$ are constructed by the interactions between users and items. Each node has a textual description. 
