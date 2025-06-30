@@ -2,8 +2,6 @@
 layout: book-review
 title: White Nights
 author: Mario Puzo
-cover: 
-olid: 
 isbn: 0241619785 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: classics russian-literature short-stories
 tags: fiction
