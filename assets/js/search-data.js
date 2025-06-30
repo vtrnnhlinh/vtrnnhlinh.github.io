@@ -176,7 +176,12 @@ ninja.data = [{
             window.location.href = "/blog/2024/ielts-review/";
           
         },
-      },{id: "news-start-my-internship-at-vierobot",
+      },{id: "books-white-nights",
+          title: 'White Nights',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/white_nights/";
+            },},{id: "news-start-my-internship-at-vierobot",
           title: 'Start my internship at Vierobot',
           description: "",
           section: "News",},{id: "news-join-hpqc-team-hcmut",
