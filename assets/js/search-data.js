@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-graphs-of-heads-the-first-literature-review",
+        },{id: "post-graphs-of-heads-the-second-literature-review",
+        
+          title: "Graphs-of-Heads - The Second Literature Review",
+        
+        description: "the second literature review of my series writting about my work I called Graph-of-Heads",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/goh-literature-review-1/";
+          
+        },
+      },{id: "post-graphs-of-heads-the-first-literature-review",
         
           title: "Graphs-of-Heads - The First Literature Review",
         
