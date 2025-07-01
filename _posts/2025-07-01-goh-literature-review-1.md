@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Graphs-of-Heads - The Second Literature Review
-date: 2025-07-01 18:30:00 +0700
+date: 2025-07-01 13:30:00 +0700
 description: the second literature review of my series writting about my work I called Graph-of-Heads
 tags: cse ml moe goh english
 categories: Linh-the-Engineer
