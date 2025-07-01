@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Graphs-of-Heads - The Second Literature Review
-date: 2025-06-27 18:30:00 +0700
+date: 2025-07-01 18:30:00 +0700
 description: the second literature review of my series writting about my work I called Graph-of-Heads
 tags: cse ml moe goh english
 categories: Linh-the-Engineer
@@ -63,3 +63,14 @@ They claim the proposed LLM-based convolutional strategy has 2 main strengths:
 
 ### Aligning GCN-based Embeddings for Recommendation
 
+To bridge text info and structural info, they align the descriptions of users and items with their **embeddings** in a unified manner.
+
+First layer represents the initial step for both users' and items' representation. Each user and item will associated with the embedding from a specific ID. Then they encode them into the constant text-based embedding by encoder. 
+
+There will be an *objective function* to measure the matching scores between users and items for final predictions. 
+
+## Some of Thoughts
+
+I am still confused and not clarify my idea yet. Do you have any thoughts? But I guess re-enact the work of GaCLLM will be interesting.
+
+This afternoon I will have a meeting with my team to discuss about this, I will update the progress in upcoming posts.
