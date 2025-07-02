@@ -26,4 +26,25 @@ Approaches for this problem:
 - Adapt some params
 - Learn external modules for new task
 
-LoRA is proposed based on the idea that change in weights during model adaption has a low "intrinsic rank". 
+LoRA is proposed based on the idea that change in weights during model adaption has a low "intrinsic rank". It trains indirectly dense layer of neural network by:
+- Optimize rank decomposition matrices of dense layer's change during adaption
+- Keep pretrained weights frozen
+
+Key advantages of LoRA:
+- Pre-trained model can be shared and build many small LoRA modules
+- Training more efficient and lowers hardware barrier by up to 3 times
+- No inference latency compared to fully fine-tuned model
+- Can combine with many methods (LoRA+PrefixedEmbed, LoRA+PrefixLayer)
+
+### Conventions
+
+- $d_{model}$: I/O dim size of `Transformer` layer
+- $W_q$: query matrices
+- $W_k$: key matrices
+- $W_v$: value matrices
+- $W_o$: output projection
+- $\Delta W$: accumulated gradient update during adaption
+- $r$: rank of LoRA module
+- $d_{ffn} = 4 \times d_{model}$: `Transformer` MLP feedforward dimension
+
+
