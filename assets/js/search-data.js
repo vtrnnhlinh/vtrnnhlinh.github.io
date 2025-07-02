@@ -44,9 +44,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-graphs-of-heads-the-second-literature-review",
+        },{id: "post-graphs-of-heads-literature-review-2-gacllm",
         
-          title: "Graphs-of-Heads - The Second Literature Review",
+          title: "Graphs-of-Heads - Literature Review 2 - GaCLLM",
         
         description: "the second literature review of my series writting about my work I called Graph-of-Heads",
         section: "Posts",
@@ -55,9 +55,9 @@ ninja.data = [{
             window.location.href = "/blog/2025/goh-literature-review-1/";
           
         },
-      },{id: "post-graphs-of-heads-the-first-literature-review",
+      },{id: "post-graphs-of-heads-transformer-and-moh",
         
-          title: "Graphs-of-Heads - The First Literature Review",
+          title: "Graphs-of-Heads - Transformer and MoH",
         
         description: "the first literature review of my series writting about my work I called Graph-of-Heads",
         section: "Posts",
