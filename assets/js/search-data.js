@@ -44,9 +44,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-graphs-of-heads-literature-review-2-gacllm",
+        },{id: "post-graphs-of-heads-the-second-literature-review",
         
-          title: "Graphs-of-Heads - Literature Review 2 - GaCLLM",
+          title: "Graphs-of-Heads - The Second Literature Review",
         
         description: "the second literature review of my series writting about my work I called Graph-of-Heads",
         section: "Posts",
