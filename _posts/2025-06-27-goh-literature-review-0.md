@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Graphs-of-Heads - The First Literature Review
+title: Graphs-of-Heads - Transformer and MoH
 date: 2025-06-27 18:30:00 +0700
 description: the first literature review of my series writting about my work I called Graph-of-Heads
 tags: cse ml moe goh english
@@ -112,6 +112,7 @@ $$FFN(x) = max(0, xW_1+b_1)W_2 +b_2$$
 This is the method to inject information about the relative or absolute position of the tokens in the sequence. **Positional Encoding** has the same dimension $d_{model}$ as the embeddedings. In this work, they use sine and cosine functions
 
 $$PE_{(pos, 2i)} = sin(pos/10000^{2i/d_{model}})$$
+
 $$PE_{(pos, 2i+1)} = cos(pos/10000^{2i/d_{model}})$$
 
 ## MoH (Mixture-of-Heads)
