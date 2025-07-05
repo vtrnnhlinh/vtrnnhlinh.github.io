@@ -143,6 +143,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/chiec-khan-pieu-ca-lon/";
           
         },
+      },{id: "post-my-first-ereader-kobo-clara-colour",
+        
+          title: "my first ereader - Kobo Clara Colour",
+        
+        description: "some random thoughts about my first ereader",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/my-first-ereader/";
+          
+        },
       },{id: "post-quantum-first-reflection",
         
           title: "Quantum first reflection",
