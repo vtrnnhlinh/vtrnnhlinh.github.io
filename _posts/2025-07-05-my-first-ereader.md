@@ -1,7 +1,7 @@
 ---
 layout: post
 title: my first ereader - Kobo Clara Colour
-date: 2024-07-05 22:15:00 +0700
+date: 2025-07-05 22:15:00 +0700
 description: some random thoughts about my first ereader
 tags: books nerdies english
 categories: Journal-of-Sciences
