@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-my-first-ereader-kobo-clara-colour",
+        },{id: "post-june-2025-reading-log",
+        
+          title: "June 2025 Reading Log",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/june-25-reading-log/";
+          
+        },
+      },{id: "post-my-first-ereader-kobo-clara-colour",
         
           title: "my first ereader - Kobo Clara Colour",
         
