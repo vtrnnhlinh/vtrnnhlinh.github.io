@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-bookshelf",
-          title: "bookshelf",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/books/";
-          },
         },{id: "post-my-first-ereader-kobo-clara-colour",
         
           title: "my first ereader - Kobo Clara Colour",
@@ -198,12 +191,7 @@ ninja.data = [{
             window.location.href = "/blog/2024/ielts-review/";
           
         },
-      },{id: "books-white-nights",
-          title: 'White Nights',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/white_nights/";
-            },},{id: "news-start-my-internship-at-vierobot",
+      },{id: "news-start-my-internship-at-vierobot",
           title: 'Start my internship at Vierobot',
           description: "",
           section: "News",},{id: "news-join-hpqc-team-hcmut",
