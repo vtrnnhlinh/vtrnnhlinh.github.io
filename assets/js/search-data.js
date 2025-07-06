@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-graphs-of-heads-literature-review-2-gacllm",
+        },{id: "post-my-first-ereader-kobo-clara-colour",
+        
+          title: "my first ereader - Kobo Clara Colour",
+        
+        description: "some random thoughts about my first ereader",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/my-first-ereader/";
+          
+        },
+      },{id: "post-graphs-of-heads-literature-review-2-gacllm",
         
           title: "Graphs-of-Heads - Literature Review 2 - GaCLLM",
         
@@ -141,17 +152,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/chiec-khan-pieu-ca-lon/";
-          
-        },
-      },{id: "post-my-first-ereader-kobo-clara-colour",
-        
-          title: "my first ereader - Kobo Clara Colour",
-        
-        description: "some random thoughts about my first ereader",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/my-first-ereader/";
           
         },
       },{id: "post-quantum-first-reflection",
