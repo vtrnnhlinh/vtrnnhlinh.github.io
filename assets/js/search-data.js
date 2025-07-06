@@ -125,6 +125,50 @@ ninja.data = [{
             window.location.href = "/blog/2025/arch/";
           
         },
+      },{id: "post-january-2025-reading-log",
+        
+          title: "January 2025 Reading Log",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/jan-25-reading-log/";
+          
+        },
+      },{id: "post-deccember-24-reading-log",
+        
+          title: "Deccember 24 Reading Log",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/dec-24-reading-log/";
+          
+        },
+      },{id: "post-november-24-reading-log",
+        
+          title: "November 24 Reading Log",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/nov-24-reading-log/";
+          
+        },
+      },{id: "post-october-24-reading-log",
+        
+          title: "October 24 Reading Log",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/oct-24-reading-log/";
+          
+        },
       },{id: "post-đại-đội-trưởng-của-tôi-của-anh-của-chúng-ta",
         
           title: "Đại đội trưởng của tôi - của anh, của chúng ta",
@@ -145,6 +189,39 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/chiec-khan-pieu-ca-lon/";
+          
+        },
+      },{id: "post-august-24-reading-log",
+        
+          title: "August 24 Reading Log",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/aug-24-reading-log/";
+          
+        },
+      },{id: "post-july-24-reading-log",
+        
+          title: "July 24 Reading Log",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/july-24-reading-log/";
+          
+        },
+      },{id: "post-june-24-reading-log",
+        
+          title: "June 24 Reading Log",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/june-24-reading-log/";
           
         },
       },{id: "post-quantum-first-reflection",
@@ -169,6 +246,28 @@ ninja.data = [{
             window.location.href = "/blog/2024/nvim-kickstart/";
           
         },
+      },{id: "post-may-24-reading-log",
+        
+          title: "May 24 Reading Log",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/may-24-reading-log/";
+          
+        },
+      },{id: "post-april-24-reading-log",
+        
+          title: "April 24 Reading Log",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/apr-24-reading-log/";
+          
+        },
       },{id: "post-from-first-interview-to-first-internship",
         
           title: "From First Interview to First Internship",
@@ -178,6 +277,39 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/first-interview-first-internship/";
+          
+        },
+      },{id: "post-march-24-reading-log",
+        
+          title: "March 24 Reading Log",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/mar-24-reading-log/";
+          
+        },
+      },{id: "post-february-24-reading-log",
+        
+          title: "February 24 Reading Log",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/feb-24-reading-log/";
+          
+        },
+      },{id: "post-january-24-reading-log",
+        
+          title: "January 24 Reading Log",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/jan-24-reading-log/";
           
         },
       },{id: "post-my-ielts-journey",
