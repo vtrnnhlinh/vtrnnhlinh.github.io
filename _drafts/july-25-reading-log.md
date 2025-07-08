@@ -18,3 +18,7 @@ The book is still solid and thoughtful, but not stunning like the first time I r
 I am grateful that I finished it in 2 days. It gives me some more aspects as now I am already going to work instead of a student like before.
 
 Rate: :star::star::star::star:
+
+## 5. The Little Prince - 	Antoine de Saint-Exupéry
+
+The book of my heart. The masterpiece of my life.
