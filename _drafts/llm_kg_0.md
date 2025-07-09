@@ -12,7 +12,7 @@ toc:
 related_publications: true
 ---
 
-I am 
+Bro, hear me out. I feel like my Graph-of-Heads dream is falling apart. 
 
 ## Surveys
 
