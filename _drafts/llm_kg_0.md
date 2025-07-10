@@ -12,8 +12,12 @@ toc:
 related_publications: true
 ---
 
-Bro, hear me out. I feel like my Graph-of-Heads dream is falling apart. 
+Bro, hear me out. I feel like my [Graph-of-Heads](https://vtrnnhlinh.github.io/blog/tag/goh/) dream is falling apart. There is a field called **LLM+KG** seems very near to my idea, I think it worth to see what is it.
 
 ## Surveys
+
+### What is LLM+KG?
+
+
 
 ## edc
