@@ -35,7 +35,7 @@ According to the authors, there will be 3 types of framework developing in this 
 
 After surfing for a while, with the main resource is [XiaoxinHe/Awesome-Graph-LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM), I use 3 more works to research, they are: {% cite cheng2024call %}, {% cite zhang2024extract %} and {% cite jiang2024kg %}. Beside {% cite du2024large %} I already talked about in [previous post](https://vtrnnhlinh.github.io/blog/2025/gom-literature-review-1/), we will create a table to compare the work:
 
-Table: Comparison between 4 chosen works
+Table: Comparison between 4 chosen works.
 
 | Metric                | GaCLLM {% cite du2024large %}            | ReaDi {% cite cheng2024call %}              | EDC {% cite zhang2024extract %}              | KG-FIT {% cite jiang2024kg %}              |
 |-----------------------|-------------------------------------------|---------------------------------------------|----------------------------------------------|--------------------------------------------|
@@ -48,10 +48,10 @@ So in this post, we will focus on **edc** {% cite zhang2024extract %} and **KG-F
 
 ## edc
 
-In the current development of **edc** {% cite zhang2024extract %}, it's likely that the work is **LLM-augmented KGs**, but I believe there is potential to make it **Synergized LLMs + KG**. The purpose of this work is automatically create KGs to make it applicable when doing real-world application. This work proposes a framework has 3 steps: **Extract-Define-Canonicalize**
-- **Extract**: take information from the dataset and convert them into a relation triplet `[Object A, Relationship of A and B, Object B]`
-- **Define**: write the definition for each component of the schema
-- **Canonicalize**: use the schema definition from **Define** step to standardize the triplets
+In the current development of **edc** {% cite zhang2024extract %}, it's likely that the work is **LLM-augmented KGs**, but I believe there is potential to make it **Synergized LLMs + KG**. The purpose of this work is automatically create KGs to make it applicable when doing real-world application. This work proposes a framework has 3 steps: **Extract-Define-Canonicalize**.
+- **Extract**: take information from the dataset and convert them into a relation triplet `[Object A, Relationship of A and B, Object B]`.
+- **Define**: write the definition for each component of the schema.
+- **Canonicalize**: use the schema definition from **Define** step to standardize the triplets.
 
 The **Schema Retriever** of this work is what makes me impressed. It's a trained model specialized in extracting schema components relevant to input text. This work divides step by step, in which step you can use a different model. It's challenging but also a great chance to tailor-make and optimize the workflow.
 
