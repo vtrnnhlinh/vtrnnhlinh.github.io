@@ -70,15 +70,15 @@ ninja.data = [{
             window.location.href = "/blog/2025/goh-literature-review-1/";
           
         },
-      },{id: "post-graphs-of-heads-literature-review-1-transformer-and-moh",
+      },{id: "post-graph-of-models-literature-review-1-transformer-and-moh",
         
-          title: "Graphs-of-Heads - Literature Review 1 - Transformer and MoH",
+          title: "Graph-of-Models - Literature Review 1 - Transformer and MoH",
         
         description: "the first literature review of my series writting about my work I called Graph-of-Heads",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/goh-literature-review-0/";
+            window.location.href = "/blog/2025/gom-literature-review-0/";
           
         },
       },{id: "post-my-life-setup-summer-2025",
