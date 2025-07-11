@@ -36,6 +36,7 @@ According to the authors, there will be 3 types of framework developing in this 
 After surfing for a while, with the main resource is [XiaoxinHe/Awesome-Graph-LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM), I use 3 more works to research, they are: {% cite cheng2024call %}, {% cite zhang2024extract %} and {% cite jiang2024kg %}. Beside {% cite du2024large %} I already talked about in [previous post](https://vtrnnhlinh.github.io/blog/2025/gom-literature-review-1/), we will create a table to compare the work:
 
 Table: Comparison between 4 chosen works
+
 | Metric                | GaCLLM {% cite du2024large %}            | ReaDi {% cite cheng2024call %}              | EDC {% cite zhang2024extract %}              | KG-FIT {% cite jiang2024kg %}              |
 |-----------------------|-------------------------------------------|---------------------------------------------|----------------------------------------------|--------------------------------------------|
 | Problem & Methodology | GCN-based LLM adaptation                  | Structured reasoning refinement              | LLM-to-Graph + Retrieval-Augmented Generation| Hierarchical graph fine-tuning             |
