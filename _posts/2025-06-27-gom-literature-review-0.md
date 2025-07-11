@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Graphs-of-Heads - Literature Review 1 - Transformer and MoH
+title: Graph-of-Models - Literature Review 1 - Transformer and MoH
 date: 2025-06-27 18:30:00 +0700
 description: the first literature review of my series writting about my work I called Graph-of-Heads
-tags: cse ml moe goh english
+tags: cse ml moe gom english
 categories: Linh-the-Engineer
 giscus_comments: true
 related_posts: true
