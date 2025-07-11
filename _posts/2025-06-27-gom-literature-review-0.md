@@ -2,7 +2,7 @@
 layout: post
 title: Graph-of-Models - Literature Review 1 - Transformer and MoH
 date: 2025-06-27 18:30:00 +0700
-description: the first literature review of my series writting about my work I called Graph-of-Heads
+description: the first literature review of my series writting about my work I called Graph-of-Models
 tags: cse ml gom english
 categories: Linh-the-Engineer
 giscus_comments: true
@@ -14,7 +14,7 @@ related_publications: true
 
 At work I am assigned to learn about Mixture-of-Experts (MoE) but my mentor wants another specific, tailor-made approach to our problem.
 
-I name it **Graphs-of-Heads** (GoH).
+I name it **Graph-of-Models** (GoM).
 
 I have a vague idea in my mind but I think I need a **Literature Review** to make my idea becomes realistic as most as possible.
 
