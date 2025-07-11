@@ -61,6 +61,4 @@ KG-FIT or **Knowledge Graph - Finetuning** {% cite jiang2024kg %} has a differen
 
 Maybe because I am already fall into **edc** so I am less investigated in this work. 
 
----
-
 I feel like I can integrate **edc** into my next action :>
