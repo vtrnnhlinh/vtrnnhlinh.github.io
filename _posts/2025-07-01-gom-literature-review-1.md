@@ -2,7 +2,7 @@
 layout: post
 title: Graph-of-Models - Literature Review 2 - GaCLLM
 date: 2025-07-01 13:30:00 +0700
-description: the second literature review of my series writting about my work I called Graph-of-Heads
+description: the second literature review of my series writting about my work I called Graph-of-Models
 tags: cse ml gom english
 categories: Linh-the-Engineer
 giscus_comments: true
@@ -14,7 +14,7 @@ related_publications: true
 
 In this second part, we will focus mainly on GaCLLM {% cite du2024large %} and my new take on the system I imagined after digging deeper the work.
 
-Read the previous part here: [Graphs-of-Heads - The First Literature Review](https://vtrnnhlinh.github.io/blog/2025/goh-literature-review-0/). 
+Read the previous part here: [Graph-of-Models - The First Literature Review](https://vtrnnhlinh.github.io/blog/2025/gom-literature-review-0/). 
 
 ---
 
