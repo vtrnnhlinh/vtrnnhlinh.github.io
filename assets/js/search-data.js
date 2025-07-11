@@ -59,15 +59,15 @@ ninja.data = [{
             window.location.href = "/blog/2025/my-first-ereader/";
           
         },
-      },{id: "post-graphs-of-heads-literature-review-2-gacllm",
+      },{id: "post-graph-of-models-literature-review-2-gacllm",
         
-          title: "Graphs-of-Heads - Literature Review 2 - GaCLLM",
+          title: "Graph-of-Models - Literature Review 2 - GaCLLM",
         
         description: "the second literature review of my series writting about my work I called Graph-of-Heads",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/goh-literature-review-1/";
+            window.location.href = "/blog/2025/gom-literature-review-1/";
           
         },
       },{id: "post-graph-of-models-literature-review-1-transformer-and-moh",
