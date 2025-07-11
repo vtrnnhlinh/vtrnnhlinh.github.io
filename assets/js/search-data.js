@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-june-2025-reading-log",
+        },{id: "post-graph-of-models-literature-review-3-and-they-call-llm-and-kg",
+        
+          title: "Graph-of-Models - Literature Review 3 - and they call LLM and KG",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/gom-literature-review-2/";
+          
+        },
+      },{id: "post-june-2025-reading-log",
         
           title: "June 2025 Reading Log",
         
