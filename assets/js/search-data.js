@@ -85,7 +85,7 @@ ninja.data = [{
         
           title: "Graph-of-Models - Literature Review 1 - Transformer and MoH",
         
-        description: "the first literature review of my series writting about my work I called Graph-of-Heads",
+        description: "the first literature review of my series writting about my work I called Graph-of-Models",
         section: "Posts",
         handler: () => {
           
