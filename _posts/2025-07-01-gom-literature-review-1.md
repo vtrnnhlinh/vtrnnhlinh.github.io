@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Graphs-of-Heads - Literature Review 2 - GaCLLM
+title: Graph-of-Models - Literature Review 2 - GaCLLM
 date: 2025-07-01 13:30:00 +0700
 description: the second literature review of my series writting about my work I called Graph-of-Heads
 tags: cse ml moe goh english
