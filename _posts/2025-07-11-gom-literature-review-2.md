@@ -58,8 +58,8 @@ The **Schema Retriever** of this work is what makes me impressed. It's a trained
 
 KG-FIT or **Knowledge Graph - Finetuning** {% cite jiang2024kg %} has a different mindset to **edc** {% cite zhang2024extract %}. It focuses on fine-tuning or having a powerful LLM to improve the KG. The steps are less complex, the step to process the input data is also more easier for the devs. My concern is the graph traversing and the size of LLM as my resource isn't enough to fine-tune a large model. 
 
----
-
 Maybe because I am already fall into **edc** so I am less investigated in this work. 
+
+---
 
 I feel like I can integrate **edc** into my next action :>
