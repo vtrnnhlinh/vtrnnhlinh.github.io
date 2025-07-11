@@ -18,3 +18,19 @@ After hopeless moments, I think I figure a prototype idea for my work. Everythin
 
 {% include figure.liquid loading="eager" path="assets/img/gom_first_draft.png" class="img-fluid rounded z-depth-1" %}
 My first proposed structure.
+
+The structure is simple, there are 3 main parts:
+- Input Processing
+- Graph-of-Models
+- Output Processing
+
+There are 3 problems we need to encounter:
+- How we shape the graph?
+- How we processing the input?
+- How the graphs "communicate" and give output?
+
+The limitation of this work is the complexity to make the graph or input processing, and there is a concern about extending the graph. So there must be a sustainable method to make the algorithm of making graph brilliant and less hand-work.
+
+## First Idea
+
+How to solve those 3 problems is a problem. I don't know if I should read some papers about Multi-Agent AI.
