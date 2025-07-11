@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-graph-of-models-literature-review-3-and-they-call-llm-and-kg",
+        },{id: "post-graph-of-models-first-sketch",
+        
+          title: "Graph-of-Models - First Sketch",
+        
+        description: "the first step in developing GoM, to sketch what I will do and the most abstract ideas",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/gom-design-0/";
+          
+        },
+      },{id: "post-graph-of-models-literature-review-3-and-they-call-llm-and-kg",
         
           title: "Graph-of-Models - Literature Review 3 - and they call LLM and KG",
         
