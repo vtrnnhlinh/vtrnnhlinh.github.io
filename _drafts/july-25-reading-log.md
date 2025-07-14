@@ -22,3 +22,5 @@ Rate: :star::star::star::star:
 ## 5. The Little Prince - 	Antoine de Saint-Exupéry
 
 The book of my heart. The masterpiece of my life.
+
+## 6. Nhật ký Đặng Thùy Trâm - Đặng Thùy Trâm 
