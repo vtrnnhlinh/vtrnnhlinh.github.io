@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-graph-of-models-first-sketch",
+        },{id: "post-graph-of-models-a-journey-of-a-thousand-miles-begins-with-a-single-step",
+        
+          title: "Graph-of-Models - a journey of a thousand miles begins with a single step...",
+        
+        description: "the results and reflection of cosine similarity graph and first attempt to fine-tune",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/gom-action-0/";
+          
+        },
+      },{id: "post-graph-of-models-first-sketch",
         
           title: "Graph-of-Models - First Sketch",
         
