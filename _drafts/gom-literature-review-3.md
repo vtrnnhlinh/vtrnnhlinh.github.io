@@ -18,4 +18,30 @@ After the last post reflecting on my actions in battling with datasets, I find o
 
 To save time and effort, as if applicable to my real-life job, training models isn't my sh*t, so I have to find easiest way for me to save resources and energy. I plan to use [Kaggle](https://www.kaggle.com/) to train my models. Because the focus of my work is isn't in the power of models but how they graph and connect all together.
 
-But my current focus will be about **Natural Language Processing (NLP)** to processing the datasets
+But my current focus will be about **Natural Language Processing (NLP)** to processing the datasets and the **Knowledge Graph (KGs)** as the dataframe.
+
+## Embracin' KGs
+
+**Knowledge Graph**, nodes represents **entities**, edges represents **relations**. There are some graph data models commonly used in practice, we will see~
+
+### Directed edge-labelled graphs
+
+Another name is **multi-relational graph**. Defined by a set of nodes and a set of directed labelled edges. Using this data model offers **flexibility** for integrating new sources of data.
+
+Standardised data model of this type is **Resource Description Framework (RDF)**. **RDF** defines different types of nodes:
+- **Internationalized Resource Indentifiers (IRIs)**: global indentification of entities on the Web
+- **literals**: string
+- **integers, dates,...**
+- **blank nodes**: anonymous nodes
+
+### Heterogeneous graphs
+
+This type of graph is a graph where each node and edge are flexible. Different types of nodes can connect directly to each other (?). I hope my understanding is fit.
+
+### Property graphs
+
+This type can provide additional flexibility when modelling more complex relations. The set will be like `property-value` and `label` associated with both nodes and edges.
+
+### Graph dataset
+
+This one consists a set of **named graphs** and **default graph**. 
