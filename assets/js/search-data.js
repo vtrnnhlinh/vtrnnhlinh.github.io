@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-graph-of-models-a-journey-of-a-thousand-miles-begins-with-a-single-step",
+        },{id: "post-codelynn-fantasies-and-mlops",
+        
+          title: "codeLynn - fantasies and MLOps",
+        
+        description: "in this post I will land another project",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/codeLynn-0/";
+          
+        },
+      },{id: "post-graph-of-models-a-journey-of-a-thousand-miles-begins-with-a-single-step",
         
           title: "Graph-of-Models - a journey of a thousand miles begins with a single step...",
         
