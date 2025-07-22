@@ -44,4 +44,4 @@ This type can provide additional flexibility when modelling more complex relatio
 
 ### Graph dataset
 
-This one consists a set of **named graphs** and **default graph**. 
+This one consists a set of **named graphs** and **default graph**. Default graph is a graph **without an ID**. This will help in **Linked Data**. Seems very interesting.
