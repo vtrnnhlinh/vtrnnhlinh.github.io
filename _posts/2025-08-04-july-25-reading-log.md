@@ -1,7 +1,7 @@
 ---
 layout: post
 title: July 2025 Reading Log
-date: 2025-07-07 00:30:00 +0700
+date: 2025-08-04 13:30:00 +0700
 categories: Journal-of-Sciences
 tags: books english # TAG names should always be lowercase
 giscus_comments: true
@@ -21,8 +21,14 @@ Rate: :star::star::star::star:
 
 ## 5. The Little Prince - 	Antoine de Saint-Exupéry
 
-The book of my heart. The masterpiece of my life.
+The book of my heart. The masterpiece of my life. To me, the philosophy of love in this book deeply affects my definition of love and more.
+
+More than love, it's friendship, life and your value.
+
+Rate: :star::star::star::star::star:
 
 ## 6. Nhật ký Đặng Thùy Trâm - Đặng Thùy Trâm 
 
-## 7. ??:>
+There is one thing I don't like about this book, is they compare it to "The Diary of a Young Girl". I believe this stand out as its own value, of a young petty bourgeoisie, dare to fight, dare to love, dare to dream about communism. I didn't read that book yet, but I don't like how they compare them.
+
+Rate: :star::star::star::star:
