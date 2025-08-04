@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-codelynn-fantasies-and-mlops",
+        },{id: "post-july-2025-reading-log",
+        
+          title: "July 2025 Reading Log",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/july-25-reading-log/";
+          
+        },
+      },{id: "post-codelynn-fantasies-and-mlops",
         
           title: "codeLynn - fantasies and MLOps",
         
