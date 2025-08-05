@@ -27,13 +27,15 @@ latest_posts:
 
 My dears,
 
-I am Linh, my middle is Nha. My parents named me with the hope I would be an elegant lady.
+I am Linh.
 
-I have some sides of myself. I will introduce one by one.
+Human is complex creature, I can't define myself with some kinds of nouns. But I think I can provide a vague image.
 
-A Computer Engineer that works with Static Testing and Machine Learning. The [thesis](vtrhttps://github.com/vtrnnhlinh/thesis/blob/main/HK242_264_DATN_LVTN_Finish_2111654_2110610.pdf) is in Quantum Computing.
+A Computer Engineer. Works with Embedded Systems, Internet of Things (IoT), Static Testing and Machine Learning. More ridiculous, the [thesis](vtrhttps://github.com/vtrnnhlinh/thesis/blob/main/HK242_264_DATN_LVTN_Finish_2111654_2110610.pdf) is in Quantum Computing.
 
-A tech nerd that loves C/C++, archlinux and nvim.
+You will doubt if I have a career goal or if I truly know what I love to do. Of course I do! I love C/C++, archlinux and nvim! But I also have an ambition for mysterious fields out of my comfort zone. *Veni, vidi, vici!* I see, I come, I conquer!
+
+A classy amateur literature enjoyer. 
 
 A knowledge seeker for cultures and languages, pretty fluent in English, interested in German, Russian, Chinese and Latin.
 
