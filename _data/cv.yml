@@ -73,7 +73,37 @@
     - title: Quantum Computing
       items:
         - Scheduling HPQC Resources
+- title: Volunteering
+  type: time_table
+  contents:
+    - title: Linguist, Linguist Scribe
+      institution: HabitRPG
+      year: 05/2018-09/2022
+      description:
+        - Contributed to Vietnamese localization of Habitica app with translations of more than 2500 strings.
+        - Translated "Whats New" page from English to Vietnamese.
+        - Reached 7/7 contribution level.
+  
+    - title: Head of Department
+      institution: The KOA Foundation
+      year: 06/2020-03/2021
+      description:
+        - Handled traffic statistics and analyzed the data.
+        - Guided the plan to attract more members.
+        - Hosted events for the people.
+        - Organized the structure of the server.
+        - Managed the staffs and volunteers.
+        - Directed the development road for the server.
 
+    - title: Operations Manager
+      institution: The KOA Foundation
+      year: 06/2020-03/2021
+      description:
+        - Analyzed traffic statistics.
+        - Managed volunteers of the organization Party Leaders and Sector Leaders.
+        - Impacted the Challenges for the Sectors and Parties.
+        - Organized the meetings between the moderators and administrators.
+        - Prepared the outline of server-wide events.
 - title: Other Interests
   type: list
   contents:
