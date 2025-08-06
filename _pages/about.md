@@ -33,7 +33,7 @@ Humans are complex creatures, I can't define myself with some kinds of nouns. Bu
 
 **A Computer Engineer**. Works with Embedded Systems, Internet of Things (IoT), Static Testing and Machine Learning. More ridiculously, the [thesis](https://github.com/vtrnnhlinh/thesis/blob/main/HK242_264_DATN_LVTN_Finish_2111654_2110610.pdf) is in Quantum Computing. You might wonder whether I have a career goal or if I truly know what I love to do. Of course I do! I love C/C++, archlinux and nvim! But I don't mind getting out of my comfort zone. *Veni, vidi, vici!* I see, I come, I conquer!
 
-**A Book Dragon**. Has her own piles of books to hoard and to protect :dragon_face:. I surf on the flow of history with classics, on the adventure with Gandalf to Middle Earth, sip the coffee at Book Club.
+**A Book Dragon**. Has her own piles of books to hoard and to protect :dragon_face:. I surf on the flow of history with classics, on the adventure with Gandalf to Middle Earth, and in a Book Club gang.
 
 **A Hopeless Soul**. Chases the beauty in cultures, languages and lullabies. I am learning German and Latin. Besides that, I have a deep love for traditional arts and music.
 
