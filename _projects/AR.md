@@ -4,7 +4,7 @@ title: AR - Augmented Reality for Photocards
 description: a support project for NSND Tu Long at ATVNCG Concert Day3, 4 with Augmented Reality technology
 img: assets/img/pj_PC_AR.png
 importance: 1
-category: fun
+category: engineer
 toc:
   sidebar: right
 mermaid:
