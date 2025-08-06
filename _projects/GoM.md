@@ -15,9 +15,9 @@ related_publications: true
 
 This is an overview of my work - **Graph-of-Models**. In this page I only describe the final core concept and implementation.
 
-If you want to read further about this work, about the progress of making it, from the very vague idea to the obstacles I have to tackle. I provide the source code and the post series below.
+If you want to read further about this work, about the progress of making it, from the very vague idea to the obstacles I have to tackle. I provide the source code and the post series at **Links** section.
 
-> - [Linh's Logbook - GoM](https://vtrnnhlinh.github.io/blog/tag/gom/).
-> - [GitHub - vtrnnhlinh/Graph-of-Models](https://github.com/vtrnnhlinh/Graph-of-Models).
+## Links
 
----
+- [Linh's Logbook - GoM](https://vtrnnhlinh.github.io/blog/tag/gom/).
+- [GitHub - vtrnnhlinh/Graph-of-Models](https://github.com/vtrnnhlinh/Graph-of-Models).
