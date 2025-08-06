@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is GraphRAG?
+title: GraphRAG and Linh - theory and practice
 date: 2025-07-01 13:30:00 +0700
 description: in this post I am on my way to battle with the datasets
 tags: cse ml gom english
