@@ -12,4 +12,8 @@ toc:
 related_publications: true
 ---
 
-This will be a mixture of theory and real-life experience.
+This will be a mixture of theory and real-life experience. When I type this line, god knows what I am doing. Unlike previous times, I jump into doing immediately like blind in the darkness, even though I made progress and basically *it runs!*. But I feel like I am missing a lot of powerful points in this concept, so I write this post, to force myself systemize the *shiet* I am doing.
+
+## The Theory and The Idea
+
+## ramblin' ramblin'
