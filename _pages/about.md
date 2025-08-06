@@ -27,28 +27,18 @@ latest_posts:
 
 My dears,
 
-I am Linh.
+I am Linh, la la Linh.
 
 Human is complex creature, I can't define myself with some kinds of nouns. But I think I can provide a vague image.
 
-A Computer Engineer. Works with Embedded Systems, Internet of Things (IoT), Static Testing and Machine Learning. More ridiculous, the [thesis](vtrhttps://github.com/vtrnnhlinh/thesis/blob/main/HK242_264_DATN_LVTN_Finish_2111654_2110610.pdf) is in Quantum Computing.
+A Computer Engineer. Works with Embedded Systems, Internet of Things (IoT), Static Testing and Machine Learning. More ridiculous, the [thesis](vtrhttps://github.com/vtrnnhlinh/thesis/blob/main/HK242_264_DATN_LVTN_Finish_2111654_2110610.pdf) is in Quantum Computing. You will doubt if I have a career goal or if I truly know what I love to do. Of course I do! I love C/C++, archlinux and nvim! But I don't mind getting out of my comfort zone. *Veni, vidi, vici!* I see, I come, I conquer!
 
-You will doubt if I have a career goal or if I truly know what I love to do. Of course I do! I love C/C++, archlinux and nvim! But I also have an ambition for mysterious fields out of my comfort zone. *Veni, vidi, vici!* I see, I come, I conquer!
+A Book Dragon. Has her own piles of books to hoard and to protect :dragon_face:. I surf on the flow of history with classics, on the adventure with Gandalf to Middle Earth, sip the coffee at Book Club.
 
-A classy amateur literature enjoyer. 
+A Hopeless Soul. Chases the beauty in cultures, languages and lullabies. I am learning German and Latin. Besides that, I have a deep love for traditional arts and music.
 
-A knowledge seeker for cultures and languages, pretty fluent in English, interested in German, Russian, Chinese and Latin.
+So welcome to my corner, I will share about whatever I feel like. Sometimes it is a story, sometimes it is a point of view, maybe in a rainy day, it is just a random bunch of paragraphs. But it is my thinking and writing - genuine and authentic.
 
-A hopeless romantic soul that loves our culture, our traditional arts and lullabies.
+Don't hesitate to leave a comment if you have something meaningful to ask or to share.
 
-A bookworm loves LoTR and likes collecting special editions of favorite authors.
-
-So in this blog, I will share maybe all about everything in my world. You can imagine it's like a hotpot, you can find anything in it.
-
-Sometimes it is a story, sometimes it is a point of view, maybe just a random bunch of paragraphs. But it is my genuine thinking and feeling.
-
-I try to divide my contents into 3 categories and mainly written in 2 languages: Vietnamese and English.
-
-Don't hesitate to leave a comment, I am glad to receive interactions from others.
-
-Thank you for visiting my small corner.
+Thank you for visiting this place, between billions of choices on the Internet.
