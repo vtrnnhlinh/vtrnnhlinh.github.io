@@ -406,6 +406,11 @@ ninja.data = [{
           description: "a support project for NSND Tu Long at ATVNCG Concert Day3, 4 with Augmented Reality technology",
           section: "Projects",handler: () => {
               window.location.href = "/projects/AR/";
+            },},{id: "projects-graph-of-models-graphin-39-the-vibe",
+          title: 'Graph-of-Models - graphin&amp;#39; the vibe',
+          description: "a concept of shaping a graph of small language models",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/GoM/";
             },},{
         id: 'social-discord',
         title: 'Discord',
