@@ -15,7 +15,10 @@
       institution: Ho Chi Minh City University of Technology, VNU-HCM
       year: 2021-2025
       description:
-        - <b>Thesis</b> - <a href="https://github.com/vtrnnhlinh/thesis/blob/main/HK242_264_DATN_LVTN_Finish_2111654_2110610.pdf">Studying and developing resource scheduling for quantum computing</a>.
+        - >-
+          <b>Thesis</b> -
+          <a href="https://github.com/vtrnnhlinh/thesis/blob/main/HK242_264_DATN_LVTN_Finish_2111654_2110610.pdf">
+          Studying and developing resource scheduling for quantum computing</a>.
 
 - title: Experience
   type: time_table
@@ -38,7 +41,9 @@
   contents:
     - title: <a href="https://vtrnnhlinh.github.io/projects/AR/">AR Photocards</a>
       year: 01/2025-03/2025
-      description: A simple Augmented Reality project to support idol made by <code>arjs</code> and <code>threejs</code>.
+      description: >-
+        A simple Augmented Reality project to support idol made by
+        <code>arjs</code> and <code>threejs</code>.
 
 - title: Certificates
   type: time_table
@@ -73,7 +78,7 @@
     - title: Quantum Computing
       items:
         - Scheduling HPQC Resources
-        
+
 - title: Volunteering
   type: time_table
   contents:
@@ -93,7 +98,7 @@
         - Guided the plan to attract more members.
         - Hosted events for the people.
         - Organized the structure of the server.
-        - Managed the staffs and volunteers.
+        - Managed the staff and volunteers.
         - Directed the development road for the server.
 
     - title: Operations Manager
@@ -105,7 +110,7 @@
         - Impacted the Challenges for the Sectors and Parties.
         - Organized the meetings between the moderators and administrators.
         - Prepared the outline of server-wide events.
-        
+
 - title: Other Interests
   type: list
   contents:
