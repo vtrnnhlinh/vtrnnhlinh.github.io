@@ -29,9 +29,9 @@ My dears,
 
 I am Linh, la la Linh.
 
-Human is complex creature, I can't define myself with some kinds of nouns. But I think I can provide a vague image.
+Humans are complex creatures, I can't define myself with some kinds of nouns. But I think I can provide a vague image.
 
-**A Computer Engineer**. Works with Embedded Systems, Internet of Things (IoT), Static Testing and Machine Learning. More ridiculous, the [thesis](vtrhttps://github.com/vtrnnhlinh/thesis/blob/main/HK242_264_DATN_LVTN_Finish_2111654_2110610.pdf) is in Quantum Computing. You will doubt if I have a career goal or if I truly know what I love to do. Of course I do! I love C/C++, archlinux and nvim! But I don't mind getting out of my comfort zone. *Veni, vidi, vici!* I see, I come, I conquer!
+**A Computer Engineer**. Works with Embedded Systems, Internet of Things (IoT), Static Testing and Machine Learning. More ridiculously, the [thesis](vtrhttps://github.com/vtrnnhlinh/thesis/blob/main/HK242_264_DATN_LVTN_Finish_2111654_2110610.pdf) is in Quantum Computing. You might wonder whether I have a career goal or if I truly know what I love to do. Of course I do! I love C/C++, archlinux and nvim! But I don't mind getting out of my comfort zone. *Veni, vidi, vici!* I see, I come, I conquer!
 
 **A Book Dragon**. Has her own piles of books to hoard and to protect :dragon_face:. I surf on the flow of history with classics, on the adventure with Gandalf to Middle Earth, sip the coffee at Book Club.
 
