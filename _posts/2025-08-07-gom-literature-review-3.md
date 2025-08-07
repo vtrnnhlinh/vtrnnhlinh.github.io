@@ -22,7 +22,7 @@ But my current focus will be about **Natural Language Processing (NLP)** to proc
 
 ## Embracin' KGs
 
-**Knowledge Graph**, nodes represents **entities**, edges represents **relations**. There are some graph data models commonly used in practice, we will see~
+**Knowledge Graph** {% cite hogan2021knowledge %}, nodes represents **entities**, edges represents **relations**. There are some graph data models commonly used in practice, we will see~
 
 ### Directed edge-labelled graphs
 
