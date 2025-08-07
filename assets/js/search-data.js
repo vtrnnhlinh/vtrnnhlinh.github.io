@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-july-2025-reading-log",
+        },{id: "post-graph-of-models-literature-review-4-embracing-the-kgs",
+        
+          title: "Graph-of-Models - Literature Review 4 - embracing the KGs",
+        
+        description: "in this post I reflect my understanding in shaping the KGs",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/gom-literature-review-3/";
+          
+        },
+      },{id: "post-july-2025-reading-log",
         
           title: "July 2025 Reading Log",
         
