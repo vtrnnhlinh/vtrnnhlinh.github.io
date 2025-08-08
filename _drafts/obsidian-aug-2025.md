@@ -11,8 +11,15 @@ toc:
   sidebar: right
 ---
 
+It was a long time since I start using Obsidian again, only when I recognize that I can install Obsidian on my company laptop without admin rights :skull:. I decide to give myself a fresh start, let check out what we will install and take it cool :sunglasses:.
+
 ## Theme
 
 My choice is **gruvbox**, always **gruvbox**, **gruvbox** is da bezt.
+
+{% include figure.liquid loading="eager" path="assets/img/gruvbox_obsidian.jpg" class="img-fluid rounded z-depth-1" %}
+My gruvbox theme on my Arch 😆
+
+There are a lot of great great choices about themes on Obsidian, but keep in mind to make it simple or you can be overwhelmed.
 
 ## Setup 
