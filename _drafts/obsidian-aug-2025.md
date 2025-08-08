@@ -23,3 +23,51 @@ My gruvbox theme on my Arch 😆
 There are a lot of great great choices about themes on Obsidian, but keep in mind to make it simple or you can be overwhelmed.
 
 ## Setup 
+
+### Controls & Settings
+
+First thing to do ever when you use Obsidian: `Files & Links > Automatically update internal links: ON`
+
+Then check out the Daily Note and prepare the template. You can consider mine:
+
+```md
+---
+tags:
+  - "#daily"
+  - "#journal"
+date: "{{date}}"
+---
+
+## Top 3 Goals
+
+- [ ] 
+- [ ] 
+- [ ] 
+
+## TickTick Sync
+
+- Today’s Tasks: 
+    - [ ] 
+    - [ ]  
+    - [ ] 
+- Overdue:
+    - [ ] 
+## Log
+
+**07:00 Morning Reflection:**  
+
+- Feeling:
+- Main focus:
+- Distraction to avoid:
+
+**19:00 Evening Reflection:**  
+
+- What did I do well today?
+- What was unfinished?
+- What’s the priority tomorrow?
+
+## Notes
+
+```
+
+I avoid creating too much folders, as we can structure the notes through tags and links
