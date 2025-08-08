@@ -16,4 +16,19 @@ This will be a mixture of theory and real-life experience. When I type this line
 
 ## The Theory and The Idea
 
+
+
 ## ramblin' ramblin'
+
+At this very moment, I have my graph already~, we use [neo4j](https://neo4j.com/) to become our graph database service.
+
+I use `localhost` btw, if you need a guide on this, ahehe :wink:
+
+We will show final result first, to show aesthetic :sparkles: 
+
+{% include figure.liquid loading="eager" path="assets/img/neo4j_graph.png" class="img-fluid rounded z-depth-1" %}
+My Knowledge Graph on `neo4j`
+
+To do this, I am inspired by `edc` {% cite zhang2024extract %} to extract the information step-by-step. I create a simpler python file to run as modifying other code is still over of my current abilities. There are some problems like wrong variable names as I use a general model like [`Qwen3-8B`](https://huggingface.co/Qwen/Qwen3-8B). It automatically fixed the variable to make it more "sense". I don't apply the usual process, like I didn't have the schema file even though I define something similar to it.
+
+Yap yap yap bla bla bla
