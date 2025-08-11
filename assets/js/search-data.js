@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-graph-of-models-literature-review-4-embracing-the-kgs",
+        },{id: "post-graphrag-and-linh-theory-and-practice",
+        
+          title: "GraphRAG and Linh - theory and practice",
+        
+        description: "in this post I am on my way to battle with the datasets",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/graphrag-theory-and-practice/";
+          
+        },
+      },{id: "post-graph-of-models-literature-review-4-embracing-the-kgs",
         
           title: "Graph-of-Models - Literature Review 4 - embracing the KGs",
         
