@@ -49,12 +49,22 @@ Here is the basic workflow:
 
 ```mermaid
 graph TD
-    A[User Question] --> B[Build Prompt with Schema & Examples]
-    B --> C[LLM Generates Cypher Query]
-    C --> D[Sanitize & Validate Query]
-    D --> E[Execute Query in Neo4j]
-    E --> F[Get Results]
-    F --> G[Store in ChromaDB]
+    A[❓ User Question] --> B[📝 Build Prompt with Schema & Examples]
+    B --> C[🤖 LLM Generates Cypher Query]
+    C --> D[🔍 Sanitize & Validate Query]
+    D --> E[🔗 Execute Query in Neo4j]
+    E --> F[📥 Get Results]
+    F --> G[💽 Store in ChromaDB]
 ```
 
 The challenges of this part is the suitable Cypher example to help the LLM generate suitable Cypher command with the input. I use `SemanticSimilarityExampleSelector` but god knows which method is more effective in my case. Currently the result isn't so stable. Still needs to figure out because of stupid model or too little examples.
+
+This is the workflow of final stage:
+
+```mermaid
+graph TD
+    A[❓ Input Question] --> B[🔍 Retrieve Relevant Data from ChromaDB]
+    B --> C[📚 Combine Retrieved Data with Knowledge Base]
+    C --> D[🤖 Reasoning / Generate Answer]
+    D --> E[✅ Output Final Answer]
+```
