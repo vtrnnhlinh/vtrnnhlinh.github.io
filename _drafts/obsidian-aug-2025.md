@@ -24,7 +24,7 @@ There are a lot of great great choices about themes on Obsidian, but keep in min
 
 ## Setup 
 
-### Controls & Settings
+### Vanilla
 
 First thing to do ever when you use Obsidian: `Files & Links > Automatically update internal links: ON`
 
@@ -70,4 +70,10 @@ date: "{{date}}"
 
 ```
 
-I avoid creating too much folders, as we can structure the notes through tags and links
+I avoid creating too much folders, as we can structure the notes through tags and links. Why? I believing creating too much folders will make friction to my creating notes as I have to choose which folder I should put the note on. Without folders and only tags, I can use shortcut to quickly create notes, and I can apply templates to have pre-fined tags and structure for each specialised note. I have 2 folders, one is for **Templates** and one is for **Daily** as I can automate Daily folder.
+
+### Community Plugins
+
+First one is **Dataview**, I use this to have an overview for my reading list. The useful resource is [Examples - Dataview](https://blacksmithgu.github.io/obsidian-dataview/resources/examples/).
+
+Second one is **Spaced Repition**. This plugin makes Obsidian more lively and more interactive. With this plugin, you can review knowledge easier without using a seperated flashcard app like Anki or Quizlet. 
