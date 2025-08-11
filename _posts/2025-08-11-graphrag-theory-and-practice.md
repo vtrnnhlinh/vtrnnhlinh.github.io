@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GraphRAG and Linh - theory and practice
-date: 2025-07-01 13:30:00 +0700
+date: 2025-08-11 17:50:00 +0700
 description: in this post I am on my way to battle with the datasets
 tags: cse ml gom english
 categories: Linh-the-Engineer
@@ -19,7 +19,23 @@ This will be a mixture of theory and real-life experience. When I type this line
 
 ## The Theory and The Idea
 
+**GraphRAG** is the work of Microsoft {% cite edge2024local %}, it can be described like below:
 
+```mermaid
+graph TD
+    A[🤖 Use LLM to Construct Knowledge Graph from Data/Text] --> B[🗂 Partition Graph into Hierarchical Communities]
+    B --> C[📝 Use LLM to Generate Summaries for Each Community]
+    C --> D[📦 Store Community Summaries in Vector Store]
+    D --> E[❓ Receive User Query]
+    E --> F[🔍 Retrieve Relevant Community Summaries via Semantic Search]
+    F --> G[🗺 Map-Reduce Reasoning: Map → Process Each Summary Independently]
+    G --> H[🧠 Reduce → Aggregate & Refine Answers]
+    H --> I[✅ Return Final Answer to User]
+    
+    I -->|Feedback/Refinement| A
+```
+
+To me, the hardest point of this work is graphing the knowledge graph, which is heavier about the technique, not the idea.
 
 ## ramblin' ramblin'
 
@@ -68,3 +84,7 @@ graph TD
     C --> D[🤖 Reasoning / Generate Answer]
     D --> E[✅ Output Final Answer]
 ```
+
+---
+
+Latest note: It seems I am missing a lot of powerful tools, will figure out to apply!
