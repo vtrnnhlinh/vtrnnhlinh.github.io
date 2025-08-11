@@ -10,6 +10,9 @@ related_posts: true
 toc:
   sidebar: right
 related_publications: true
+mermaid:
+  enable: true
+  zoomable: true
 ---
 
 This will be a mixture of theory and real-life experience. When I type this line, god knows what I am doing. Unlike previous times, I jump into doing immediately like blind in the darkness, even though I made progress and basically *it runs!*. But I feel like I am missing a lot of powerful points in this concept, so I write this post, to force myself systemize the *shiet* I am doing.
@@ -20,7 +23,7 @@ This will be a mixture of theory and real-life experience. When I type this line
 
 ## ramblin' ramblin'
 
-In my mindset, RAG has 3 steps: prepare the database, retrieve the data and reasoning with the data. This post only shares 2 first step, as the last step maybe involves other's work. I will talk vaguely about it in the [retrievin' the graph](#retrievin' the graph)
+In my mindset, RAG has 3 steps: prepare the database, retrieve the data and reasoning with the data. This post only shares 2 first step, as the last step maybe involves other's work. I will talk vaguely about last one in the **retrievin' the graph** section.
 
 ### shapin' the graph
 
@@ -40,4 +43,18 @@ Yap yap yap bla bla bla. There are suggestions that `neo4j` have native supports
 
 ### retrievin' the graph
 
+The main tools to use in this part is `langchain` and `chromadb`. We use `langchain` functions to generate the suitable Cypher command fetching data from `neo4j` database. `chromadb` is used to saved retrieved data, help modularizing the pipeline. 
 
+Here is the basic workflow:
+
+```mermaid
+graph TD
+    A[User Question] --> B[Build Prompt with Schema & Examples]
+    B --> C[LLM Generates Cypher Query]
+    C --> D[Sanitize & Validate Query]
+    D --> E[Execute Query in Neo4j]
+    E --> F[Get Results]
+    F --> G[Store in ChromaDB]
+```
+
+The challenges of this part is the suitable Cypher example to help the LLM generate suitable Cypher command with the input. I use `SemanticSimilarityExampleSelector` but god knows which method is more effective in my case. Currently the result isn't so stable. Still needs to figure out because of stupid model or too little examples.
