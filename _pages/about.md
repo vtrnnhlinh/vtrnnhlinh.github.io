@@ -29,7 +29,7 @@ My dears,
 
 I am Linh, la la Linh.
 
-Humans are complex creatures, I can't define myself with some kinds of nouns. But I think I can provide a vague image.
+Humans are creatures of complexity, collections of paradoxes, literature of chaos. How can I describe myself in some words? Like usual works of mine, let me choose **Top3** from my inner *Knowledge Graph (KG)*.
 
 **A Computer Engineer**. Works with Embedded Systems, Internet of Things (IoT), Static Testing and Machine Learning. More ridiculously, the [thesis](https://github.com/vtrnnhlinh/thesis/blob/main/HK242_264_DATN_LVTN_Finish_2111654_2110610.pdf) is in Quantum Computing. You might wonder whether I have a career goal or if I truly know what I love to do. Of course I do! I love C/C++, archlinux and nvim! But I don't mind getting out of my comfort zone. *Veni, vidi, vici!* I see, I come, I conquer!
 
@@ -43,6 +43,6 @@ Don't hesitate to leave a comment if you have something meaningful to ask or to 
 
 Thank you for visiting this place, between billions of choices on the Internet.
 
-Your new friend,
+Your friend,
 
 Linh.
