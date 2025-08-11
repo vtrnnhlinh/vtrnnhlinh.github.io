@@ -76,4 +76,8 @@ I avoid creating too much folders, as we can structure the notes through tags an
 
 First one is **Dataview**, I use this to have an overview for my reading list. The useful resource is [Examples - Dataview](https://blacksmithgu.github.io/obsidian-dataview/resources/examples/).
 
-Second one is **Spaced Repition**. This plugin makes Obsidian more lively and more interactive. With this plugin, you can review knowledge easier without using a seperated flashcard app like Anki or Quizlet. 
+Second one is **Spaced Repetition**. This plugin makes Obsidian more lively and more interactive. With this plugin, you can review knowledge easier without using a seperated flashcard app like Anki or Quizlet. 
+
+Third is **Git** as I backup my notes as a GitHub repo :clown_face: 
+
+Final one is **Chronology**, it's just a fancy calendar app. Why I choose this instead of other popular calendar plugin? It's simple and works like I want. 
