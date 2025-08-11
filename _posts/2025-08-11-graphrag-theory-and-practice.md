@@ -11,7 +11,7 @@ toc:
   sidebar: right
 related_publications: true
 mermaid:
-  enable: true
+  enabled: true
   zoomable: true
 ---
 
