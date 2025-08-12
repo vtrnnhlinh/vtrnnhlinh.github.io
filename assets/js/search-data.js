@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-graphrag-and-linh-theory-and-practice",
+        },{id: "post-obsidian-tour-august-2025",
+        
+          title: "Obsidian Tour - August 2025",
+        
+        description: "my obsidian theme and setup at August 2025",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/obsidian-aug-2025/";
+          
+        },
+      },{id: "post-graphrag-and-linh-theory-and-practice",
         
           title: "GraphRAG and Linh - theory and practice",
         
