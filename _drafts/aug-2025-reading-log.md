@@ -20,3 +20,11 @@ Rate: :star::star::star::star::star: (Will re-read in English version later)
 Cal Newport's books are my favorite ones in non-fiction category, I quite a fan of his "Deep Work". But with this book, I feel a wave of unsatistification. The value doesn't make me feel inspired or motivated.
 
 Rate: :star::star::star:
+
+## 9. The Practicing Mind - Thomas M. Sterner
+
+It's a pretty short read but the writing is kinda good. The ideas in the book isn't new, tbh. But the way the author explained, is soothing to read. The most valuable thing I learn from this book is: focusing on present, every will be better?
+
+Rate: :star::star::star::star:
+
+
