@@ -301,6 +301,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/aug-24-reading-log/";
           
         },
+      },{id: "post-đất-nước-trọn-niềm-vui-đăng-dương-và-chuyện-xưa",
+        
+          title: "Đất nước trọn niềm vui, Đăng Dương và chuyện xưa",
+        
+        description: "ngẫu nhiên về nhạc đỏ",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/dat-nuoc-tron-niem-vui/";
+          
+        },
       },{id: "post-july-24-reading-log",
         
           title: "July 24 Reading Log",
