@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-obsidian-tour-august-2025",
+        },{id: "post-đất-nước-trọn-niềm-vui-đăng-dương-và-chuyện-xưa",
+        
+          title: "Đất nước trọn niềm vui, Đăng Dương và chuyện xưa",
+        
+        description: "ngẫu nhiên về nhạc đỏ",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/dat-nuoc-tron-niem-vui/";
+          
+        },
+      },{id: "post-obsidian-tour-august-2025",
         
           title: "Obsidian Tour - August 2025",
         
@@ -299,17 +310,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/aug-24-reading-log/";
-          
-        },
-      },{id: "post-đất-nước-trọn-niềm-vui-đăng-dương-và-chuyện-xưa",
-        
-          title: "Đất nước trọn niềm vui, Đăng Dương và chuyện xưa",
-        
-        description: "ngẫu nhiên về nhạc đỏ",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/dat-nuoc-tron-niem-vui/";
           
         },
       },{id: "post-july-24-reading-log",
