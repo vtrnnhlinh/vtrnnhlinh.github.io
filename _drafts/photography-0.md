@@ -7,5 +7,6 @@ tags: nerdies photography hobbies english
 categories: Journal-of-Sciences
 giscus_comments: true
 related_posts: true
-toc: true
+toc:
+  sidebar: right
 ---
