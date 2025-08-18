@@ -13,3 +13,7 @@ toc:
 
 Hear me out, you need this bro! No more Lofigirl or whatever studying video on Youtube, this is superior. :sparkles: **Aesthetic** :sparkles:.
 
+---
+
+## What is it?
+
