@@ -23,7 +23,7 @@ Rate: :star::star::star:
 
 ## 9. The Practicing Mind - Thomas M. Sterner
 
-It's a pretty short read but the writing is kinda good. The ideas in the book isn't new, tbh. But the way the author explained, is soothing to read. The most valuable thing I learn from this book is: focusing on present, every will be better?
+It's a pretty short read but the writing is kinda good. The ideas in the book isn't new, tbh. A similar book we can tell is [Deep Work by Cal Newport](https://vtrnnhlinh.github.io/blog/2025/july-25-reading-log/#4-deep-work---cal-newport). But the way the author explained, is soothing to read. The most valuable thing I learn from this book is: focusing on present, every will be better?
 
 Rate: :star::star::star::star:
 
