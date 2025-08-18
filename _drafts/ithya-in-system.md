@@ -10,3 +10,6 @@ related_posts: true
 toc:
   sidebar: right
 ---
+
+Hear me out, you need this bro! No more Lofigirl or whatever studying video on Youtube, this is superior. :sparkles: **Aesthetic** :sparkles:.
+
