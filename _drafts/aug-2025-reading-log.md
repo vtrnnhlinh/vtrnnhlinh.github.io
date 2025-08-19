@@ -27,4 +27,6 @@ It's a pretty short read but the writing is kinda good. The ideas in the book is
 
 Rate: :star::star::star::star:
 
+## 10. Hà Nội ta đánh Mỹ giỏi - Nguyễn Tuân
+
 
