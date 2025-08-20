@@ -11,7 +11,7 @@ toc:
   sidebar: right
 ---
 
-Hear me out, you need this bro! No more Lofigirl or whatever studying video on Youtube, this is superior. :sparkles: **Aesthetic** :sparkles:.
+Hear me out, you need this bro! Specially when you are a Sorceress (like me!), and want to fantanize your study. 
 
 ---
 
