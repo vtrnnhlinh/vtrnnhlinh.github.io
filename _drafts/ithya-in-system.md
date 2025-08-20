@@ -11,10 +11,20 @@ toc:
   sidebar: right
 ---
 
-Hear me out, you need this bro! Specially when you are a Sorceress (like me!), and want to fantanize your study. 
+Hear me out! This one is peak, fr fr. It's like the child of [lofi girl](https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow) and [studytogether](https://www.studytogether.com/). Even though there is a lot of space for improvement, but I believe the product is already solid and worth every penny. I drop the link here :point_down:
+
+> [Steam: Ithya Magic Studies](https://store.steampowered.com/app/3330250/Ithya_Magic_Studies/)
 
 ---
 
-## What is it?
+## What do I like about it?
+
+First, the artstyle is very aesthetic :sparkles:. I love the cartoon 2D artstyle. It's good for my one cell brain. 3D is heavier than necessary to an app for productivity.
+
+Second, the gamification motivates me to open my laptop instead of doom-scrolling my phone. I want to be a great mage, weeza!
+
+Third, various of scene makes me imagine every scene of my life fits with action happening on screen, that helps me a lot to focus on study.
+
+Finally, it fits perfectly with my current workstream!
 
 ## How do I use it?
