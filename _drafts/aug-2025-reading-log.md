@@ -29,4 +29,11 @@ Rate: :star::star::star::star:
 
 ## 10. Hà Nội ta đánh Mỹ giỏi - Nguyễn Tuân
 
+The first time I know about this work, it is kind of negative, as they believe he must be forced to write this. So when I approach this work, I have a kind of worry, wonder if Nguyễn's figure in my heart will be broken. 
+
+But that feeling vanishes as soon as I start reading. God knows if any force can break this frickin' stubborn soul. He is himself, the man that can spend endless pages to yap about a single blossom to the ancient history, from the wet rice culture to the sentimental of spring days. He is himself, the one who can trashtalk, curse, yell at anyone he feels uncomfortable around.
+
+He is not brain-washed or whatever you can blame when he doesn't act like you expected. He is more than some articles in "Vang bóng một thời" that he wrote in his young age. He is a serious, hardworking writer. He writes to express, or flex himself. And human is complex, not to mention an artist soul like him. More than the love for beauty, for travel, he is also a Vietnamese, a son of Hanoi. In the war, he is the one observes its cruelty and he is a victim of the war when he lost his beloved ones. So what did you expect from a straightforward person like him?
+
+Rate: :star::star::star::star::star:
 
