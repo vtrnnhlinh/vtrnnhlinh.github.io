@@ -33,4 +33,16 @@ Finally, it fits perfectly with my current workstream! It contributes value to m
 
 For productivity, it has 3 main features: Timer, Tasks and Journal. The Journal feature is kinda useless, I only use it to reset the Task list. The Timer feature will make it duplicates with the Pomodoro timer on TickTick. I decide to use Stopwatch on TickTick to start a big task, and with Ithya, I divide it into smaller tasks and use Pomodoro timer of Ithya. Listing out subtasks in Ithya is less frictional than on Ticktick due to its simplicity nature.
 
+> insert pic I use it
 
+The music in this game/app is phenomenal, remember to wear your earphones when using it! The rain effect and the lofi is very calming and inspirational. When studying, I set to scene she studies at home or at library, then in break time I move to nature scene. I enjoy fantasizing myself in that lil cute girl!
+
+## Things can be improved
+
+The Journal feature is suck. Luckily I use Ticktick as main system and this is just a small fantasy motivating myself or I can scream. Heard that they will have a patch update to improve this soon
+
+Some statistic and chart will be satistifying and nice. More customization to the character like hair, skin color will be lovely but not necessary :laughing:
+
+---
+
+So that is all for the day!
