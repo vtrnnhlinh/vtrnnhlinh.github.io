@@ -25,6 +25,10 @@ Second, the gamification motivates me to open my laptop instead of doom-scrollin
 
 Third, various of scene makes me imagine every scene of my life fits with action happening on screen, that helps me a lot to focus on study.
 
-Finally, it fits perfectly with my current workstream!
+Finally, it fits perfectly with my current workstream! It contributes value to my current system, not being an useless addition that contributes nothing but duplicated features with other apps.
+
+> insert steam page including hours using here
 
 ## How do I use it?
+
+For productivity, it has 3 main features: Timer, Tasks and Journal. The Journal feature is kinda useless, I only use it to reset the Task list. The Timer feature will make it duplicates with the Pomodoro timer on TickTick
