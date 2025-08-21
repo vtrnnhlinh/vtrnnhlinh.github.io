@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-đất-nước-trọn-niềm-vui-đăng-dương-và-chuyện-xưa",
+        },{id: "post-ithya-magic-studies-joins-the-gang",
+        
+          title: "Ithya Magic Studies joins the gang",
+        
+        description: "my new recommend tool for studying",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/ithya-in-system/";
+          
+        },
+      },{id: "post-đất-nước-trọn-niềm-vui-đăng-dương-và-chuyện-xưa",
         
           title: "Đất nước trọn niềm vui, Đăng Dương và chuyện xưa",
         
