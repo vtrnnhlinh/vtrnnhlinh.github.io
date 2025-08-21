@@ -31,4 +31,6 @@ Finally, it fits perfectly with my current workstream! It contributes value to m
 
 ## How do I use it?
 
-For productivity, it has 3 main features: Timer, Tasks and Journal. The Journal feature is kinda useless, I only use it to reset the Task list. The Timer feature will make it duplicates with the Pomodoro timer on TickTick
+For productivity, it has 3 main features: Timer, Tasks and Journal. The Journal feature is kinda useless, I only use it to reset the Task list. The Timer feature will make it duplicates with the Pomodoro timer on TickTick. I decide to use Stopwatch on TickTick to start a big task, and with Ithya, I divide it into smaller tasks and use Pomodoro timer of Ithya. Listing out subtasks in Ithya is less frictional than on Ticktick due to its simplicity nature.
+
+
