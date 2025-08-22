@@ -4,7 +4,7 @@ title: My Life Setup - Summer 2025
 date: 2025-06-27 00:30:00 +0700
 description: my routines and tools used for summer 2025
 tags: cse languages plans english
-categories: Linh-the-Engineer
+categories: Journal-of-Sciences
 giscus_comments: true
 related_posts: true
 toc:
