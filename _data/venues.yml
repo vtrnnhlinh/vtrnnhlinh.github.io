@@ -9,3 +9,7 @@
 "ACM":
   url: https://dl.acm.org/
   color: "#1d2021"
+
+"ACL":
+  url: https://aclanthology.org/
+  color: "#fb4934"
