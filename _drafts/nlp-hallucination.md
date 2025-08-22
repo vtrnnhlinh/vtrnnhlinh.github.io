@@ -44,3 +44,21 @@ According to the work {% cite maynez2020faithfulness %}, and {% cite ji2023surve
 Collecting heuristic data creates mismatches between source and data, that leads to *hallucination*. And in big datasets, there are cases the examples are duplicated or similar, lead the model to favor generating repeats of memorized phrases.
 
 Another problem from data is some doesn't have factual knowledge, like some datasets for chit-chat style. That leads to extrinsic hallucinations. In this case I am not sure it's a bug or a feature.
+
+### From Training and Inference
+
+Even when your dataset has very little divergence, *hallucination* will find you in another way around, in the way you train and inference your model :evil:.
+
+First is maybe your encoder isn't suitable? The encoder will turn your input text into meaningful representations, if the encoder learns wrong correlations between different parts of the training data, everything will drift away, fast.
+
+Then the decoder, what if the decoder attends the wrong part of encoded input source? Or some decoding strategy improves the generation diversity, like *TopK* sampling strategy is positively correlated with increased hallucination. This is a point we need to find a middle ground to balance between hallucination and answer quality.
+
+The *exposure bias*, or the discrepancy between training and inference is also a problem. It's like you when studying and in exam. But I think this one can be improved through some techniques :sparkles:.
+
+Pre-trained models can prioritize parametric knowledge over the provided input that leads to hallucination. About this information, I wonder about fine-tuned models *thonk*.
+
+## Metrics
+
+Thank you, this is very valuable section, I love it. Added FRANK (cite frank) and TRUE (cite true) to my collection to assess my model later. These have the effort to quantifying hallucination?
+
+One of the simplest approaches is to leverage **lexical features (n-grams)**. This will calculate overlap information and contradictions between 
