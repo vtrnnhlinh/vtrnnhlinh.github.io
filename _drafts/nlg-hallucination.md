@@ -61,4 +61,46 @@ Pre-trained models can prioritize parametric knowledge over the provided input t
 
 Thank you, this is very valuable section, I love it. Added FRANK (cite frank) and TRUE (cite true) to my collection to assess my model later. These have the effort to quantifying hallucination?
 
-One of the simplest approaches is to leverage **lexical features (n-grams)**. This will calculate overlap information and contradictions between 
+One of the simplest approaches is to leverage **lexical features (n-grams)**. This will calculate overlap information and contradictions between generated and reference texts.
+
+NLG tasks can have many outputs from the same input (one-to-many mapping), so to simplify the evaluation setup, they only rely on the source text as sole reference.
+
+**Model-based** metrics measure the hallucination degree in generated text.
+
+*Information Extraction (IE)-based* use IE models to represent the knowledge in tuplet format then verify against tuplets extracted from source/reference.
+
+*QA-based* works in 3 steps:
+
+- Question generation (QG) model generates set of question-answer pairs
+- Question answering (QA) model answers generated questions - become the reference
+- Hallucination score calculates base on **similarity** of corresponding answers.
+
+The problems of these 2 approaches are similar, it depends on the accuracy of the models using to evaluate.
+
+*Natural Language Inference (NLI)* metrics determines whether a "hypothesis" is true, false or undetermined. NLI-based approach seems more robust, but also has bad performance in abstractive summarization task.
+
+*Faithfulness Classification Metrics* are constructed to improve from the NLI-based metrics. But I don't understand how superior it is (yet).
+
+*LM-based Metrics*. This method uses 2 language models.
+
+- Unconditional LM - only trained on the **target data**.
+- Conditional LM - trained on **both source and target data**.
+
+*Human Evaluation* is still one of the most commonly used approaches as current automatic evaluation of hallucinations is still imperfect. Two main forms of human evaluation:
+
+- **Scoring**: human rate the hallucination level in a range
+- **Comparing**: Human compare output texts with baseline
+
+## Hallucination Mitigation Methods
+
+### Data-Related
+
+- Building a faithful dataset. You can use "rice-fuel machines" to write clean and faithful targets, another way is use model to generate data and instruct annotators to label.
+- Clean Data Automatically. This approach suitable for case has low or moderate level of noise in original data.
+- Augment Information. Help model has better semantic understanding, enforce a stronger alignment between inputs and outputs.
+
+### Modeling and Inference
+
+In my understanding, we can reduce the hallucination by specific (or tailor-made) encoder, attention and decoder strategy. This seems an interesting aspect to discover? :wink: Ahehe.
+
+About Training strategy, there are a lot of approaches, we can consider some famous one like Reinforcement Learning (RL), Multi-task Learning, etc etc. An another way to reduce hallucination while requires less training data is post-processing. Some of works follow **generate-then-define strategy**. They use SOTA models to get the results, then correct it my using small amount of automatically generated training data.
