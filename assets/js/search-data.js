@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-ithya-magic-studies-joins-the-gang",
+        },{id: "post-aug-2025-reading-log",
+        
+          title: "Aug 2025 Reading Log",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/aug-2025-reading-log/";
+          
+        },
+      },{id: "post-ithya-magic-studies-joins-the-gang",
         
           title: "Ithya Magic Studies joins the gang",
         
