@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-aug-2025-reading-log",
+        },{id: "post-hallucination-in-nlg-hallelujah-yappin-39-ya",
+        
+          title: "Hallucination in NLG - Hallelujah yappin&#39; ya",
+        
+        description: "in this post we will discover the world of hallucination in NLG",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/nlg-hallucination/";
+          
+        },
+      },{id: "post-aug-2025-reading-log",
         
           title: "Aug 2025 Reading Log",
         
