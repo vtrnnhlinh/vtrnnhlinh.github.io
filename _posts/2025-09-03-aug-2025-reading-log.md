@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Aug 2025 Reading Log
-date: 2025-08-04 13:30:00 +0700
+date: 2025-09-03 09:15:00 +0700
 categories: Journal-of-Sciences
 tags: books english # TAG names should always be lowercase
 giscus_comments: true
@@ -37,3 +37,8 @@ He is not brain-washed or whatever you can blame when he doesn't act like you ex
 
 Rate: :star::star::star::star::star:
 
+11. Mưa Đỏ - Chu Lai
+
+It's unexpectedly good. I admit, I read it because of the trending movie. But you can't deny that this is a good book. It makes me have a feeling, or have a related feeling to War and Peace by Leo Tolstoi. Of course it's about the philosophy or massiveness of the work, you can't compare to War and Peace like it. But the history background of the story, it is lively and gives me a delusion. The characters are diversity in their appearances and mindsets. The author's mindset when explaining this battle is also similar to mine. Very gud.
+
+Rate: :star::star::star::star::star:
