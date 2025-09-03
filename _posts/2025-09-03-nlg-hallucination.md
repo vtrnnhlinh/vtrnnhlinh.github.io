@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hallucination in NLG - Hallelujah yappin' ya
-date: 2025-08-07 09:15:00 +0700
+date: 2025-09-03 09:15:00 +0700
 description: in this post we will discover the world of hallucination in NLG
 tags: cse ml gom english
 categories: Linh-the-Engineer
@@ -104,3 +104,7 @@ The problems of these 2 approaches are similar, it depends on the accuracy of th
 In my understanding, we can reduce the hallucination by specific (or tailor-made) encoder, attention and decoder strategy. This seems an interesting aspect to discover? :wink: Ahehe.
 
 About Training strategy, there are a lot of approaches, we can consider some famous one like Reinforcement Learning (RL), Multi-task Learning, etc etc. An another way to reduce hallucination while requires less training data is post-processing. Some of works follow **generate-then-define strategy**. They use SOTA models to get the results, then correct it my using small amount of automatically generated training data.
+
+---
+
+I plan to write longer but I think it's long enough and I know enough to use in this topic, and I am afraid if I don't publish now, I won't have any motivations to finish like I planned. So here you are, a piece of my learning.
