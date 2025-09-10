@@ -488,6 +488,11 @@ ninja.data = [{
           description: "a concept of shaping a graph of small language models",
           section: "Projects",handler: () => {
               window.location.href = "/projects/GoM/";
+            },},{id: "projects-graphrag-mini-pipeline",
+          title: 'graphrag-mini-pipeline',
+          description: "an implementation of GraphRAG",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/graphrag-mini-pipeline/";
             },},{
         id: 'social-discord',
         title: 'Discord',
