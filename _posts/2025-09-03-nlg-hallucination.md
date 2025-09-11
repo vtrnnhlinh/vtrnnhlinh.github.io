@@ -3,7 +3,7 @@ layout: post
 title: Hallucination in NLG - Hallelujah yappin' ya
 date: 2025-09-03 09:15:00 +0700
 description: in this post we will discover the world of hallucination in NLG
-tags: cse ml gom english
+tags: cse ml english
 categories: Linh-the-Engineer
 giscus_comments: true
 related_posts: true
