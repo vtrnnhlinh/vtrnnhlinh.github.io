@@ -1,6 +1,6 @@
 ---
 layout: post
-title: shocking news - Linh is getting into photography
+title: shocking news - Linh is getting into photography and failed
 date: 2024-11-03 16:15:00 +0700
 description: Linh's first step to learn photography
 tags: nerdies photography hobbies english
