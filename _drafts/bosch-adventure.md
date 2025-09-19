@@ -14,6 +14,8 @@ toc:
 
 My journey with my dream company finally came to an end. It's not a happy ending, or even a little bit of "spicy" but I think it's still a memorial part of my life.
 
+In this post I will purely talk casually, don't expect anything valuable for yourself or a well structured post with logical reasoning. This is more about emotions and story-telling.
+
 ## What I did at Bosch?
 
 I joined a team focusing on **Static Testing** using [*Astree*](https://www.absint.com/astree/index.htm). After about 2 months, I start digging in the AI project. It's like a duality, morning staring at C, afternoon jumping around with Python.
