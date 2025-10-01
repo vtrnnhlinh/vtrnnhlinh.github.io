@@ -37,7 +37,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-hallucination-in-nlg-hallelujah-yappin-39-ya",
+        },{id: "post-sep-2025-reading-log",
+        
+          title: "Sep 2025 Reading Log",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/sep-2025-reading-log/";
+          
+        },
+      },{id: "post-i-am-done-my-internship-at-bosch",
+        
+          title: "I am done my internship at Bosch",
+        
+        description: "my sharing after finishing my internship at Bosch",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/bosch-adventure/";
+          
+        },
+      },{id: "post-hallucination-in-nlg-hallelujah-yappin-39-ya",
         
           title: "Hallucination in NLG - Hallelujah yappin&#39; ya",
         
