@@ -3,7 +3,7 @@ layout: post
 title: GraphRAG and Linh - theory and practice
 date: 2025-08-11 17:50:00 +0700
 description: in this post I am on my way to battle with the datasets
-tags: cse ml gom english
+tags: cse ml english
 categories: Linh-the-Engineer
 giscus_comments: true
 related_posts: true
