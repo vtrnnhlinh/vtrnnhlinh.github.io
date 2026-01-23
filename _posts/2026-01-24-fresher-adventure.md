@@ -40,7 +40,7 @@ If I can have another chance, I will:
 
 I have to say that I was quite overconfident after [my intership at Bosch](https://vtrnnhlinh.github.io/blog/2025/bosch-adventure/) but everything is harder than I thought. I was really desparate if you wonder.
 
-With the recommend letter I got at Bosch and the exciting working with KG <d-footnote>Knowledge Graph</d-footnote>, I almost believe the job finding would be easy, but the reality slapped my face.
+With the recommend letter I got at Bosch and the exciting working with KG, I almost believe the job finding would be easy, but the reality slapped my face.
 
 My first priority was *AI/ML Engineer*, but I barely got any feedbacks. At the time I applied, there was no room for freshers, and the profile of mixing between *Embedded Systems* and *RAG* seems not so exciting.
 
