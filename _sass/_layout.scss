@@ -7,14 +7,15 @@ body {
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
   font-family: "Bookerly", serif;
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    scroll-margin-top: 66px;
-  }
+}
+
+body h1,
+body h2,
+body h3,
+body h4,
+body h5,
+body h6 {
+  scroll-margin-top: 66px;
 }
 
 body.fixed-top-nav {
@@ -46,9 +47,9 @@ body.sticky-bottom-footer {
 
 // TODO: redefine publications layout.
 
-/*****************************************************************************
-* Projects
-*****************************************************************************/
+/******************************************************************************
+ * Projects
+ ******************************************************************************/
 
 // TODO: redefine projects layout.
 
