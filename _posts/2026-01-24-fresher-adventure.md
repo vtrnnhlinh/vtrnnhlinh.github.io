@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A new chapter, officially in the industry
-date: 2026-01-23 00:00:00 +0700
+date: 2026-01-24 06:15:00 +0700
 description: My sharing and reflection about my study program and fresher position
 tags: cse career academic english
 categories: Journal-of-Sciences
@@ -9,6 +9,7 @@ giscus_comments: true
 related_posts: true
 toc:
   sidebar: right
+featured: true
 ---
 
 It is pretty safe to announce that I finished my study program (graduated!) and got a job offer. So in this post, I want to have some reflection and ideas for my future.
@@ -43,7 +44,7 @@ With the recommend letter I got at Bosch and the exciting working with KG<d-foot
 
 My first priority was *AI/ML Engineer*, but I barely got any feedbacks. At the time I applied, there was no room for freshers, and the profile of mixing between *Embedded Systems* and *RAG* seems not so exciting.
 
-The AI bubble, the market reality and my disadvantages in this field made me had to change the tactic and created another CV for Embedded Systems. And voila, yes, I got an offer in Embedded Sytems (and for dramatic effect, I will outsource at Bosch)
+The AI bubble, the market reality and my disadvantages in this field made me had to change the tactic and created another CV for Embedded Systems. And voila, yes, I got an offer in Embedded Sytems (and for dramatic effect, I will outsource at Bosch).
 
 If I can do better, I will:
 
@@ -55,4 +56,23 @@ If I can do better, I will:
 
 ### Self-study for the life!
 
-It's hard to maintain self-study when my habit routines are all destroyed and there is no real deadlines. But I hope I can 
+It's hard to maintain self-study when my habit routines are all destroyed and there is no real deadlines. But I hope I can continue my knowledge chasing adventure. Why? 
+
+For realistic view, my knowledge in my field has a lot of space for improvement. I want to be better to have better... salary! *Too many hobbies to maintain*.
+
+For a more romantic view, studying in many fields help me extending my world view, to have a kinder heart and an empathy soul. Study for its own sake.
+
+### More n More
+
+At work, I hope I can get out of my comfort zone, to show my *true color* :sparkles: and socialize with other teammates.
+
+After work, I hope I can maintain a healthy lifestyle and improve my survival skills.
+
+---
+
+Last words,
+
+It's not only "hope" or "wish", we need a plan to get into actions and consistently with it.
+
+May my Lord Elrond blesses me.
+
