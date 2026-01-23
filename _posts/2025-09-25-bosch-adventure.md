@@ -3,7 +3,7 @@ layout: post
 title: I am done my internship at Bosch
 date: 2025-09-25 17:30:00 +0700
 description: my sharing after finishing my internship at Bosch
-tags: cse plans english
+tags: cse career english
 categories: Journal-of-Sciences
 giscus_comments: true
 related_posts: true

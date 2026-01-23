@@ -1,7 +1,27 @@
 /*******************************************************************************
  * Styles for the base elements of the theme.
  ******************************************************************************/
+/* Register Bookerly Font */
+@font-face {
+    font-family: 'Bookerly';
+    src: url('#{$fa-font-path}/Bookerly.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
 
+@font-face {
+    font-family: 'Bookerly';
+    src: url('#{$fa-font-path}/Bookerly Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bookerly';
+    src: url('#{$fa-font-path}/Bookerly Italic.ttf'') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
 // Typography
 
 p,

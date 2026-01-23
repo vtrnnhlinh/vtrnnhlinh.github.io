@@ -3,7 +3,7 @@ layout: post
 title: From First Interview to First Internship
 date: 2024-04-22 06:00:00 +0700
 description: my story and some sharings when I get into intership hunt
-tags: cse work english
+tags: cse career english
 categories: Journal-of-Sciences
 giscus_comments: true
 related_posts: true
