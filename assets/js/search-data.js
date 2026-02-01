@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-new-chapter-officially-in-the-industry",
+        },{id: "post-jan-2026-reading-log",
+        
+          title: "Jan 2026 Reading Log",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/jan-26-reading-log/";
+          
+        },
+      },{id: "post-a-new-chapter-officially-in-the-industry",
         
           title: "A new chapter, officially in the industry",
         
