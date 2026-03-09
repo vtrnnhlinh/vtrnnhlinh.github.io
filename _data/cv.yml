@@ -13,7 +13,7 @@
   contents:
     - title: Bachelor
       institution: Ho Chi Minh City University of Technology, VNU-HCM
-      year: 2021-2025
+      year: 2021-2026
       description:
         - >-
           <b>Thesis</b> -
@@ -22,10 +22,17 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Junior Embedded Systems Engineer
+      institution: HCLTech
+      year: 02/2026-Current
+      description:
+        - Onsite at <b>BGSV</b>, current at department <b>MS/EPC-PS</b>
+
     - title: Embedded Engineer Intern
       institution: Bosch Global Software Technologies Vietnam (BGSV)
       year: 04/2025-10/2025
       description:
+        - Department - <b>MS/EAI-VM</b>
         - <b>Static Testing</b> with Astree.
         - <b>Large Language Model</b> with Mixture-of-Experts (MoE).
 
