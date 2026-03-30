@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-jan-2026-reading-log",
+        },{id: "post-mar-2026-reading-log",
+        
+          title: "Mar 2026 Reading Log",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/mar-26-reading-log/";
+          
+        },
+      },{id: "post-jan-2026-reading-log",
         
           title: "Jan 2026 Reading Log",
         
