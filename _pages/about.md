@@ -25,29 +25,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-*"Who am I?"* — the question that popped up in Socrates’s mind more than twenty centuries ago — became a central topic of philosophy through the ages.
+*"Who am I?"* - the question that popped up in Socrates’s mind more than twenty centuries ago - became a central topic of philosophy through the ages.
 
 It's a complicated topic that you can't vaguely summarize in just a few words. *O Captain! My Captain!* I am the boat on an adventure, finding its harbor. The boat rides the raging waves, anchored toward a lighthouse, meeting its own dolphins and miracles.
 
 Doors open, doors close. Life is full of chances and surprises. I am the greatest adventurer of my life. I fall into rose bushes; I rise up from muddy puddles. I meet wonderful people and feel the spring rain wash over me.
 
-Who am I?
+They give me work title as an engineer, so I guess I can call myself an engineer then. Being a computer engineer is not all about code, but also about analysis and procedure, about communication and responsibilities. 
 
-Who am I?
-
-Who am I?
-
-You can call me an engineer or a dreamer.
-
-You can call me Vietnamese or a commie.
-
-You can call me woke or a leftist.
-
-A noun can't summarize a whole human.
-
-At the end of the day, I am Linh, la la Linh.
-
-*C'est la vie~*
+I don't know what else to describe about myself. Because some nouns can't describe a whole human. And at the end of the day, *I am Linh, la la Linh*.
 
 Thank you for visiting this place, between billions of choices on the Internet.
 
