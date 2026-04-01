@@ -34,7 +34,7 @@
       description:
         - Department - <b>MS/EAI-VM</b>
         - <b>Static Testing</b> with Astree.
-        - <b>Large Language Model</b> with Mixture-of-Experts (MoE).
+        - <b>GraphRAG</b> in AUTOSAR.
 
     - title: Embedded System Intern
       institution: Vierobot
