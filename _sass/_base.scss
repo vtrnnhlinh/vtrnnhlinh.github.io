@@ -22,8 +22,8 @@
   font-weight: normal;
   font-style: italic;
 }
-// Typography
 
+// Typography
 p,
 h1,
 h2,
@@ -37,6 +37,16 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+}
+
+// Add a ZSH arrow prompt to all headings
+h1, h2, h3, h4, h5, h6 {
+  &::before {
+    content: "➜ ";
+    color: var(--global-theme-color);
+    margin-right: 8px;
+    font-weight: bold;
+  }
 }
 
 hr {
@@ -55,13 +65,17 @@ table {
   }
 }
 
+// Make links look slightly more like typed commands
 a,
 table.table a {
   color: var(--global-theme-color);
+  text-decoration: none;
+  border-bottom: 1px dashed var(--global-theme-color); // Dashed underline
+  transition: all 0.2s ease-in-out;
 
   &:hover {
-    color: var(--global-theme-color);
-    text-decoration: underline;
+    color: var(--global-hover-color);
+    border-bottom: 1px solid var(--global-hover-color); // Solid on hover
   }
 
   &:hover:after :not(.nav-item.dropdown) {
@@ -106,6 +120,7 @@ blockquote {
     h5,
     h6 {
       color: var(--global-tip-block-title);
+      &::before { color: var(--global-tip-block-title); }
     }
   }
 
@@ -127,6 +142,7 @@ blockquote {
     h5,
     h6 {
       color: var(--global-warning-block-title);
+      &::before { color: var(--global-warning-block-title); }
     }
   }
 
@@ -148,6 +164,7 @@ blockquote {
     h5,
     h6 {
       color: var(--global-danger-block-title);
+      &::before { color: var(--global-danger-block-title); }
     }
   }
 }
@@ -184,10 +201,13 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 }
 
-// Card
+// Card (Terminal window panes)
 
 .card {
   background-color: var(--global-card-bg-color);
+  border: 1px solid var(--global-divider-color);
+  border-radius: 4px; // Sharper corners fit the terminal vibe better
+  box-shadow: none; // Flatten the UI
 
   .card-img {
     width: 100%;
@@ -196,6 +216,7 @@ ul.task-list input[type="checkbox"] {
 
   .card-title {
     color: var(--global-text-color);
+    &::before { display: none; } // Hide prompt inside cards
   }
 
   .card-body {
@@ -253,6 +274,7 @@ ul.task-list input[type="checkbox"] {
 
   a {
     color: inherit;
+    border-bottom: none; // Override for descriptions
 
     &:hover {
       color: var(--global-theme-color);
@@ -262,6 +284,11 @@ ul.task-list input[type="checkbox"] {
 }
 
 // Navbar customization
+// Blinking animation for the cursor
+@keyframes terminal-blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
 
 .navbar {
   box-shadow: none;
@@ -276,10 +303,12 @@ ul.task-list input[type="checkbox"] {
 
   a:not(.active) {
     color: var(--global-text-color);
+    border-bottom: none;
   }
 
   a:hover {
     color: var(--global-hover-color);
+    border-bottom: none;
   }
 
   .dropdown-divider {
@@ -289,6 +318,7 @@ ul.task-list input[type="checkbox"] {
 
 .dropdown-item {
   color: var(--global-text-color);
+  border-bottom: none;
 
   &:hover {
     color: var(--global-hover-color);
@@ -296,46 +326,98 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// ZSH Prompt Navbar Navigation
 .navbar.navbar-light {
+  border-bottom: 2px solid var(--global-divider-color);
+  padding-bottom: 10px;
+  
   a {
+    border-bottom: none; // Disable the dashed link style in navbar
     &:hover {
       text-decoration: none;
+      border-bottom: none;
     }
   }
 
   .navbar-brand {
-    color: var(--global-text-color);
+    color: var(--global-theme-color) !important;
+    font-weight: bold;
+    margin-right: 15px;
+    
+    &::before { content: "vtrnnhlinh@arch"; }
+    &::after { 
+      content: ":"; 
+      color: var(--global-text-color);
+    }
+    
+    // Hide the actual text if it's rendered by the theme
+    font-size: 0; 
+    &::before, &::after { font-size: 1.2rem; }
   }
 
-  .navbar-nav .nav-item .nav-link {
-    color: var(--global-text-color);
+  // The 'directory' tabs
+  .navbar-nav {
+    display: flex;
+    align-items: baseline;
 
-    &:hover {
-      color: var(--global-hover-color);
+    .nav-item {
+      margin-right: 10px;
+      
+      .nav-link {
+        color: var(--global-text-color-light);
+        transition: all 0.2s ease;
+        
+        // Inactive tabs show a 'cd' command on hover
+        &::before { 
+          content: "cd "; 
+          color: var(--global-hover-color); 
+          opacity: 0; 
+          transition: opacity 0.2s;
+        }
+        
+        &:hover {
+          color: var(--global-text-color);
+          &::before { opacity: 1; }
+        }
+      }
+    }
+
+    // The active tab becomes the current path with a shell prompt
+    .nav-item.active {
+      .nav-link {
+        color: var(--global-hover-color);
+        font-weight: bold;
+        background: transparent;
+        
+        &::before {
+          content: "~/";
+          color: var(--global-hover-color);
+          opacity: 1;
+        }
+        
+        &::after {
+          content: " $ \2588"; // '$' sign and blinking block cursor
+          color: var(--global-text-color);
+          animation: terminal-blink 1.2s step-end infinite;
+          margin-left: 8px;
+        }
+      }
     }
   }
 
-  .navbar-nav .nav-item.active > .nav-link {
-    background-color: inherit;
-    font-weight: bolder;
-    color: var(--global-theme-color);
-
-    &:hover {
-      color: var(--global-hover-color);
-    }
-  }
-
+  // Social Icons override
   .navbar-brand.social {
     padding-bottom: 0;
     padding-top: 0;
     font-size: 1.7rem;
+    &::before, &::after { content: none; } // Remove ZSH prompt for social block
 
     a {
+      border-bottom: none;
       img {
         width: 1.7rem;
         height: 1.7rem;
         margin-bottom: 0.5rem;
-        // margin: 0.5rem;
       }
 
       svg {
@@ -424,6 +506,7 @@ ul.task-list input[type="checkbox"] {
     font-size: 4rem;
 
     a {
+      border-bottom: none;
       img {
         width: 3.2rem;
         height: 3.2rem;
@@ -505,6 +588,7 @@ footer.fixed-bottom {
 
   a {
     color: var(--global-footer-link-color);
+    border-bottom: none;
 
     &:hover {
       color: var(--global-theme-color);
@@ -575,6 +659,7 @@ footer.sticky-bottom {
   h1 {
     color: var(--global-theme-color);
     font-size: 5rem;
+    &::before { display: none; }
   }
 }
 
@@ -647,6 +732,7 @@ footer.sticky-bottom {
     .page-link {
       color: var(--global-text-color);
       padding: 0.75rem 1.15rem;
+      border-bottom: none;
 
       &:hover {
         color: $black-color;
@@ -709,6 +795,7 @@ footer.sticky-bottom {
     margin-top: 2rem;
     margin-bottom: 1rem;
     text-align: right;
+    &::before { display: none; }
   }
 }
 
@@ -723,6 +810,7 @@ footer.sticky-bottom {
     text-align: center;
     margin-top: 1em;
     margin-bottom: 1em;
+    &::before { display: none; }
   }
 
   h2 {
@@ -739,6 +827,7 @@ footer.sticky-bottom {
     padding-top: 1rem;
     margin-top: 2rem;
     text-align: right;
+    &::before { display: none; }
   }
 
   ol.bibliography {
@@ -763,6 +852,7 @@ footer.sticky-bottom {
 
           a {
             color: white;
+            border-bottom: none;
 
             &:hover {
               text-decoration: none;
@@ -816,6 +906,7 @@ footer.sticky-bottom {
           padding-top: 0.25rem;
           padding-bottom: 0.25rem;
           margin-left: 0;
+          border-bottom-style: solid; // Override dashed links for buttons
 
           &:hover {
             color: var(--global-theme-color);
@@ -897,10 +988,11 @@ figure.highlight {
 }
 
 pre {
-  color: var(--global-theme-color);
+  color: var(--global-text-color); // Let syntax highlighting do the work
   background-color: var(--global-code-bg-color);
-  border-radius: 6px;
-  padding: 6px 12px;
+  border-radius: 0; // Terminals don't usually have rounded code blocks
+  border-left: 3px solid var(--global-theme-color); // Accent border
+  padding: 10px 12px;
 
   pre,
   code {
@@ -908,6 +1000,7 @@ pre {
     border-radius: 0;
     margin-bottom: 0;
     padding: 0;
+    border-left: none; // Prevent double border on nested
   }
 }
 
@@ -944,6 +1037,7 @@ html.transition *:after {
     a {
       color: var(--global-text-color-light);
       text-decoration: none;
+      border-bottom: none;
 
       &:hover {
         color: var(--global-theme-color);
@@ -1091,6 +1185,7 @@ nav[data-toggle="toc"] {
   .nav > li > a {
     color: var(--global-text-color);
     font-size: 0.75rem;
+    border-bottom: none;
 
     &:hover {
       color: var(--global-hover-color);
@@ -1124,6 +1219,7 @@ nav[data-toggle="toc"] {
   a {
     color: var(--global-text-color-light);
     text-decoration: none;
+    border-bottom: none;
 
     .card-text {
       overflow: hidden;
@@ -1190,7 +1286,6 @@ swiper-container {
 }
 
 // Ninja Keys
-// for more options, check https://github.com/ssleptsov/ninja-keys?tab=readme-ov-file#css-variables
 ninja-keys {
   --ninja-accent-color: var(--global-theme-color);
   --ninja-icon-size: 0px;

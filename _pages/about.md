@@ -25,6 +25,24 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<ul class="fastfetch-info">
+  <li><strong>OS</strong> Arch Linux x86_64</li>
+  <li><strong>Host</strong> Web Developer</li>
+  <li><strong>Kernel</strong> PHP-MVC / JavaScript</li>
+  <li><strong>WM</strong> Hyprland</li>
+  <li><strong>Terminal</strong> kitty</li>
+  <li><strong>Shell</strong> zsh 5.9</li>
+  <li><strong>Theme</strong> Gruvbox Dark</li>
+  <li><strong>Palette</strong>
+    <div class="color-palette">
+      <span class="color-block" style="background: #cc241d;"></span> <span class="color-block" style="background: #98971a;"></span> <span class="color-block" style="background: #d79921;"></span> <span class="color-block" style="background: #458588;"></span> <span class="color-block" style="background: #b16286;"></span> <span class="color-block" style="background: #689d6a;"></span> <span class="color-block" style="background: #a89984;"></span> </div>
+  </li>
+</ul>
+
+<p>
+  Welcome to my terminal. Here is where I detail my projects, write about software architecture, and occasionally muse about life.
+</p>
+
 *"Who am I?"* - the question that popped up in Socrates’s mind more than twenty centuries ago - became a central topic of philosophy through the ages.
 
 It's a complicated topic that you can't vaguely summarize in just a few words. *O Captain! My Captain!* I am the boat on an adventure, finding its harbor. The boat rides the raging waves, anchored toward a lighthouse, meeting its own dolphins and miracles.

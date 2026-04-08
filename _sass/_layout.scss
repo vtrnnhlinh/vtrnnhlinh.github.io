@@ -6,7 +6,8 @@ body {
   padding-bottom: 70px;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
-  font-family: "Bookerly", serif;
+  font-family: "Fira Code", "MesloLGS NF", "JetBrains Mono", "Courier New", monospace;
+  line-height: 1.6;
 }
 
 body h1,
@@ -39,7 +40,82 @@ body.sticky-bottom-footer {
   }
 }
 
-// TODO: redefine content layout.
+/* Fastfetch Layout for the About Page */
+.post > article {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap; // Allow news/footer to wrap below
+  align-items: flex-start;
+  gap: 3rem;
+  margin-top: 2rem;
+
+  > .profile {
+    width: 35%;
+    margin: 0;
+    float: none;
+    
+    img {
+      border-radius: 2px; // Terminals have sharp edges
+      border: 2px solid var(--global-divider-color);
+      filter: grayscale(80%) sepia(20%) contrast(120%);
+    }
+  }
+
+  > .clearfix {
+    width: calc(65% - 3rem);
+    
+    // Fastfetch key-value styling
+    .fastfetch-info {
+      list-style-type: none;
+      padding: 0;
+      margin: 0 0 2rem 0;
+
+      li {
+        display: flex;
+        align-items: center;
+        margin-bottom: 0.4rem;
+        
+        strong {
+          color: var(--global-theme-color);
+          width: 140px;
+          flex-shrink: 0;
+          
+          &::after {
+            content: " ~"; // Fastfetch separator
+            color: var(--global-text-color-light);
+            margin-left: 5px;
+          }
+        }
+
+        .color-palette {
+          display: flex;
+          gap: 4px;
+          margin-top: 5px;
+          
+          .color-block {
+            width: 18px;
+            height: 18px;
+            border-radius: 2px;
+            display: inline-block;
+          }
+        }
+      }
+    }
+  }
+
+  // Ensure bottom elements span full width
+  > h2, > .social, > .news, > .latest_posts {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .post > article {
+    flex-direction: column;
+    gap: 1.5rem;
+    > .profile, > .clearfix { width: 100%; }
+  }
+}
 
 /******************************************************************************
  * Publications
