@@ -39,33 +39,49 @@ body.sticky-bottom-footer {
     width: 100%;
   }
 }
-
 /* Fastfetch Layout for the About Page */
 .post > article {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap; // Allow news/footer to wrap below
-  align-items: flex-start;
-  gap: 3rem;
+  display: grid;
+  grid-template-columns: 35% 1fr; /* 35% for Avatar, 1fr for Fastfetch info */
+  column-gap: 3rem;
+  row-gap: 1rem; /* Space between paragraphs */
   margin-top: 2rem;
 
+  /* Make all direct sections (news, footer, etc) full width by default */
+  > * {
+    grid-column: 1 / -1;
+  }
+
+  /* Force the profile to the top left cell */
   > .profile {
-    width: 35%;
+    grid-column: 1 / 2;
+    grid-row: 1 / 2;
+    width: 100%;
     margin: 0;
-    float: none;
+    float: none; // Override default al-folio float
 
     img {
-      border-radius: 2px; // Terminals have sharp edges
+      border-radius: 2px;
       border: 2px solid var(--global-divider-color);
       filter: grayscale(80%) sepia(20%) contrast(120%);
     }
   }
 
+  /* 'display: contents' strips the wrapper div, letting the markdown 
+     paragraphs and fastfetch <ul> act as direct grid items */
   > .clearfix {
-    width: calc(65% - 3rem);
+    display: contents;
 
-    // Fastfetch key-value styling
-    .fastfetch-info {
+    /* Make all paragraphs, blockquotes, etc., full width */
+    > * {
+      grid-column: 1 / -1;
+    }
+
+    /* Target the fastfetch block specifically to sit next to the profile */
+    > .fastfetch-info {
+      grid-column: 2 / 3;
+      grid-row: 1 / 2; /* Force it into the first row alongside the profile */
+
       list-style-type: none;
       padding: 0;
       margin: 0 0 2rem 0;
@@ -81,7 +97,7 @@ body.sticky-bottom-footer {
           flex-shrink: 0;
 
           &::after {
-            content: " ~"; // Fastfetch separator
+            content: " ~";
             color: var(--global-text-color-light);
             margin-left: 5px;
           }
@@ -102,27 +118,21 @@ body.sticky-bottom-footer {
       }
     }
   }
-
-  // Ensure bottom elements span full width
-  > h2,
-  > .social,
-  > .news,
-  > .latest_posts {
-    width: 100%;
-  }
 }
 
+/* Mobile responsiveness */
 @media (max-width: 768px) {
   .post > article {
+    display: flex;
     flex-direction: column;
     gap: 1.5rem;
-    > .profile,
+
     > .clearfix {
+      display: block; /* Revert back to standard block layout for mobile */
       width: 100%;
     }
   }
 }
-
 /******************************************************************************
  * Publications
  ******************************************************************************/
