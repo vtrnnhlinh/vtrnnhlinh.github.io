@@ -126,10 +126,59 @@ body.sticky-bottom-footer {
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
-
     > .clearfix {
-      display: block; /* Revert back to standard block layout for mobile */
-      width: 100%;
+      display: contents;
+
+      /* Default: everything full width BELOW the profile row */
+      > * {
+        grid-column: 1 / -1;
+        grid-row: auto;
+      }
+
+      /* Fastfetch sits beside the avatar */
+      > .fastfetch-info {
+        grid-column: 2 / 3;
+        grid-row: 1;
+
+        list-style-type: none;
+        padding: 0;
+        margin: 0 0 2rem 0;
+
+        li {
+          display: flex;
+          align-items: center;
+          margin-bottom: 0.4rem;
+
+          strong {
+            color: var(--global-theme-color);
+            width: 140px;
+            flex-shrink: 0;
+
+            &::after {
+              content: " ~";
+              color: var(--global-text-color-light);
+              margin-left: 5px;
+            }
+          }
+
+          .color-palette {
+            display: flex;
+            gap: 4px;
+            margin-top: 5px;
+
+            .color-block {
+              width: 18px;
+              height: 18px;
+              border-radius: 2px;
+            }
+          }
+        }
+      }
+
+      /* Everything after fastfetch starts below the grid row */
+      > :not(.fastfetch-info) {
+        grid-row: 2;
+      }
     }
   }
 }
