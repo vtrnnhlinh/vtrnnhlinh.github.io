@@ -53,7 +53,7 @@ body.sticky-bottom-footer {
     width: 35%;
     margin: 0;
     float: none;
-    
+
     img {
       border-radius: 2px; // Terminals have sharp edges
       border: 2px solid var(--global-divider-color);
@@ -63,7 +63,7 @@ body.sticky-bottom-footer {
 
   > .clearfix {
     width: calc(65% - 3rem);
-    
+
     // Fastfetch key-value styling
     .fastfetch-info {
       list-style-type: none;
@@ -74,12 +74,12 @@ body.sticky-bottom-footer {
         display: flex;
         align-items: center;
         margin-bottom: 0.4rem;
-        
+
         strong {
           color: var(--global-theme-color);
           width: 140px;
           flex-shrink: 0;
-          
+
           &::after {
             content: " ~"; // Fastfetch separator
             color: var(--global-text-color-light);
@@ -91,7 +91,7 @@ body.sticky-bottom-footer {
           display: flex;
           gap: 4px;
           margin-top: 5px;
-          
+
           .color-block {
             width: 18px;
             height: 18px;
@@ -104,7 +104,10 @@ body.sticky-bottom-footer {
   }
 
   // Ensure bottom elements span full width
-  > h2, > .social, > .news, > .latest_posts {
+  > h2,
+  > .social,
+  > .news,
+  > .latest_posts {
     width: 100%;
   }
 }
@@ -113,7 +116,10 @@ body.sticky-bottom-footer {
   .post > article {
     flex-direction: column;
     gap: 1.5rem;
-    > .profile, > .clearfix { width: 100%; }
+    > .profile,
+    > .clearfix {
+      width: 100%;
+    }
   }
 }
 

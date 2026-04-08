@@ -40,7 +40,12 @@ strong {
 }
 
 // Add a ZSH arrow prompt to all headings
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   &::before {
     content: "➜ ";
     color: var(--global-theme-color);
@@ -120,7 +125,9 @@ blockquote {
     h5,
     h6 {
       color: var(--global-tip-block-title);
-      &::before { color: var(--global-tip-block-title); }
+      &::before {
+        color: var(--global-tip-block-title);
+      }
     }
   }
 
@@ -142,7 +149,9 @@ blockquote {
     h5,
     h6 {
       color: var(--global-warning-block-title);
-      &::before { color: var(--global-warning-block-title); }
+      &::before {
+        color: var(--global-warning-block-title);
+      }
     }
   }
 
@@ -164,7 +173,9 @@ blockquote {
     h5,
     h6 {
       color: var(--global-danger-block-title);
-      &::before { color: var(--global-danger-block-title); }
+      &::before {
+        color: var(--global-danger-block-title);
+      }
     }
   }
 }
@@ -216,7 +227,9 @@ ul.task-list input[type="checkbox"] {
 
   .card-title {
     color: var(--global-text-color);
-    &::before { display: none; } // Hide prompt inside cards
+    &::before {
+      display: none;
+    } // Hide prompt inside cards
   }
 
   .card-body {
@@ -286,8 +299,13 @@ ul.task-list input[type="checkbox"] {
 // Navbar customization
 // Blinking animation for the cursor
 @keyframes terminal-blink {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0; }
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
 }
 
 .navbar {
@@ -330,7 +348,7 @@ ul.task-list input[type="checkbox"] {
 .navbar.navbar-light {
   border-bottom: 2px solid var(--global-divider-color);
   padding-bottom: 10px;
-  
+
   a {
     border-bottom: none; // Disable the dashed link style in navbar
     &:hover {
@@ -343,16 +361,21 @@ ul.task-list input[type="checkbox"] {
     color: var(--global-theme-color) !important;
     font-weight: bold;
     margin-right: 15px;
-    
-    &::before { content: "vtrnnhlinh@arch"; }
-    &::after { 
-      content: ":"; 
+
+    &::before {
+      content: "vtrnnhlinh@arch";
+    }
+    &::after {
+      content: ":";
       color: var(--global-text-color);
     }
-    
+
     // Hide the actual text if it's rendered by the theme
-    font-size: 0; 
-    &::before, &::after { font-size: 1.2rem; }
+    font-size: 0;
+    &::before,
+    &::after {
+      font-size: 1.2rem;
+    }
   }
 
   // The 'directory' tabs
@@ -362,22 +385,24 @@ ul.task-list input[type="checkbox"] {
 
     .nav-item {
       margin-right: 10px;
-      
+
       .nav-link {
         color: var(--global-text-color-light);
         transition: all 0.2s ease;
-        
+
         // Inactive tabs show a 'cd' command on hover
-        &::before { 
-          content: "cd "; 
-          color: var(--global-hover-color); 
-          opacity: 0; 
+        &::before {
+          content: "cd ";
+          color: var(--global-hover-color);
+          opacity: 0;
           transition: opacity 0.2s;
         }
-        
+
         &:hover {
           color: var(--global-text-color);
-          &::before { opacity: 1; }
+          &::before {
+            opacity: 1;
+          }
         }
       }
     }
@@ -388,13 +413,13 @@ ul.task-list input[type="checkbox"] {
         color: var(--global-hover-color);
         font-weight: bold;
         background: transparent;
-        
+
         &::before {
           content: "~/";
           color: var(--global-hover-color);
           opacity: 1;
         }
-        
+
         &::after {
           content: " $ \2588"; // '$' sign and blinking block cursor
           color: var(--global-text-color);
@@ -410,7 +435,10 @@ ul.task-list input[type="checkbox"] {
     padding-bottom: 0;
     padding-top: 0;
     font-size: 1.7rem;
-    &::before, &::after { content: none; } // Remove ZSH prompt for social block
+    &::before,
+    &::after {
+      content: none;
+    } // Remove ZSH prompt for social block
 
     a {
       border-bottom: none;
@@ -659,7 +687,9 @@ footer.sticky-bottom {
   h1 {
     color: var(--global-theme-color);
     font-size: 5rem;
-    &::before { display: none; }
+    &::before {
+      display: none;
+    }
   }
 }
 
@@ -795,7 +825,9 @@ footer.sticky-bottom {
     margin-top: 2rem;
     margin-bottom: 1rem;
     text-align: right;
-    &::before { display: none; }
+    &::before {
+      display: none;
+    }
   }
 }
 
@@ -810,7 +842,9 @@ footer.sticky-bottom {
     text-align: center;
     margin-top: 1em;
     margin-bottom: 1em;
-    &::before { display: none; }
+    &::before {
+      display: none;
+    }
   }
 
   h2 {
@@ -827,7 +861,9 @@ footer.sticky-bottom {
     padding-top: 1rem;
     margin-top: 2rem;
     text-align: right;
-    &::before { display: none; }
+    &::before {
+      display: none;
+    }
   }
 
   ol.bibliography {
