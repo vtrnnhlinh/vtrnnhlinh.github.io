@@ -25,24 +25,18 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My dears,
+*"Who am I?"* - the question that popped up in Socrates’s mind more than twenty centuries ago - became a central topic of philosophy through the ages.
 
-I am Linh, la la Linh.
+It's a complicated topic that you can't vaguely summarize in just a few words. *O Captain! My Captain!* I am the boat on an adventure, finding its harbor. The boat rides the raging waves, anchored toward a lighthouse, meeting its own dolphins and miracles.
 
-Humans are creatures of complexity, collections of paradoxes, literature of chaos. How can I describe myself in some words? Like usual works of mine, let me choose **Top3** from my inner *Knowledge Graph (KG)*.
+Doors open, doors close. Life is full of chances and surprises. I am the greatest adventurer of my life. I fall into rose bushes; I rise up from muddy puddles. I meet wonderful people and feel the spring rain wash over me.
 
-**A Computer Engineer**. Works with Embedded Systems, Internet of Things (IoT), Static Testing and Machine Learning. More ridiculously, the thesis is in Quantum Computing. You might wonder whether I have a career goal or if I truly know what I love to do. Of course I do! I love C/C++, archlinux and nvim! But I don't mind getting out of my comfort zone. *Veni, vidi, vici!* I see, I come, I conquer!
+They give me work title as an engineer, so I guess I can call myself an engineer then. Being a computer engineer is not all about code, but also about analysis and procedure, about communication and responsibilities. 
 
-**A Book Dragon**. Has her own piles of books to hoard and to protect :dragon_face:. I surf on the flow of history with classics, on the adventure with Gandalf to Middle Earth, and in a Book Club gang.
-
-**A Hopeless Soul**. Chases the beauty in cultures, languages and lullabies. I am learning German and Latin. Besides that, I have a deep love for traditional arts and music.
-
-So welcome to my corner, I will share about whatever I feel like. Sometimes it is a story, sometimes it is a point of view, maybe in a rainy day, it is just a random bunch of paragraphs. But it is my thinking and writing - genuine and authentic.
-
-Don't hesitate to leave a comment if you have something meaningful to ask or to share.
+I don't know what else to describe about myself. Because some nouns can't describe a whole human. And at the end of the day, *I am Linh, la la Linh*.
 
 Thank you for visiting this place, between billions of choices on the Internet.
 
-Your friend,
+Your *Homo Sapien*,
 
 Linh.
