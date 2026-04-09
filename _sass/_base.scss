@@ -994,37 +994,56 @@ footer.sticky-bottom {
       } // Kill the default FontAwesome icons
     }
 
-    .post-tags a {
-      color: #b8bb26;
+    .post-tags a:not([href*="/tag/"]):not([href*="/category/"]) {
+      color: var(--global-date-color);
 
-      border-color: #b8bb26;
+      border-color: var(--global-date-color);
+
+      font-family: monospace;
+
+      &::before {
+        content: "%";
+
+        color: var(--global-date-color);
+
+        opacity: 0.75;
+
+        margin-right: 3px;
+      }
+    }
+
+    .post-tags a[href*="/tag/"] {
+      color: var(--global-tag-color);
+
+      border-color: var(--global-tag-color);
 
       font-family: monospace;
 
       &::before {
         content: "#";
 
-        color: #98971a;
+        color: var(--global-tag-color);
 
-        opacity: 0.9;
+        opacity: 0.75;
 
         margin-right: 3px;
       }
     }
 
+    .post-tags a[href*="/category/"],
     .post-categories a {
-      color: #83a598;
+      color: var(--global-category-color);
 
-      border-color: #83a598;
+      border-color: var(--global-category-color);
 
       font-family: monospace;
 
       &::before {
         content: "@";
 
-        color: #458588;
+        color: var(--global-category-color);
 
-        opacity: 0.9;
+        opacity: 0.75;
 
         margin-right: 3px;
       }
@@ -1484,37 +1503,56 @@ html.transition *:after {
     }
   }
 
-  .post-tags a {
-    color: #b8bb26;
+  .post-tags a:not([href*="/tag/"]):not([href*="/category/"]) {
+    color: var(--global-date-color);
 
-    border-color: #b8bb26;
+    border-color: var(--global-date-color);
+
+    font-family: monospace;
+
+    &::before {
+      content: "%";
+
+      color: var(--global-date-color);
+
+      opacity: 0.75;
+
+      margin-right: 1px;
+    }
+  }
+
+  .post-tags a[href*="/tag/"] {
+    color: var(--global-tag-color);
+
+    border-color: var(--global-tag-color);
 
     font-family: monospace;
 
     &::before {
       content: "#";
 
-      color: #98971a;
+      color: var(--global-tag-color);
 
-      opacity: 0.9;
+      opacity: 0.75;
 
       margin-right: 1px;
     }
   }
 
+  .post-tags a[href*="/category/"],
   .post-categories a {
-    color: #83a598;
+    color: var(--global-category-color);
 
-    border-color: #83a598;
+    border-color: var(--global-category-color);
 
     font-family: monospace;
 
     &::before {
       content: "@";
 
-      color: #458588;
+      color: var(--global-category-color);
 
-      opacity: 0.9;
+      opacity: 0.75;
 
       margin-right: 1px;
     }
