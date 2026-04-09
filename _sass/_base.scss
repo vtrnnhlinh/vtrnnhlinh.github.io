@@ -734,42 +734,59 @@ footer.sticky-bottom {
       font-size: 0.875rem;
       margin-bottom: 0;
       font-weight: bold;
-      
-      &::before { content: "[ "; opacity: 0.7; }
-      &::after { content: " ]"; opacity: 0.7; }
+
+      &::before {
+        content: "[ ";
+        opacity: 0.7;
+      }
+      &::after {
+        content: " ]";
+        opacity: 0.7;
+      }
     }
 
-    .post-tags, .post-categories {
+    .post-tags,
+    .post-categories {
       font-size: 0.875rem;
       padding-top: 0.5rem;
       padding-bottom: 0;
       display: flex;
       gap: 10px;
-      
+
       a {
         text-decoration: none;
         border-bottom: 1px dashed;
         transition: all 0.2s ease;
-        
+
         &:hover {
           border-bottom-style: solid;
           color: var(--global-hover-color);
         }
       }
-      
-      i { display: none; }
+
+      i {
+        display: none;
+      }
     }
 
     .post-tags a {
       color: var(--global-tag-color);
       border-color: var(--global-tag-color);
-      &::before { content: "#"; opacity: 0.7; margin-right: 1px; }
+      &::before {
+        content: "#";
+        opacity: 0.7;
+        margin-right: 1px;
+      }
     }
 
     .post-categories a {
       color: var(--global-category-color);
       border-color: var(--global-category-color);
-      &::before { content: "@"; opacity: 0.7; margin-right: 1px; }
+      &::before {
+        content: "@";
+        opacity: 0.7;
+        margin-right: 1px;
+      }
     }
 
     a {
@@ -1093,12 +1110,19 @@ html.transition *:after {
     font-size: 0.875rem;
     margin-bottom: 0;
     font-weight: bold;
-    
-    &::before { content: "[ "; opacity: 0.7; }
-    &::after { content: " ]"; opacity: 0.7; }
+
+    &::before {
+      content: "[ ";
+      opacity: 0.7;
+    }
+    &::after {
+      content: " ]";
+      opacity: 0.7;
+    }
   }
 
-  .post-tags, .post-categories {
+  .post-tags,
+  .post-categories {
     font-size: 0.875rem;
     padding-top: 0.5rem;
     padding-bottom: 1rem;
@@ -1108,26 +1132,36 @@ html.transition *:after {
     a {
       text-decoration: none;
       border-bottom: 1px dashed;
-      
+
       &:hover {
         color: var(--global-theme-color);
         border-bottom-style: solid;
       }
     }
-    
-    i { display: none; }
+
+    i {
+      display: none;
+    }
   }
 
   .post-tags a {
     color: var(--global-tag-color);
     border-color: var(--global-tag-color);
-    &::before { content: "#"; opacity: 0.7; margin-right: 1px; }
+    &::before {
+      content: "#";
+      opacity: 0.7;
+      margin-right: 1px;
+    }
   }
 
   .post-categories a {
     color: var(--global-category-color);
     border-color: var(--global-category-color);
-    &::before { content: "@"; opacity: 0.7; margin-right: 1px; }
+    &::before {
+      content: "@";
+      opacity: 0.7;
+      margin-right: 1px;
+    }
   }
 }
 
