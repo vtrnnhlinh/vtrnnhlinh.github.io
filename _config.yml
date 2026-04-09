@@ -2,14 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: vtrnnhlinh@handbook # the website title (if blank, full name will be used instead)
 first_name: Linh
 middle_name: N.T
 last_name: Vo
 contact_note: >
   If you are interested, don't hesitate to contact!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple logbook of Linh
+  Linh's handbook, where ideas, experiences are shared
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
