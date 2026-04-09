@@ -8,8 +8,6 @@ profile:
   align: right
   image: pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Ho Chi Minh City, Viet Nam</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,13 +24,9 @@ latest_posts:
 ---
 
 <ul class="fastfetch-info">
-  <li><strong>OS</strong> Arch Linux x86_64</li>
-  <li><strong>Host</strong> Web Developer</li>
-  <li><strong>Kernel</strong> PHP-MVC / JavaScript</li>
-  <li><strong>WM</strong> Hyprland</li>
-  <li><strong>Terminal</strong> kitty</li>
-  <li><strong>Shell</strong> zsh 5.9</li>
-  <li><strong>Theme</strong> Gruvbox Dark</li>
+  <li><strong>Name</strong> Võ Trần Nhã Linh</li>
+  <li><strong>Work Title</strong> Junior Embedded Systems Engineer</li>
+  <li><strong>Location</strong>Ho Chi Minh City, Viet Nam</li>
   <li><strong>Palette</strong>
     <div class="color-palette">
       <span class="color-block" style="background: #cc241d;"></span> <span class="color-block" style="background: #98971a;"></span> <span class="color-block" style="background: #d79921;"></span> <span class="color-block" style="background: #458588;"></span> <span class="color-block" style="background: #b16286;"></span> <span class="color-block" style="background: #689d6a;"></span> <span class="color-block" style="background: #a89984;"></span> </div>
