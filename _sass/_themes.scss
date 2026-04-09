@@ -21,7 +21,9 @@
   --global-divider-color: #d5c4a1;
   --global-card-bg-color: #f2e5bc;
   --global-highlight-color: #cc241d;
-
+  --global-date-color: #d65d0e; /* Gruvbox Orange */
+  --global-tag-color: #689d6a; /* Gruvbox Aqua */
+  --global-category-color: #b16286; /* Gruvbox Purple */
   --global-back-to-top-bg-color: rgba(60, 56, 54, 0.4);
   --global-back-to-top-text-color: #fbf1c7;
   --global-newsletter-bg-color: #f2e5bc;
@@ -93,7 +95,9 @@ html[data-theme="dark"] {
   --global-back-to-top-text-color: #282828;
   --global-newsletter-bg-color: #3c3836;
   --global-newsletter-text-color: #ebdbb2;
-
+  --global-date-color: #fe8019; /* Gruvbox Bright Orange */
+  --global-tag-color: #8ec07c; /* Gruvbox Bright Aqua */
+  --global-category-color: #d3869b; /* Gruvbox Bright Purple */
   --global-tip-block: #98971a;
   --global-tip-block-bg: #32302f;
   --global-tip-block-text: #b8bb26;
