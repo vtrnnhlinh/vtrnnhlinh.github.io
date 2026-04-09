@@ -994,6 +994,16 @@ footer.sticky-bottom {
       } // Kill the default FontAwesome icons
     }
 
+    a {
+      color: var(--global-text-color);
+
+      text-decoration: none;
+
+      &:hover {
+        color: var(--global-theme-color);
+      }
+    }
+
     .post-tags a:not([href*="/tag/"]):not([href*="/category/"]) {
       color: var(--global-date-color);
 
@@ -1009,6 +1019,10 @@ footer.sticky-bottom {
         opacity: 0.75;
 
         margin-right: 3px;
+      }
+
+      &:hover {
+        color: var(--global-hover-color);
       }
     }
 
@@ -1027,6 +1041,10 @@ footer.sticky-bottom {
         opacity: 0.75;
 
         margin-right: 3px;
+      }
+
+      &:hover {
+        color: var(--global-hover-color);
       }
     }
 
@@ -1047,15 +1065,9 @@ footer.sticky-bottom {
 
         margin-right: 3px;
       }
-    }
-
-    a {
-      color: var(--global-text-color);
-
-      text-decoration: none;
 
       &:hover {
-        color: var(--global-theme-color);
+        color: var(--global-hover-color);
       }
     }
 
