@@ -33,10 +33,6 @@ latest_posts:
   </li>
 </ul>
 
-<p>
-  Welcome to my terminal. Here is where I detail my projects, write about software architecture, and occasionally muse about life.
-</p>
-
 *"Who am I?"* - the question that popped up in Socrates’s mind more than twenty centuries ago - became a central topic of philosophy through the ages.
 
 It's a complicated topic that you can't vaguely summarize in just a few words. *O Captain! My Captain!* I am the boat on an adventure, finding its harbor. The boat rides the raging waves, anchored toward a lighthouse, meeting its own dolphins and miracles.
