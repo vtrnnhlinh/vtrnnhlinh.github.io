@@ -27,7 +27,7 @@ latest_posts:
   <li><strong>Name</strong> Võ Trần Nhã Linh</li>
   <li><strong>Work Title</strong> Junior Embedded Systems Engineer</li>
   <li><strong>Location</strong> Ho Chi Minh City, Viet Nam</li>
-  <li><strong>Operating System</strong> archlinux </li>
+  <li><strong>OS</strong> archlinux </li>
   <li><strong>Ereader</strong> Kobo Libra Colour </li>
   <li><strong>DAP</strong> FiiO Snowsky Echo Mini </li>
   <li><strong>Book</strong> The Tartar Steppe - Dino Buzzati </li>
