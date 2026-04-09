@@ -768,6 +768,33 @@ footer.sticky-bottom {
         display: none;
       }
     }
+    .post-tags,
+    .post-categories {
+      font-size: 0; /* Obliterates the rogue floating hyphens/dots in the HTML */
+      padding-top: 0.5rem;
+      padding-bottom: 1rem;
+      display: block; /* Revert from flex to block to stop weird wrapping */
+
+      a {
+        font-size: 0.875rem; /* Restores the text size for the actual tags */
+        display: inline-block; /* Forces the # and the text to stay glued together */
+        white-space: nowrap;
+        margin-right: 1.25rem; /* Replaces flex-gap for spacing */
+        margin-bottom: 0.5rem; /* Breathing room if tags wrap to a second line */
+        text-decoration: none;
+        border-bottom: 1px dashed;
+        padding-bottom: 1px; /* Pushes the dashed line slightly down so it looks cleaner */
+        transition: all 0.2s ease;
+
+        &:hover {
+          border-bottom-style: solid;
+        }
+      }
+
+      i {
+        display: none;
+      } // Kill the default FontAwesome icons
+    }
 
     .post-tags a {
       color: var(--global-tag-color);
@@ -775,7 +802,7 @@ footer.sticky-bottom {
       &::before {
         content: "#";
         opacity: 0.7;
-        margin-right: 1px;
+        margin-right: 3px;
       }
     }
 
@@ -785,7 +812,7 @@ footer.sticky-bottom {
       &::before {
         content: "@";
         opacity: 0.7;
-        margin-right: 1px;
+        margin-right: 3px;
       }
     }
 
