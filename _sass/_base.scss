@@ -730,16 +730,46 @@ footer.sticky-bottom {
     padding-bottom: 2rem;
 
     .post-meta {
-      color: var(--global-text-color-light);
+      color: var(--global-date-color);
       font-size: 0.875rem;
       margin-bottom: 0;
+      font-weight: bold;
+      
+      &::before { content: "[ "; opacity: 0.7; }
+      &::after { content: " ]"; opacity: 0.7; }
     }
 
-    .post-tags {
-      color: var(--global-text-color-light);
+    .post-tags, .post-categories {
       font-size: 0.875rem;
-      padding-top: 0.25rem;
+      padding-top: 0.5rem;
       padding-bottom: 0;
+      display: flex;
+      gap: 10px;
+      
+      a {
+        text-decoration: none;
+        border-bottom: 1px dashed;
+        transition: all 0.2s ease;
+        
+        &:hover {
+          border-bottom-style: solid;
+          color: var(--global-hover-color);
+        }
+      }
+      
+      i { display: none; }
+    }
+
+    .post-tags a {
+      color: var(--global-tag-color);
+      border-color: var(--global-tag-color);
+      &::before { content: "#"; opacity: 0.7; margin-right: 1px; }
+    }
+
+    .post-categories a {
+      color: var(--global-category-color);
+      border-color: var(--global-category-color);
+      &::before { content: "@"; opacity: 0.7; margin-right: 1px; }
     }
 
     a {
@@ -1059,26 +1089,45 @@ html.transition *:after {
 // Extra Markdown style (post Customization)
 .post {
   .post-meta {
-    color: var(--global-text-color-light);
+    color: var(--global-date-color);
     font-size: 0.875rem;
     margin-bottom: 0;
+    font-weight: bold;
+    
+    &::before { content: "[ "; opacity: 0.7; }
+    &::after { content: " ]"; opacity: 0.7; }
   }
 
-  .post-tags {
-    color: var(--global-text-color-light);
+  .post-tags, .post-categories {
     font-size: 0.875rem;
-    padding-top: 0.25rem;
+    padding-top: 0.5rem;
     padding-bottom: 1rem;
+    display: flex;
+    gap: 10px;
 
     a {
-      color: var(--global-text-color-light);
       text-decoration: none;
-      border-bottom: none;
-
+      border-bottom: 1px dashed;
+      
       &:hover {
         color: var(--global-theme-color);
+        border-bottom-style: solid;
       }
     }
+    
+    i { display: none; }
+  }
+
+  .post-tags a {
+    color: var(--global-tag-color);
+    border-color: var(--global-tag-color);
+    &::before { content: "#"; opacity: 0.7; margin-right: 1px; }
+  }
+
+  .post-categories a {
+    color: var(--global-category-color);
+    border-color: var(--global-category-color);
+    &::before { content: "@"; opacity: 0.7; margin-right: 1px; }
   }
 }
 
