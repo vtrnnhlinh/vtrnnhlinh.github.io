@@ -1457,6 +1457,54 @@ html.transition *:after {
 // Extra Markdown style (post Customization)
 
 .post {
+  h1 {
+    color: var(--global-h1-color);
+
+    &::before {
+      color: var(--global-h1-color);
+    }
+  }
+
+  h2 {
+    color: var(--global-h2-color);
+
+    &::before {
+      color: var(--global-h2-color);
+    }
+  }
+
+  h3 {
+    color: var(--global-h3-color);
+
+    &::before {
+      color: var(--global-h3-color);
+    }
+  }
+
+  h4 {
+    color: var(--global-h4-color);
+
+    &::before {
+      color: var(--global-h4-color);
+    }
+  }
+
+  h5 {
+    color: var(--global-h5-color);
+
+    &::before {
+      color: var(--global-h5-color);
+    }
+  }
+
+  h6 {
+    color: var(--global-h6-color);
+
+    &::before {
+      color: var(--global-h6-color);
+    }
+  }
+
   .post-meta {
     color: #fabd2f;
 
