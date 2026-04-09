@@ -26,7 +26,7 @@ latest_posts:
 <ul class="fastfetch-info">
   <li><strong>Name</strong> Võ Trần Nhã Linh</li>
   <li><strong>Work Title</strong> Junior Embedded Systems Engineer</li>
-  <li><strong>Location</strong>Ho Chi Minh City, Viet Nam</li>
+  <li><strong>Location</strong> Ho Chi Minh City, Viet Nam</li>
   <li><strong>Palette</strong>
     <div class="color-palette">
       <span class="color-block" style="background: #cc241d;"></span> <span class="color-block" style="background: #98971a;"></span> <span class="color-block" style="background: #d79921;"></span> <span class="color-block" style="background: #458588;"></span> <span class="color-block" style="background: #b16286;"></span> <span class="color-block" style="background: #689d6a;"></span> <span class="color-block" style="background: #a89984;"></span> </div>
