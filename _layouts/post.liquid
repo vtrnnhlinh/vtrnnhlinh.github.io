@@ -24,17 +24,17 @@ layout: default
     </p>
     <p class="post-tags">
       {% if url_beginning == '/blog/' %}
-        <a href="{{ year | prepend: '/blog/' | relative_url }}"> <i class="fa-solid fa-calendar fa-sm"></i> {{ year }} </a>
+        <a class="post-year-link" href="{{ year | prepend: '/blog/' | relative_url }}"> <i class="fa-solid fa-calendar fa-sm"></i> {{ year }} </a>
       {% else %}
-        <i class="fa-solid fa-calendar fa-sm"></i> {{ year }}
+        <span class="post-year-link"><i class="fa-solid fa-calendar fa-sm"></i> {{ year }}</span>
       {% endif %}
       {% if tags != '' %}
         &nbsp; &middot; &nbsp;
         {% for tag in page.tags %}
           {% if url_beginning == '/blog/' %}
-            <a href="{{ tag | slugify | prepend: '/blog/tag/' | relative_url }}"> <i class="fa-solid fa-hashtag fa-sm"></i> {{ tag }}</a>
+            <a class="post-tag-link" href="{{ tag | slugify | prepend: '/blog/tag/' | relative_url }}"> <i class="fa-solid fa-hashtag fa-sm"></i> {{ tag }}</a>
           {% else %}
-            <i class="fa-solid fa-hashtag fa-sm"></i> {{ tag }}
+            <span class="post-tag-link"><i class="fa-solid fa-hashtag fa-sm"></i> {{ tag }}</span>
           {% endif %}
           {% unless forloop.last %}
             &nbsp;
@@ -46,9 +46,9 @@ layout: default
         &nbsp; &middot; &nbsp;
         {% for category in page.categories %}
           {% if url_beginning == '/blog/' %}
-            <a href="{{ category | slugify | prepend: '/blog/category/' | relative_url }}"> <i class="fa-solid fa-tag fa-sm"></i> {{ category -}}</a>
+            <a class="post-category-link" href="{{ category | slugify | prepend: '/blog/category/' | relative_url }}"> <i class="fa-solid fa-tag fa-sm"></i> {{ category -}}</a>
           {% else %}
-            <i class="fa-solid fa-tag fa-sm"></i> {{ category }}
+            <span class="post-category-link"><i class="fa-solid fa-tag fa-sm"></i> {{ category }}</span>
           {% endif %}
           {% unless forloop.last %}
             &nbsp;
