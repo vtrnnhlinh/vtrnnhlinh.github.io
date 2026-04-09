@@ -1004,10 +1004,10 @@ footer.sticky-bottom {
       }
     }
 
-    .post-tags a:not([href*="/tag/"]):not([href*="/category/"]) {
-      color: var(--global-date-color);
+    .post-year-link {
+      color: var(--global-date-color) !important;
 
-      border-color: var(--global-date-color);
+      border-color: var(--global-date-color) !important;
 
       font-family: monospace;
 
@@ -1022,14 +1022,14 @@ footer.sticky-bottom {
       }
 
       &:hover {
-        color: var(--global-hover-color);
+        color: var(--global-hover-color) !important;
       }
     }
 
-    .post-tags a[href*="/tag/"] {
-      color: var(--global-tag-color);
+    .post-tag-link {
+      color: var(--global-tag-color) !important;
 
-      border-color: var(--global-tag-color);
+      border-color: var(--global-tag-color) !important;
 
       font-family: monospace;
 
@@ -1044,15 +1044,14 @@ footer.sticky-bottom {
       }
 
       &:hover {
-        color: var(--global-hover-color);
+        color: var(--global-hover-color) !important;
       }
     }
 
-    .post-tags a[href*="/category/"],
-    .post-categories a {
-      color: var(--global-category-color);
+    .post-category-link {
+      color: var(--global-category-color) !important;
 
-      border-color: var(--global-category-color);
+      border-color: var(--global-category-color) !important;
 
       font-family: monospace;
 
@@ -1067,7 +1066,7 @@ footer.sticky-bottom {
       }
 
       &:hover {
-        color: var(--global-hover-color);
+        color: var(--global-hover-color) !important;
       }
     }
 
@@ -1515,10 +1514,10 @@ html.transition *:after {
     }
   }
 
-  .post-tags a:not([href*="/tag/"]):not([href*="/category/"]) {
-    color: var(--global-date-color);
+  .post-year-link {
+    color: var(--global-date-color) !important;
 
-    border-color: var(--global-date-color);
+    border-color: var(--global-date-color) !important;
 
     font-family: monospace;
 
@@ -1531,12 +1530,16 @@ html.transition *:after {
 
       margin-right: 1px;
     }
+
+    &:hover {
+      color: var(--global-hover-color) !important;
+    }
   }
 
-  .post-tags a[href*="/tag/"] {
-    color: var(--global-tag-color);
+  .post-tag-link {
+    color: var(--global-tag-color) !important;
 
-    border-color: var(--global-tag-color);
+    border-color: var(--global-tag-color) !important;
 
     font-family: monospace;
 
@@ -1549,13 +1552,16 @@ html.transition *:after {
 
       margin-right: 1px;
     }
+
+    &:hover {
+      color: var(--global-hover-color) !important;
+    }
   }
 
-  .post-tags a[href*="/category/"],
-  .post-categories a {
-    color: var(--global-category-color);
+  .post-category-link {
+    color: var(--global-category-color) !important;
 
-    border-color: var(--global-category-color);
+    border-color: var(--global-category-color) !important;
 
     font-family: monospace;
 
@@ -1567,6 +1573,10 @@ html.transition *:after {
       opacity: 0.75;
 
       margin-right: 1px;
+    }
+
+    &:hover {
+      color: var(--global-hover-color) !important;
     }
   }
 }
