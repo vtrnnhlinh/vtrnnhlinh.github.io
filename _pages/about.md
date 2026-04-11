@@ -30,6 +30,7 @@ latest_posts:
   <li><strong>OS</strong> archlinux </li>
   <li><strong>Ereader</strong> Kobo Libra Colour </li>
   <li><strong>DAP</strong> FiiO Snowsky Echo Mini </li>
+  <li><strong>Camera</strong> Sony NEX-5N </li>
   <li><strong>Book</strong> The Tartar Steppe - Dino Buzzati </li>
   <li><strong>Palette</strong>
     <div class="color-palette">
