@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-mar-2026-reading-log",
+        },{id: "post-reading-in-busy-days",
+        
+          title: "Reading in busy days",
+        
+        description: "more details on Linh&#39;s reading setup with Kobo Libra Colour",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/reading-in-busy-days/";
+          
+        },
+      },{id: "post-mar-2026-reading-log",
         
           title: "Mar 2026 Reading Log",
         
