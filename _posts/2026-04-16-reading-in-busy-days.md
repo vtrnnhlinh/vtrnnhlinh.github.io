@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reading in busy days
-date: 2026-04-16 16:15:00 +0700
+date: 2026-04-16 12:00:00 +0700
 description: more details on Linh's reading setup with Kobo Libra Colour
 tags: reading english hobbies
 categories: Journal-of-Sciences
