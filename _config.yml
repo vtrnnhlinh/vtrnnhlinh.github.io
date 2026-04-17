@@ -9,7 +9,7 @@ last_name: Vo
 contact_note: >
   If you are interested, don't hesitate to contact!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Linh's handbook, where ideas, experiences are shared
+  A personal thinking log where systems, code, books, and everyday experiments intersect. Not tutorials. Not essays. Just traces of curiosity in progress.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
