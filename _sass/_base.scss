@@ -355,8 +355,8 @@ ul.task-list input[type="checkbox"] {
   .container {
     @media (min-width: 992px) {
       max-width: 100% !important;
-      padding-left: 2rem; // Add some breathing room on the edges
-      padding-right: 2rem;
+      padding-left: 1rem; // Add some breathing room on the edges (Reduced to 1rem to save space)
+      padding-right: 1rem;
     }
   }
 }
@@ -449,6 +449,8 @@ ul.task-list input[type="checkbox"] {
 
     margin-right: 15px;
 
+    white-space: nowrap; // Prevents the prompt itself from wrapping
+
     &::before {
       content: "vtrnnhlinh@handbook";
     }
@@ -476,8 +478,23 @@ ul.task-list input[type="checkbox"] {
 
     align-items: baseline;
 
+    flex-wrap: nowrap; // Forces items to stay on one line
+
+    overflow-x: auto; // Allows horizontal scrolling if needed
+
+    overflow-y: hidden;
+
+    // Hide the scrollbar for a cleaner look
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* IE and Edge */
+    &::-webkit-scrollbar {
+      display: none; /* Chrome, Safari and Opera */
+    }
+
     .nav-item {
-      margin-right: 10px;
+      margin-right: 8px; // Slightly reduced to save horizontal space
+
+      white-space: nowrap; // Prevents individual link text from breaking in half
 
       .nav-link {
         color: var(--global-text-color-light);
