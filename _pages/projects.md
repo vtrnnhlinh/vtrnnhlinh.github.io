@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: projects.cpp
 permalink: /projects/
 description: A growing collection of my cool projects.
 nav: true
