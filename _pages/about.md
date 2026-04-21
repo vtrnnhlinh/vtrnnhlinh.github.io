@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: init.sh
 permalink: /
 subtitle: Homo Sapien. Vietnamese. Researcher. Engineer. Wanderer.
 
