@@ -350,7 +350,24 @@ ul.task-list input[type="checkbox"] {
 }
 
 // Navbar customization
+// Stretch navbar to full width on desktop
+.navbar {
+  .container {
+    @media (min-width: 992px) {
+      max-width: 100% !important;
+      padding-left: 2rem;  // Add some breathing room on the edges
+      padding-right: 2rem;
+    }
+  }
+}
 
+// Adjusting the nav-nav alignment for the stretched look
+.navbar-nav {
+  @media (min-width: 992px) {
+    width: 100%;
+    justify-content: flex-end; // Keeps links to the right, or use space-between
+  }
+}
 // Blinking animation for the cursor
 
 @keyframes terminal-blink {
