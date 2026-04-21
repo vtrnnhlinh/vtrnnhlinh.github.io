@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: cv.pdf
 nav: true
 nav_order: 4
 description: Describe fully myself without specializing in any fields.
