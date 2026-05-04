@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-reading-in-busy-days",
+        },{id: "post-apr-2026-reading-log",
+        
+          title: "Apr 2026 Reading Log",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/apr-26-reading-log/";
+          
+        },
+      },{id: "post-reading-in-busy-days",
         
           title: "Reading in busy days",
         
