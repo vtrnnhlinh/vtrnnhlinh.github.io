@@ -1,14 +1,13 @@
 ---
 layout: post
 title: Apr 2026 Reading Log
-date: 2026-05-04
+date: 2026-05-04 09:15:00 +0700
 categories: Journal-of-Sciences
 tags: books english # TAG names should always be lowercase
 giscus_comments: true
 toc:
    sidebar: right
 ---
-
 After "Project Hail Mary", my reading inspiration is stuck. I don't know, maybe I need some new interesting books. Or my English reading skill is just declining :)
 
 ## 7. Đêm Trắng - Fyodor Dostoevsky
