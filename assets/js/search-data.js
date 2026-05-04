@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-apr-2026-reading-log",
+        },{id: "post-linh-is-into-photography",
+        
+          title: "Linh is into photography",
+        
+        description: "some sharings about Linh&#39;s new camera and her photography journey",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/into-photography/";
+          
+        },
+      },{id: "post-apr-2026-reading-log",
         
           title: "Apr 2026 Reading Log",
         
