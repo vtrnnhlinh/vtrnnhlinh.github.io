@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Apr 2026 Reading Log
-date: 2026-05-04 09:45:00 +0700
+date: 2026-05-04
 categories: Journal-of-Sciences
 tags: books english # TAG names should always be lowercase
 giscus_comments: true
