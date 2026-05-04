@@ -30,7 +30,7 @@ I don't know how but I asked ChatGPT to recommend some slice-of-life books. I fe
 
 Rate: 4/5
 
-## 5. Project Hail Mary - Andy Weir
+## 6. Project Hail Mary - Andy Weir
 
 I don't know where the idea came from, but I wanted to read sci-fi again. I miss Timeline by Michael Crichton, but when trying to re-read it, I feel exhausted. The knowledge desire didn't ignite this time. And the movie Project Hail Mary is trending, so I want to the book a try. I have read The Martian of Andy Weir before, so I know the quality and expectation can be set. And I think it's a worthy adventure to onboard. The ideas are neatly presented, it is what people called *show don't tell*. The book has space for deep inner philosophy, but the author didn't choose to develop that, I think it's the only pity.
 
