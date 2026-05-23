@@ -2,7 +2,7 @@
 layout: post
 title: June 2025 Reading Log
 date: 2025-07-07 00:30:00 +0700
-categories: Journal-of-Sciences
+categories: Stories-of-Culture
 tags: books english # TAG names should always be lowercase
 giscus_comments: true
 toc:

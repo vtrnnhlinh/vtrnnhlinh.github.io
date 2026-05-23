@@ -2,7 +2,7 @@
 layout: post
 title: August 24 Reading Log
 date: 2024-09-02 01:50:00 +0700
-categories: Journal-of-Sciences
+categories: Stories-of-Culture
 tags: books english # TAG names should always be lowercase
 giscus_comments: true
 toc:

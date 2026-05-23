@@ -2,7 +2,7 @@
 layout: post
 title: January 2025 Reading Log
 date: 2025-02-03 13:40:00 +0700
-categories: Journal-of-Sciences
+categories: Stories-of-Culture
 tags: books vietnamese # TAG names should always be lowercase
 giscus_comments: true
 toc:

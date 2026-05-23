@@ -2,7 +2,7 @@
 layout: post
 title: Mar 2026 Reading Log
 date: 2026-03-30 14:15:00 +0700
-categories: Journal-of-Sciences
+categories: Stories-of-Culture
 tags: books english # TAG names should always be lowercase
 giscus_comments: true
 toc:

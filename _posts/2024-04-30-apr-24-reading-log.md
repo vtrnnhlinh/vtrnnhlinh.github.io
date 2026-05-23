@@ -2,7 +2,7 @@
 layout: post
 title: April 24 Reading Log
 date: 2024-04-30 20:00:00 +0700
-categories: Journal-of-Sciences
+categories: Stories-of-Culture
 tags: books vietnamese # TAG names should always be lowercase
 giscus_comments: true
 toc:
