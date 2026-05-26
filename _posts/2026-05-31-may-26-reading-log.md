@@ -12,16 +12,22 @@ I am quite satisfied with 2 books I finished this month. Let's dig deeper!
 
 ## 9. Người ăn chay - Han Kang
 
-It's a wonderful read with the emotional turmoil remains in me. The characters are being drawn in a special way, both steoreo and sotisphicated. The childhood trauma, the society's expectations, the dysfunctional family, all makes this work attractive in its own way.
+It's a wonderful read, and the emotional turmoil is still kind of in me after finishing it.
 
-I recommend if you want a deep emotional journey.
+The characters are drawn in a very specific way—both stereotypical and sophisticated at the same time. Childhood trauma, society's expectations, dysfunctional family dynamics… all of that makes this book feel disturbing in a quiet way, but also very compelling.
+
+I recommend it if you want a deep emotional journey that lingers.
 
 Rate: 4/5
 
+---
+
 ## 10. Hiệu sách cuối cùng ở London - Madeline Martin
 
-It's a good read, it would be better if I am a British. The love story is sweet, on point. No drama bla bla, just pure hope from books in the middle of war.
+It's a good read. Probably would hit differently if I were British, honestly.
 
-But it always make me feel funny because it is something like "colonialism vs fascism". Both are horrible :)
+The love story is sweet, simple, no unnecessary drama—just this quiet sense of hope around books in the middle of war.
+
+Sometimes it feels a bit ironic though, like the background tension is “colonialism vs fascism.” Neither side feels clean, which is kind of interesting in a weird way :)
 
 Rate: 4/5
