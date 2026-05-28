@@ -16,4 +16,4 @@ I planned to write this post in Vietnamese first, but ChatGPT suggests me to wri
 
 ## Methodology
 
-Because my energy level is low, and I spent most of them at work, so 
+Because my energy level is low, and I spent most of them at work, so the friction is too much I can't bear. I want it to be short but still meaningful. To do that, I must have a clear methodology and schedule.
