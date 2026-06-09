@@ -53,3 +53,7 @@ Thank you for visiting this place, between billions of choices on the Internet.
 Your *Homo Sapien*,
 
 Linh.
+
+P/S: If you are overwhelmed by the disorder of this place, here are some suggestions to start: [my research effort on shaping a Graph-of-Models](https://vtrnnhlinh.github.io/blog/tag/ml/), [my reading log](https://vtrnnhlinh.github.io/blog/tag/books/), or [my projects that I had outputs](https://vtrnnhlinh.github.io/projects/).
+
+
