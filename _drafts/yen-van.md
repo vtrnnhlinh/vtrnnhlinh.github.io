@@ -13,16 +13,20 @@ toc:
 
 Trong vở cải lương Võ Đông Sơ - Bạch Thu Hà có hai câu ca cổ:
 
- > Túy ngoạ sa trường quân mạc tiếu
- > Cổ lai chinh chiến kỷ nhân hồi
+> Túy ngoạ sa trường quân mạc tiếu
+> 
+> Cổ lai chinh chiến kỷ nhân hồi
  
- Hai câu thơ Đường nổi tiếng, lấy từ bài thơ "Lương Châu từ kỳ 1". Bài thơ này mình biết từ thời còn là học sinh, do nhân vật Quân Mạc Tiếu trong bộ "Toàn chức cao thủ", nhưng Lương Châu như thế nào, mình không hình dung được.
+Hai câu ca được lấy từ một bài Đường thi, "Lương Châu từ" của Vương Hàn. Đầy đủ là:
 
-Cho tới Đại bản đồ Hà Tây của tựa game tôi yêu...
+> Bồ đào mỹ tửu dạ quang bôi,
+>
+> Dục ẩm tì bà mã thượng thôi.
+>
+> Túy ngọa sa trường quân mạc tiếu,
+>
+> Cổ lai chinh chiến kỉ nhân hồi?
 
-> Sàng tiền minh nguyệt quang,
-> Nghi thị địa thượng sương.  
-> Cử đầu vọng minh nguyệt, 
-> Đê đầu tư cố hương.
+Rượu nho trong ly ngọc quang, tì bà réo rắc giục anh lên đường; say khướt nơi chiến trường xin người chớ cười chê, xưa nay chinh chiến mấy ai về? 
 
-Ta tiến vào thế giới của Hà Tây dưới sự huy hoàng của Đại Đường và Tĩnh Dạ Tứ của Lý Bạch. Lúc tới nơi lại là lúc nhà Đường đương lúc suy tàn. Một sa mạc cát trải dài như vô tận, con đường tơ lụa với đoàn lạc đà lấp lánh di chuyển trên cát
+Đậu móe muốn viết thơ thơ, nhưng khổ tội mình lại nhìn nhận mổ xẻ nhiều quá, làm sao để viết vừa thơ vừa sắc nhỉ?
