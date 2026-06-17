@@ -1,19 +1,15 @@
 ---
 layout: about
-title: about
+title: init.sh
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Homo Sapien. Vietnamese. Researcher. Engineer. Wanderer.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -27,8 +23,37 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<ul class="fastfetch-info">
+  <li><strong>Name</strong> Võ Trần Nhã Linh</li>
+  <li><strong>Work Title</strong> Junior Embedded Systems Engineer</li>
+  <li><strong>Location</strong> Ho Chi Minh City, Viet Nam</li>
+  <li><strong>OS</strong> archlinux </li>
+  <li><strong>Ereader</strong> Kobo Libra Colour </li>
+  <li><strong>DAP</strong> FiiO Snowsky Echo Mini </li>
+  <li><strong>Camera</strong> Sony NEX-5N </li>
+  <li><strong>Book</strong> The Tartar Steppe - Dino Buzzati </li>
+  <li><strong>Palette</strong>
+    <div class="color-palette">
+      <span class="color-block" style="background: #cc241d;"></span> <span class="color-block" style="background: #98971a;"></span> <span class="color-block" style="background: #d79921;"></span> <span class="color-block" style="background: #458588;"></span> <span class="color-block" style="background: #b16286;"></span> <span class="color-block" style="background: #689d6a;"></span> <span class="color-block" style="background: #a89984;"></span> </div>
+  </li>
+</ul>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+*"Who am I?"* - the question that popped up in Socrates’s mind more than twenty centuries ago - became a central topic of philosophy through the ages.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+It's a complicated topic that you can't vaguely summarize in just a few words. *O Captain! My Captain!* I am the boat on an adventure, finding its harbor. The boat rides the raging waves, anchored toward a lighthouse, meeting its own dolphins and miracles.
+
+Doors open, doors close. Life is full of chances and surprises. I am the greatest adventurer of my life. I fall into rose bushes; I rise up from muddy puddles. I meet wonderful people and feel the spring rain wash over me.
+
+They give me work title as an engineer, so I guess I can call myself an engineer then. Being a computer engineer is not all about code, but also about analysis and procedure, about communication and responsibilities. 
+
+I don't know what else to describe about myself. Because some nouns can't describe a whole human. And at the end of the day, *I am Linh, la la Linh*.
+
+Thank you for visiting this place, between billions of choices on the Internet.
+
+Your *Homo Sapien*,
+
+Linh.
+
+P/S: If you are overwhelmed by the disorder of this place, here are some suggestions to start: [my research effort on shaping a Graph-of-Models](https://vtrnnhlinh.github.io/blog/tag/ml/), [my reading log](https://vtrnnhlinh.github.io/blog/tag/books/), or [projects that I had outputs](https://vtrnnhlinh.github.io/projects/).
+
+

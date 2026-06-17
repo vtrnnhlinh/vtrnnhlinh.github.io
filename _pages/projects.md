@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: pj.cpp
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A growing collection of my cool projects.
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 2
+display_categories: [researcher, engineer]
 horizontal: false
 ---
 
