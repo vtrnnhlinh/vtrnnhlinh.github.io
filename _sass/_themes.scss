@@ -1,0 +1,170 @@
+/*******************************************************************************
+ * Themes
+ ******************************************************************************/
+
+@use "sass:color";
+
+:root {
+  color-scheme: light;
+  /* Gruvbox Light Palette */
+  --global-bg-color: #fbf1c7;
+  --global-code-bg-color: #ebdbb2;
+  --global-text-color: #3c3836;
+  --global-text-color-light: #928374;
+  --global-theme-color: #458588; /* Gruvbox Blue */
+  --global-hover-color: #b16286; /* Gruvbox Purple */
+  --global-hover-text-color: #fbf1c7;
+  --global-footer-bg-color: #ebdbb2;
+  --global-footer-text-color: #7c6f64;
+  --global-footer-link-color: #3c3836;
+  --global-distill-app-color: #928374;
+  --global-divider-color: #d5c4a1;
+  --global-card-bg-color: #f2e5bc;
+  --global-highlight-color: #cc241d;
+  --global-date-color: #458588; /* Gruvbox Orange */
+  --global-tag-color: #689d6a; /* Gruvbox Aqua */
+  --global-category-color: #b16286; /* Gruvbox Purple */
+  --global-h1-color: #cc241d;
+  --global-h2-color: #d65d0e;
+  --global-h3-color: #d79921;
+  --global-h4-color: #b16286;
+  --global-h5-color: #689d6a;
+  --global-h6-color: #458588;
+  --global-back-to-top-bg-color: rgba(60, 56, 54, 0.4);
+  --global-back-to-top-text-color: #fbf1c7;
+  --global-newsletter-bg-color: #f2e5bc;
+  --global-newsletter-text-color: #3c3836;
+
+  --global-tip-block: #98971a;
+  --global-tip-block-bg: #f2e5bc;
+  --global-tip-block-text: #79740e;
+  --global-tip-block-title: #98971a;
+  --global-warning-block: #d79921;
+  --global-warning-block-bg: #fabd2f;
+  --global-warning-block-text: #b57614;
+  --global-warning-block-title: #d79921;
+  --global-danger-block: #cc241d;
+  --global-danger-block-bg: #fb4934;
+  --global-danger-block-text: #9d0006;
+  --global-danger-block-title: #cc241d;
+
+  #light-toggle-system {
+    padding-left: 10px;
+    padding-top: 12px;
+    display: block;
+  }
+
+  #light-toggle-dark {
+    display: none;
+  }
+
+  #light-toggle-light {
+    display: none;
+  }
+
+  .only-light {
+    display: block;
+  }
+
+  .only-dark {
+    display: none;
+  }
+
+  #back-to-top {
+    color: var(--global-back-to-top-text-color);
+    background: var(--global-back-to-top-bg-color);
+    bottom: $back-to-top-bottom;
+    right: $back-to-top-right;
+    height: $back-to-top-height;
+    width: $back-to-top-width;
+    z-index: $back-to-top-z-index;
+  }
+}
+
+html[data-theme="dark"] {
+  color-scheme: dark;
+  /* Gruvbox Dark Palette */
+  --global-bg-color: #282828;
+  --global-code-bg-color: #3c3836;
+  --global-text-color: #ebdbb2;
+  --global-text-color-light: #a89984;
+  --global-theme-color: #b8bb26; /* Terminal Green */
+  --global-hover-color: #fabd2f; /* Gruvbox Yellow */
+  --global-hover-text-color: #282828;
+  --global-footer-bg-color: #3c3836;
+  --global-footer-text-color: #a89984;
+  --global-footer-link-color: #ebdbb2;
+  --global-distill-app-color: #a89984;
+  --global-divider-color: #504945;
+  --global-card-bg-color: #32302f;
+  --global-back-to-top-bg-color: rgba(235, 219, 178, 0.5);
+  --global-back-to-top-text-color: #282828;
+  --global-newsletter-bg-color: #3c3836;
+  --global-newsletter-text-color: #ebdbb2;
+  --global-date-color: #83a598;
+  --global-tag-color: #8ec07c;
+  --global-category-color: #d3869b;
+  --global-h1-color: #fb4934;
+  --global-h2-color: #fe8019;
+  --global-h3-color: #fabd2f;
+  --global-h4-color: #8ec07c;
+  --global-h5-color: #d3869b;
+  --global-h6-color: #83a598;
+  --global-tip-block: #98971a;
+  --global-tip-block-bg: #32302f;
+  --global-tip-block-text: #b8bb26;
+  --global-tip-block-title: #b8bb26;
+  --global-warning-block: #d79921;
+  --global-warning-block-bg: #32302f;
+  --global-warning-block-text: #fabd2f;
+  --global-warning-block-title: #fabd2f;
+  --global-danger-block: #cc241d;
+  --global-danger-block-bg: #32302f;
+  --global-danger-block-text: #fb4934;
+  --global-danger-block-title: #fb4934;
+
+  .only-light {
+    display: none;
+  }
+
+  .only-dark {
+    display: block;
+  }
+}
+
+html[data-theme-setting="dark"] {
+  #light-toggle-system {
+    display: none;
+  }
+
+  #light-toggle-dark {
+    padding-left: 10px;
+    padding-top: 12px;
+    display: block;
+  }
+
+  #light-toggle-light {
+    display: none;
+  }
+
+  #back-to-top {
+    color: var(--global-back-to-top-text-color);
+    background: var(--global-back-to-top-bg-color);
+  }
+}
+
+html[data-theme-setting="light"] {
+  #light-toggle-system {
+    display: none;
+  }
+
+  #light-toggle-dark {
+    display: none;
+  }
+
+  #light-toggle-light {
+    padding-left: 10px;
+    padding-top: 12px;
+    display: block;
+  }
+}

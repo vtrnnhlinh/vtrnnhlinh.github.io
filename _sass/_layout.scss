@@ -1,0 +1,195 @@
+/******************************************************************************
+ * Content
+ ******************************************************************************/
+
+body {
+  padding-bottom: 70px;
+  color: var(--global-text-color);
+  background-color: var(--global-bg-color);
+  font-family: "Fira Code", "MesloLGS NF", "JetBrains Mono", "Courier New", monospace;
+  line-height: 1.6;
+}
+
+body h1,
+body h2,
+body h3,
+body h4,
+body h5,
+body h6 {
+  scroll-margin-top: 66px;
+}
+
+body.fixed-top-nav {
+  // Add some padding for the nav-bar.
+  padding-top: 57px;
+}
+
+body.sticky-bottom-footer {
+  // Remove padding below footer.
+  padding-bottom: 0;
+}
+
+.container {
+  max-width: $max-content-width;
+}
+
+// Profile
+.profile {
+  img {
+    width: 100%;
+  }
+}
+/* Fastfetch Layout for the About Page */
+.post > article {
+  display: grid;
+  grid-template-columns: 35% 1fr; /* 35% for Avatar, 1fr for Fastfetch info */
+  column-gap: 3rem;
+  row-gap: 1rem; /* Space between paragraphs */
+  margin-top: 2rem;
+
+  /* Make all direct sections (news, footer, etc) full width by default */
+  > * {
+    grid-column: 1 / -1;
+  }
+
+  /* Force the profile to the top left cell */
+  > .profile {
+    grid-column: 1 / 2;
+    grid-row: 1 / 2;
+    width: 100%;
+    margin: 0;
+    float: none; // Override default al-folio float
+
+    img {
+      border-radius: 2px;
+      border: 2px solid var(--global-divider-color);
+      filter: grayscale(80%) sepia(20%) contrast(120%);
+    }
+  }
+
+  /* 'display: contents' strips the wrapper div, letting the markdown 
+     paragraphs and fastfetch <ul> act as direct grid items */
+  > .clearfix {
+    display: contents;
+
+    /* Make all paragraphs, blockquotes, etc., full width */
+    > * {
+      grid-column: 1 / -1;
+    }
+
+    /* Target the fastfetch block specifically to sit next to the profile */
+    > .fastfetch-info {
+      grid-column: 2 / 3;
+      grid-row: 1 / 2; /* Force it into the first row alongside the profile */
+
+      list-style-type: none;
+      padding: 0;
+      margin: 0 0 2rem 0;
+
+      li {
+        display: flex;
+        align-items: center;
+        margin-bottom: 0.4rem;
+
+        strong {
+          color: var(--global-theme-color);
+          width: 140px;
+          flex-shrink: 0;
+
+          &::after {
+            content: " ~";
+            color: var(--global-text-color-light);
+            margin-left: 5px;
+          }
+        }
+
+        .color-palette {
+          display: flex;
+          gap: 4px;
+          margin-top: 5px;
+
+          .color-block {
+            width: 18px;
+            height: 18px;
+            border-radius: 2px;
+            display: inline-block;
+          }
+        }
+      }
+    }
+  }
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  .post > article {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    > .clearfix {
+      display: contents;
+
+      /* Default: everything full width BELOW the profile row */
+      > * {
+        grid-column: 1 / -1;
+        grid-row: auto;
+      }
+
+      /* Fastfetch sits beside the avatar */
+      > .fastfetch-info {
+        grid-column: 2 / 3;
+        grid-row: 1;
+
+        list-style-type: none;
+        padding: 0;
+        margin: 0 0 2rem 0;
+
+        li {
+          display: flex;
+          align-items: center;
+          margin-bottom: 0.4rem;
+
+          strong {
+            color: var(--global-theme-color);
+            width: 140px;
+            flex-shrink: 0;
+
+            &::after {
+              content: " ~";
+              color: var(--global-text-color-light);
+              margin-left: 5px;
+            }
+          }
+
+          .color-palette {
+            display: flex;
+            gap: 4px;
+            margin-top: 5px;
+
+            .color-block {
+              width: 18px;
+              height: 18px;
+              border-radius: 2px;
+            }
+          }
+        }
+      }
+
+      /* Everything after fastfetch starts below the grid row */
+      > :not(.fastfetch-info) {
+        grid-row: 2;
+      }
+    }
+  }
+}
+/******************************************************************************
+ * Publications
+ ******************************************************************************/
+
+// TODO: redefine publications layout.
+
+/******************************************************************************
+ * Projects
+ ******************************************************************************/
+
+// TODO: redefine projects layout.
