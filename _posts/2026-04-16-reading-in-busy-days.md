@@ -35,7 +35,7 @@ My April reading calendar
 
 Fancy, eh? And actually, you can make KOReader beautiful. I use [SimpleUI plugin](https://github.com/doctorhetfield-cmd/simpleui.koplugin).
 
-{% include figure.liquid loading="eager" path="assets/img/koreader_homepage.jpg" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/koreader_homepage.png" class="img-fluid rounded z-depth-1" %}
 Koreader with SimpleUI is a good experience
 
 With 7in screen of Libra and auto-crop feature of KOReader, it's actually nice when reading pdf file. 
