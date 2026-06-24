@@ -9,7 +9,6 @@ giscus_comments: true
 related_posts: true
 toc:
   sidebar: right
-featured: true
 ---
 
 It is pretty safe to announce that I finished my study program (graduated!) and got a job offer. So in this post, I want to have some reflection and ideas for my future.
