@@ -8,4 +8,12 @@ giscus_comments: true
 toc:
    sidebar: right
 ---
-This month's reading is weird, but I have an interesting journey.
+In this month, I was stuck on reading at first, then the book by Milan Kundera hooked me.
+
+## 11. Đêm hội Long Trì - Nguyễn Huy Tưởng
+
+The atmosphere building is great
+
+## 12. Chiếc lư đồng mắt cua - Nguyễn Tuân 
+
+## 13. Điệu Valse giã từ - Milan Kundera
