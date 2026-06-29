@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Setup Flydigi Direwolf 4 on archlinux
+title: How to Set Up the Flydigi Direwolf 4 on Arch Linux
 date: 2026-06-29 14:15:00 +0700
 categories: Linh-the-Engineer
 tags: hobbies gaming english # TAG names should always be lowercase
@@ -8,20 +8,20 @@ giscus_comments: true
 toc:
    sidebar: right
 ---
-So, despite having the PS5 Controller, I still buy one more controller, mainly because it's Yoimiya collaboration!
+So, despite already owning a PS5 controller, I still bought another one, mainly because it's a Yoimiya collaboration!
 
 {% include figure.liquid loading="eager" path="assets/img/my_controllers.jpg" class="img-fluid rounded z-depth-1" %}
 My two controllers!
 
-So there are problems with my new controller. It's a Flydigi Direwolf 4, it doesn't have official firmware support for linux, I was struggling hard to connect bluetooth, and android app is pure useless!!
+Unfortunately, my new controller wasn't exactly plug-and-play. It's a Flydigi Direwolf 4, Flydigi doesn't provide official Linux support, I struggled to connect it over Bluetooth, and the Android app is completely useless!!
 
 In this post I will share about how to tame this stubborn controller on archlinux.
 
 ## 1. Connect via Bluetooth
 
 1. Toggle into Bluetooth mode (the toggle at the back of the controller)
-2. Choose XInput mode by holding Right button (D-pad) + Function (symbol O) button until the light turns white and blink fastly
-3. If the light doesn't blink fastly, hold Power button until it blinks fastly into pairing mode
+2. Choose XInput mode by holding Right button (D-pad) + Function (symbol O) button until the light turns white and blink rapidly
+3. If the light doesn't blink, hold Power button until it blinks  into pairing mode
 4. Connect it with command lines:
 ```bash
 bluetoothctl
@@ -30,14 +30,16 @@ pair <MAC number of the controller>
 trust <MAC number of the controller>
 connect <MAC number of the controller>
 ```
-5. Plug in and plug off, then voila~
+5. Plug in cable type C to charge, then remove to retrigger Bluetooth connecting mode, then voila~
 
 ## 2. Use M1/M2 Buttons
+
+The extra M1/M2 buttons are only exposed in DInput mode, so XInput won't detect them.
 
 1. Toggle to Receiver/Cable Mode - Note that, we will use DInput mode to use M1/M2 button, and we need to use 2.4G Receiver or Cable for this
 2. Switch to DInput mode by holding Left button (D-pad) + Function (symbol O) button until the light turns blue and blink fastly
 3. If the light turns off, press Power button again
-4. Config the button through `antimicrox` or **Steam Input**
+4.  the button through `antimicrox` or **Steam Input**
 
 ---
 
