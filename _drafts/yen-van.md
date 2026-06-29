@@ -4,7 +4,7 @@ title: Yến Vân Thập Lục Thanh, thanh vân tựa Nam Kha
 date: 2026-05-04 17:30:00 +0700
 description: 
 tags: vietnamese hobbies gaming
-categories: Journal-of-Sciences
+categories: Stories-of-Culture
 giscus_comments: true
 related_posts: true
 toc:
@@ -27,6 +27,4 @@ Hai câu ca được lấy từ một bài Đường thi, "Lương Châu từ" c
 >
 > Cổ lai chinh chiến kỉ nhân hồi?
 
-Rượu nho trong ly ngọc quang, tì bà réo rắc giục anh lên đường; say khướt nơi chiến trường xin người chớ cười chê, xưa nay chinh chiến mấy ai về? 
 
-Đậu móe muốn viết thơ thơ, nhưng khổ tội mình lại nhìn nhận mổ xẻ nhiều quá, làm sao để viết vừa thơ vừa sắc nhỉ?
