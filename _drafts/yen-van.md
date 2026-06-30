@@ -33,4 +33,6 @@ Hai câu ca được lấy từ một bài Đường thi, "Lương Châu từ" c
 >
 > Đường dài mịch mùng sao không tới nơi...
 
-Thiếu Đông Gia chúng ta chẳng phải bậc anh hùng cái thế gì, chỉ là kẻ một kẻ lãng du đã mất đi chốn về. Hành lang Hà Tây nói chung cũng chỉ là một giấc 
+Thiếu Đông Gia chúng ta chẳng phải bậc anh hùng cái thế gì, chỉ là kẻ một kẻ lãng du đã mất đi chốn về. Chốn Hà Tây biên tái phải chăng cũng chỉ là một giấc mộng Nam Kha.
+
+
