@@ -19,6 +19,7 @@ In this post I will share about how to tame this stubborn controller on archlinu
 
 ## 1. Connect via Bluetooth
 
+0. Install xpadneo first: `yay -S xpadneo-dkms`
 1. Toggle into Bluetooth mode (the toggle at the back of the controller)
 2. Choose XInput mode by holding Right button (D-pad) + Function (symbol O) button until the light turns white and blink rapidly
 3. If the light doesn't blink, hold Power button until it blinks  into pairing mode
@@ -40,6 +41,19 @@ The extra M1/M2 buttons are only exposed in DInput mode, so XInput won't detect 
 2. Switch to DInput mode by holding Left button (D-pad) + Function (symbol O) button until the light turns blue and blink fastly
 3. If the light turns off, press Power button again
 4.  the button through `antimicrox` or **Steam Input**
+
+## 3. Fix Bluetooth connected but no input detection
+
+It's highly because of your recent kernel update.
+
+1. Remove old xpadneo: `sudo dkms remove hid-xpadneo-* --all`
+```bash
+sudo rm -rf /usr/src/hid-xpadneo*
+sudo rm -rf /usr/share/doc/xpadneo
+```
+2. Check `dkms` status: `dkms status`. Make sure `hid-xpadneo` is gone
+3. Reinstall: `yay -S xpadneo-dkms`
+4. Connect bluetooth again!
 
 ---
 
