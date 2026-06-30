@@ -27,4 +27,10 @@ Hai câu ca được lấy từ một bài Đường thi, "Lương Châu từ" c
 >
 > Cổ lai chinh chiến kỉ nhân hồi?
 
+{% include video.liquid path="https://www.youtube.com/embed/KydLdiLzEVs" class="img-fluid rounded z-depth-1" %}
 
+> Biên cương lá rơi Thu Hà em ơi
+>
+> Đường dài mịch mùng sao không tới nơi...
+
+Thiếu Đông Gia chúng ta chẳng phải bậc anh hùng cái thế gì, chỉ là kẻ một kẻ lãng du đã mất đi chốn về. Hành lang Hà Tây nói chung cũng chỉ là một giấc 
