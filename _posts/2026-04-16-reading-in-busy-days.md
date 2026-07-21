@@ -31,12 +31,12 @@ My first ereader is a [Kobo Clara Colour](https://vtrnnhlinh.github.io/blog/2025
 First, now I use KOReader instead of vanilla reader. The key feature that made me stick with KOReader is their reading statistics - Calendar.
 
 {% include figure.liquid loading="eager" path="assets/img/koreader_calendar.png" class="img-fluid rounded z-depth-1" %}
-My April reading calendar
+<div class="caption">My April reading calendar</div>
 
 Fancy, eh? And actually, you can make KOReader beautiful. I use [SimpleUI plugin](https://github.com/doctorhetfield-cmd/simpleui.koplugin).
 
 {% include figure.liquid loading="eager" path="assets/img/koreader_homepage.png" class="img-fluid rounded z-depth-1" %}
-Koreader with SimpleUI is a good experience
+<div class="caption">Koreader with SimpleUI is a good experience</div>
 
 With 7in screen of Libra and auto-crop feature of KOReader, it's actually nice when reading pdf file. 
 
