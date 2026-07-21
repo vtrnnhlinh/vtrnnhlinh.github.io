@@ -38,7 +38,7 @@ ExcludeSyncFolders=(\\.(?!kobo|adobe).+|([^.][^/]*/)+\\..+)
 ### Screensavers
 
 {% include figure.liquid loading="eager" path="assets/img/kobo_screensaver.jpg" class="img-fluid rounded z-depth-1" %}
-My screensavers! Here Rin from Laid-Back Camp.
+<div class="caption">My screensavers! Here Rin from Laid-Back Camp.</div>
 
 The dimension for you is `1072x1488`. Here is your guide:
 
@@ -64,4 +64,4 @@ My Ereader has no problems with reading mangas, but the native reader of Kobo do
 To send books to your Kobo, use [Calibre](https://calibre-ebook.com/), you can fetch metadata and book cover from it!
 
 {% include figure.liquid loading="eager" path="assets/img/kobo_and_fiio.jpg" class="img-fluid rounded z-depth-1" %}
-A night of blissful weekend
+<div class="caption">A night of blissful weekend</div>
