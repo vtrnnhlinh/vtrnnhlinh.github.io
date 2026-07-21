@@ -25,10 +25,10 @@ latest_posts:
 
 <ul class="fastfetch-info">
   <li><strong>Name</strong> Võ Trần Nhã Linh</li>
-  <li><strong>Work Title</strong> Junior Embedded Systems Engineer</li>
+  <li><strong>Job Title</strong> Junior Embedded Systems Engineer</li>
   <li><strong>Location</strong> Ho Chi Minh City, Viet Nam</li>
   <li><strong>OS</strong> archlinux </li>
-  <li><strong>Ereader</strong> Kobo Libra Colour </li>
+  <li><strong>E-reader</strong> Kobo Libra Colour </li>
   <li><strong>DAP</strong> FiiO Snowsky Echo Mini </li>
   <li><strong>Camera</strong> Sony NEX-5N </li>
   <li><strong>Book</strong> The Tartar Steppe - Dino Buzzati </li>
@@ -38,22 +38,21 @@ latest_posts:
   </li>
 </ul>
 
-*"Who am I?"* - the question that popped up in Socrates’s mind more than twenty centuries ago - became a central topic of philosophy through the ages.
+*"Who am I?"*—the question that arose in Socrates' mind more than twenty centuries ago—became one of the central questions of philosophy throughout the ages.
 
-It's a complicated topic that you can't vaguely summarize in just a few words. *O Captain! My Captain!* I am the boat on an adventure, finding its harbor. The boat rides the raging waves, anchored toward a lighthouse, meeting its own dolphins and miracles.
+It's a complicated question that can't be answered in just a few words. *O Captain! My Captain!* I am a boat on a voyage, searching for its harbor. I ride the raging waves, guided by a lighthouse, meeting my own dolphins and miracles along the way.
 
-Doors open, doors close. Life is full of chances and surprises. I am the greatest adventurer of my life. I fall into rose bushes; I rise up from muddy puddles. I meet wonderful people and feel the spring rain wash over me.
+Doors open, doors close. Life is full of chances and surprises. I am the greatest adventurer of my own life. I fall into rose bushes; I climb out of muddy puddles. I meet wonderful people and feel the spring rain wash over me.
 
-They give me work title as an engineer, so I guess I can call myself an engineer then. Being a computer engineer is not all about code, but also about analysis and procedure, about communication and responsibilities. 
+They call me a HCMUT student. They call me an engineer. They call me whatever they want. But what do I call myself?
 
-I don't know what else to describe about myself. Because some nouns can't describe a whole human. And at the end of the day, *I am Linh, la la Linh*.
+I don't know what else to say about myself, because no collection of nouns can fully describe a human being, and I won't compress myself into some definitions. And at the end of the day, *I am Linh, la la Linh*.
 
-Thank you for visiting this place, between billions of choices on the Internet.
+Thank you for visiting this little corner of the Internet, among billions of places you could have chosen.
 
 Your *Homo Sapien*,
 
 Linh.
 
-P/S: If you are overwhelmed by the disorder of this place, here are some suggestions to start: [my research effort on shaping a Graph-of-Models](https://vtrnnhlinh.github.io/blog/tag/ml/), [my reading log](https://vtrnnhlinh.github.io/blog/tag/books/), or [projects that I had outputs](https://vtrnnhlinh.github.io/projects/).
-
+P.S. If you're overwhelmed by the organized chaos of this place, here are a few good places to start: [my research on shaping a Graph-of-Models](https://vtrnnhlinh.github.io/blog/tag/ml/), [my reading log](https://vtrnnhlinh.github.io/blog/tag/books/), or [projects I've worked on](https://vtrnnhlinh.github.io/projects/).
 
