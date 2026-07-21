@@ -38,7 +38,7 @@ latest_posts:
   </li>
 </ul>
 
-*"Who am I?"*—the question that arose in Socrates' mind more than twenty centuries ago—became one of the central questions of philosophy throughout the ages.
+*"Who am I?"* - the question that arose in Socrates' mind more than twenty centuries ago - became one of the central questions of philosophy throughout the ages.
 
 It's a complicated question that can't be answered in just a few words. *O Captain! My Captain!* I am a boat on a voyage, searching for its harbor. I ride the raging waves, guided by a lighthouse, meeting my own dolphins and miracles along the way.
 
