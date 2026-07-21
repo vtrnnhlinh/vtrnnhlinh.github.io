@@ -11,7 +11,7 @@ toc:
 So, despite already owning a PS5 controller, I still bought another one, mainly because it's a Yoimiya collaboration!
 
 {% include figure.liquid loading="eager" path="assets/img/my_controllers.jpg" class="img-fluid rounded z-depth-1" %}
-My two controllers!
+<div class="caption"> My two controllers! </div>
 
 Unfortunately, my new controller wasn't exactly plug-and-play. It's a Flydigi Direwolf 4, Flydigi doesn't provide official Linux support, I struggled to connect it over Bluetooth, and the Android app is completely useless!!
 
