@@ -28,14 +28,14 @@ Third, various of scene makes me imagine every scene of my life fits with action
 Finally, it fits perfectly with my current workstream! It contributes value to my current system, not being an useless addition that contributes nothing but duplicated features with other apps.
 
 {% include figure.liquid loading="eager" path="assets/img/ithya_hours.jpg" class="img-fluid rounded z-depth-1" %}
-My current hours in this game, already surpass a lot of other games I played.
+<div class="caption">My current hours in this game, already surpass a lot of other games I played.</div>
 
 ## How do I use it?
 
 For productivity, it has 3 main features: Timer, Tasks and Journal. The Journal feature is kinda useless, I only use it to reset the Task list. The Timer feature will make it duplicates with the Pomodoro timer on TickTick. I decide to use Stopwatch on TickTick to start a big task, and with Ithya, I divide it into smaller tasks and use Pomodoro timer of Ithya. Listing out subtasks in Ithya is less frictional than on Ticktick due to its simplicity nature.
 
 {% include figure.liquid loading="eager" path="assets/img/ithya_tasks.jpg" class="img-fluid rounded z-depth-1" %}
-An example of how I use this game.
+<div class="caption">An example of how I use this game.</div>
 
 The music in this game/app is phenomenal, remember to wear your earphones when using it! The rain effect and the lofi is very calming and inspirational. When studying, I set to scene she studies at home or at library, then in break time I move to nature scene. I enjoy fantasizing myself in that lil cute girl!
 
