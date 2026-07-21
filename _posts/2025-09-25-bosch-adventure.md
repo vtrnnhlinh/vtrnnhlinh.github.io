@@ -30,7 +30,7 @@ My teammates and I share the similar vibe. Everyone has their own personality an
 My mentor is a nice person, he is detail-oriented, careful and considerate. Even though I and he share different mindsets and approaches to problems, but I am grateful for having him as my mentor. I only need a soft, kind and supportive mentor like that. I have two leaders, one in C Static Testing, one in Team AI. Both of them are great leaders and high-skilled engineers. I learned a lot from them and always very grateful of my leader in Team AI. He helped me to have a recommend letter and a Certificate from Department Head. Hehe.
 
 {% include figure.liquid loading="eager" path="assets/img/bosch_certificate.jpg" class="img-fluid rounded z-depth-1" %}
-My Certificate at Bosch.
+<div class="caption">My Certificate at Bosch.</div>
 
 Beside what I gained physicially, I am happy that I can expressed my ideas confidently even though I am just an intern, *or intern is the most undefeatable force*.
 
