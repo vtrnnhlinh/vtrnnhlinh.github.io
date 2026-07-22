@@ -32,8 +32,6 @@
   src: url("#{$fa-font-path}/Bookerly Italic.ttf") format("truetype");
 
   font-weight: normal;
-
-  font-style: italic;
 }
 
 // Typography
@@ -71,7 +69,12 @@ h6 {
     font-weight: bold;
   }
 }
-
+strong, b {
+  font-weight: bold;
+}
+em, i {
+  font-style: italic;
+}
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
