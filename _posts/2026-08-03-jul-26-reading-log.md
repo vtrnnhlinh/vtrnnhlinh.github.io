@@ -9,7 +9,7 @@ toc:
    sidebar: right
 ---
 
-14. Gối đầu lên cỏ - Natsume Soseki
+## 14. Gối đầu lên cỏ - Natsume Soseki
 
 An artistic work, because it is too cultural and aesthetic that I can't feel it. If I was a Japanese, maybe I can find it more attractive.
 
