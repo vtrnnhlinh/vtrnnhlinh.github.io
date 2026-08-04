@@ -2,7 +2,7 @@
 layout: about
 title: init.sh
 permalink: /
-subtitle: Homo Sapien. Vietnamese. Researcher. Engineer. Wanderer.
+subtitle: "Ta trồng cỏ đầy vườn, vãi hoa đầy đất, gọi hề đồng pha nước trước hiên mai"
 
 profile:
   align: right
