@@ -4,7 +4,7 @@ title: graphrag-mini-pipeline
 description: an implementation of GraphRAG
 img: assets/img/pj_bgsv_graphrag-mini-pipeline.png
 importance: 1
-category: engineer
+category: researcher
 toc:
   sidebar: right
 mermaid:
