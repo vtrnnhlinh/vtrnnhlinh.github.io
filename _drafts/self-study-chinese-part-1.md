@@ -28,7 +28,9 @@ The status of the tools I listed in previous post:
 
 ### Memrise
 
-I was in mid level 3 or 4 when return learning Chinese on Memrise, and I have to say it was a terrible experience. I didn't remember anything and basically can't review anything. The phrases in Memrise are too advanced for me. And I sense that their focus is on conversations. They provided phrases by phrases, that leads to a problem - I can't read the hieroglyphic characters... I find this app **isn't effective for me in this stage of studying**.
+I was in mid level 3 or 4 when return learning Chinese on Memrise, and I have to say it was a terrible experience. I didn't remember anything and basically can't review anything. The phrases in Memrise are too advanced for me. And I sense that their focus is on conversations. They provided phrases by phrases, that leads to a problem - I can't read the hieroglyphic characters... I find this app **isn't effective for me in this stage of studying**. Because I have its lifetime version, so I will re-evaluate how to use it to maximise benefits.
+
+SuperChinese! I love this app too much.
 
 
 
