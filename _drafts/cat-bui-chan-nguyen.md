@@ -3,7 +3,7 @@ layout: post
 title: Cát bụi chân Nguyễn
 date: 2026-05-04 17:30:00 +0700
 description: Một chút thơ thẩn, trầm lặng và ám ảnh với Nguyễn
-tags: vietnamese hobbies reading literature
+tags: vietnamese hobbies books
 categories: Stories of Culture
 giscus_comments: true
 related_posts: true
@@ -12,3 +12,7 @@ toc:
 ---
 
 {% include video.liquid path="https://www.youtube.com/embed/qZ65_mxJm9k" class="img-fluid rounded z-depth-1" %}
+
+Một bài viết, chưa chắc đã dài, nhưng nhiều tâm tư khắc khoải...
+
+
