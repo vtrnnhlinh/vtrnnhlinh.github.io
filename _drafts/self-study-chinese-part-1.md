@@ -30,7 +30,21 @@ The status of the tools I listed in previous post:
 
 I was in mid level 3 or 4 when return learning Chinese on Memrise, and I have to say it was a terrible experience. I didn't remember anything and basically can't review anything. The phrases in Memrise are too advanced for me. And I sense that their focus is on conversations. They provided phrases by phrases, that leads to a problem - I can't read the hieroglyphic characters... I find this app **isn't effective for me in this stage of studying**. Because I have its lifetime version, so I will re-evaluate how to use it to maximise benefits.
 
-SuperChinese! I love this app too much.
+### SuperChinese
+
+I love this app too much. The app itself provides enough foundations to learn Chinese, from grammar, vocabulary, listening to speaking. There are also pinyin lessons...
+
+My energy matches with this app, so I feel most comfortable learning from this one.
+
+The only problem is my progress is kinda slow and not stable. I plan to finish HSK1 lessons in a month, but I am currently half-way.
+
+### TodaiiChinese
+
+It isn't a bad tool, but I won't use it in one more months, mainly because it's more of review and extend vocabulary. So I need a foundation to gain real value from it.
+
+### Textbooks
+
+Basically, I am unable to open the textbooks when returning home. God saves me.
 
 
 
