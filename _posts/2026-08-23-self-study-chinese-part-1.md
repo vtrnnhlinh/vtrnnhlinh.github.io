@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Feedback on first 30 days learning Chinese
-date: 2026-07-21 16:00:00 +0700
+date: 2026-08-23 18:15:00 +0700
 description: 
 tags: languages english chinese
 categories: Journal-of-Sciences
@@ -46,7 +46,14 @@ It isn't a bad tool, but I won't use it in one more months, mainly because it's 
 
 Basically, I am unable to open the textbooks when returning home. God saves me.
 
-
+But I seriously need to use the notebooks to improve my ability to read the hieroglyphic characters.
 
 ## Vision for Future
+
+In short, I think the most important point is the consistency. That learning Chinese is a habit exists in my mind :laughing:, that when I feel up or down, I still open the app to learn a meaningful lesson or have a good review.
+
+The progress is slower than I expect, but at least I made steps forwards.
+
+See you next time.
+
 
