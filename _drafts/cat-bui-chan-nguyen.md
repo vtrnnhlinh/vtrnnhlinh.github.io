@@ -15,4 +15,10 @@ toc:
 
 Một bài viết, chưa chắc đã dài, nhưng nhiều tâm tư khắc khoải...
 
+Tới cuối cùng, vẫn hay chăng muôn sự tại thân. Từ cái thích thích ban đầu, liệu có vì sự ngộ nhận mà đi tới cái thích sâu lắng trong lòng. 
+
+Nhưng nếu là cái thích làm màu bên ngoài, liệu Linh có thích được từng ấy năm?
+
+## Nguyễn trong mắt Nguyễn
+
 
