@@ -7,8 +7,6 @@ tags: vietnamese hobbies books
 categories: Stories of Culture
 giscus_comments: true
 related_posts: true
-toc:
-  sidebar: right
 ---
 
 {% include video.liquid path="https://www.youtube.com/embed/qZ65_mxJm9k" class="img-fluid rounded z-depth-1" %}
@@ -19,6 +17,15 @@ Tới cuối cùng, vẫn hay chăng muôn sự tại thân. Từ cái thích th
 
 Nhưng nếu là cái thích làm màu bên ngoài, liệu Linh có thích được từng ấy năm?
 
-## Nguyễn trong mắt Nguyễn
+Cái thích thích ấy đã kéo dài hơn 8 năm, từ thời chớm hết dậy thì tới lúc cơm áo không đùa với khách thơ, nghĩ cũng đã hơn 1/3 cuộc đời đang có.
+Nguyễn như tấm gương phản chiếu tôi lựa cho chính mình, tới nay lại chẳng còn cảm nhận được bao nhiêu giao thoa. Ông vẫn hay, tôi vẫn hiểu, nhưng cảm giác đồng điệu chẳng còn bao nhiêu.
+
+Mọi chuyện bắt đầu từ đâu nhỉ? Từ chiếc lư đồng mắt cua, tôi nghĩ ông có ngủ lang.
+
+---
+
+Hoa trong gương, trăng dưới nước, thấy nhưng chẳng phải thật.
+
+Đến cuối cùng, khi tỉnh giấc, cũng chỉ là mộng Nam Kha.
 
 
