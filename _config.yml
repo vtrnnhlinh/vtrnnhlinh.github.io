@@ -263,9 +263,6 @@ display_categories: ["Linh-the-Engineer", "Stories-of-Culture", "Journal-of-Scie
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
-
   style: apa
   locale: en
 
