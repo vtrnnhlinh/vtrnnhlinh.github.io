@@ -20,7 +20,11 @@ Nhưng nếu là cái thích làm màu bên ngoài, liệu Linh có thích đư�
 Cái thích thích ấy đã kéo dài hơn 8 năm, từ thời chớm hết dậy thì tới lúc cơm áo không đùa với khách thơ, nghĩ cũng đã hơn 1/3 cuộc đời đang có.
 Nguyễn như tấm gương phản chiếu tôi lựa cho chính mình, tới nay lại chẳng còn cảm nhận được bao nhiêu giao thoa. Ông vẫn hay, tôi vẫn hiểu, nhưng cảm giác đồng điệu chẳng còn bao nhiêu.
 
-Mọi chuyện bắt đầu từ đâu nhỉ? Từ chiếc lư đồng mắt cua, đó đâu phải lần đầu Linh đọc cuốn đấy, nhưng lần này Linh để ý tới cái thoái chí nản lòng, cả những đoạn bất cần ngủ lang ngủ lốc của ông. Linh bị sốc! 
+Mọi chuyện bắt đầu từ đâu nhỉ? Từ chiếc lư đồng mắt cua, đó đâu phải lần đầu Linh đọc cuốn đấy, nhưng lần này Linh để ý tới cái thoái chí nản lòng, cả những đoạn bất cần ngủ lang ngủ lốc của ông. Linh bị sốc!
+
+Khi ta lỡ đem lòng yêu thích một người, ta tự huyễn hoặc một hình tượng thật đẹp đẽ về họ trong lòng.
+
+> "Vẻ đẹp không nằm ở đôi má hồng của người thiếu nữ mà ở trong mắt của kẻ si tình" - Immanuel Kant
 
 ---
 
