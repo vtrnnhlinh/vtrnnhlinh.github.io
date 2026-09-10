@@ -6,7 +6,7 @@ subtitle: "Ta trồng cỏ đầy vườn, vãi hoa đầy đất, gọi hề đ
 
 profile:
   align: right
-  image: pic.jpg
+  image: regression.jpg
   image_circular: false # crops the image to make it circular
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
