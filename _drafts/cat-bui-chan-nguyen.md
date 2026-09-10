@@ -26,6 +26,8 @@ Khi ta lỡ đem lòng yêu thích một người, ta tự huyễn hoặc một 
 
 > "Vẻ đẹp không nằm ở đôi má hồng của người thiếu nữ mà ở trong mắt của kẻ si tình" - Immanuel Kant
 
+Ta đem lòng yêu hình ảnh đó, chứ chẳng phải con người thật của người ta? 
+
 ---
 
 Hoa trong gương, trăng dưới nước, thấy nhưng chẳng phải thật.
