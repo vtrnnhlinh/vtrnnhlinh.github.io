@@ -28,9 +28,10 @@ latest_posts:
   <li><strong>Job Title</strong> Junior Embedded Systems Engineer</li>
   <li><strong>Location</strong> Ho Chi Minh City, Viet Nam</li>
   <li><strong>OS</strong> archlinux </li>
-  <li><strong>E-reader</strong> Kobo Libra Colour </li>
+  <li><strong>E-reader</strong> Kobo Libra Colour, XTEINK X3 </li>
   <li><strong>DAP</strong> FiiO Snowsky Echo Mini </li>
   <li><strong>Camera</strong> Sony NEX-5N </li>
+  <li><strong>Handheld</strong> Trimui Brick </li>
   <li><strong>Book</strong> The Tartar Steppe - Dino Buzzati </li>
   <li><strong>Palette</strong>
     <div class="color-palette">
