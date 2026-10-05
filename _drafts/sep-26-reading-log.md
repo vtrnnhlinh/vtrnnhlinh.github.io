@@ -39,4 +39,12 @@ It reminds me of No Longer Human but more sympathicable. A good read with the me
 
 I quite don't get this work too clearly. It's pretty vague, but I can feel the blurry line of morality. What can I expect more from the age of colonies?
 
-Power eats humanity raw
+Power eats humanity raw. 
+
+## 21. Hoàng tử bé - Antoine de Saint-Exupery
+
+The book that I re-read every year. This year I feel kind of melancholy, not so happy happy like before.
+
+## 22. Điều kỳ diệu của tiệm tạp hóa Namiya - Higashino Keigo
+
+A wholesome book, I recommend you to read this one if you didn't know it yet.
