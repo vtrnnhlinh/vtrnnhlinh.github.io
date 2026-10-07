@@ -1,7 +1,7 @@
 ---
 layout: post
 title: September 2026 Reading Log
-date: 2024-01-31 06:00:00 +0700
+date: 2024-10-07 06:00:00 +0700
 categories: Stories-of-Culture
 tags: books english # TAG names should always be lowercase
 giscus_comments: true
@@ -39,12 +39,17 @@ It reminds me of No Longer Human but more sympathicable. A good read with the me
 
 I quite don't get this work too clearly. It's pretty vague, but I can feel the blurry line of morality. What can I expect more from the age of colonies?
 
-Power eats humanity raw. 
+Power eats humanity raw. I don't think this book got into my mind, just like a fog that I passed through.
 
 ## 21. Hoàng tử bé - Antoine de Saint-Exupery
 
 The book that I re-read every year. This year I feel kind of melancholy, not so happy happy like before.
 
+It is also shorter than I remember, I don't know what happened and I wonder if I want to re-read it again next year.
+
 ## 22. Điều kỳ diệu của tiệm tạp hóa Namiya - Higashino Keigo
 
 A wholesome book, I recommend you to read this one if you didn't know it yet.
+
+Each stories in this book linked together, makes a network. There is no perfect human in this book, human is like that, we aren't perfect, but we strive to be better
+
