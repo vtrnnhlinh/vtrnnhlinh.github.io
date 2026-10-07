@@ -1,7 +1,7 @@
 ---
 layout: post
 title: September 2026 Reading Log
-date: 2024-10-07 06:00:00 +0700
+date: 2026-10-07 06:00:00 +0700
 categories: Stories-of-Culture
 tags: books english # TAG names should always be lowercase
 giscus_comments: true
