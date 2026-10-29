@@ -11,5 +11,11 @@ toc:
   sidebar: right
 ---
 
-It's sad to say, but I don't feel excited to learn Chinese anymore despite the habit is low-maintainced.
+It's sad to say, but I don't feel excited to learn Chinese anymore despite the habit is still maintained.
+
+---
+
+## Achievements
+
+It's hard to tell, but I finished HSK1 program on SuperChinese (finally!)
 
