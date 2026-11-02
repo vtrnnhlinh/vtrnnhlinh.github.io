@@ -1,6 +1,6 @@
 ---
 layout: post
-title: September 2026 Reading Log
+title: October 2026 Reading Log
 date: 2026-11-02 14:15:00 +0700
 categories: Stories-of-Culture
 tags: books english # TAG names should always be lowercase
