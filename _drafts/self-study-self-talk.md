@@ -17,7 +17,7 @@ In this post, I want to talk about self-study through my lifelong journey. The i
 
 ## I don't know what I don't know
 
-I have no interests in yapping about Dunning-Kruger effect, everyone knows this effect nowadays. I want to point out that it isn't easy to learn something on your own. Sometimes you will read the articles say that self-studying in this AI and digital age is easy, but it's harder than you thought. Yes, it's more approachable in this age, but it is not that kind of easy. It's like finding a specific patch of water in a vast ocean.
+I have no interests in yapping about Dunning-Kruger effect, I can't relate it. I want to point out that it isn't easy to learn something on your own. Sometimes you will read the articles say that self-studying in this AI and digital age is easy, but it's harder than you thought. Yes, it's more approachable in this age, but it is not that kind of easy. It's like finding a specific patch of water in a vast ocean.
 
 ### Where to start?
 
@@ -37,6 +37,10 @@ I think there is no specific answer for this question, that you have to take tim
 
 For example, ChatGPT recommended me some courses to buy and learn Chinese. But I didn't buy any courses, not because I dont trust the quality of the courses AI recommended, but I know watching videos is hell for me. So I switch to try a lot of apps to know what suits me.
 
+But I know a lot of people fall into the delusion of "the best thing" instead of "the suitable thing".
+
 ### How do I know I am learning?
+
+After a while of 
 
 ### What kind of person does self-study require me to become?
