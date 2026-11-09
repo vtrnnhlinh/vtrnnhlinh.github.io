@@ -1,0 +1,81 @@
+
+name: "✍️ New Blog Post"
+description: Plan and track a new article.
+title: "[POST] "
+labels: ["content", "draft"]
+assignees: []
+
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Working title
+      description: The title doesn't have to be final.
+      placeholder: "On reading, thinking, and remembering..."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Technology
+        - Programming
+        - Books & Literature
+        - Philosophy
+        - Personal Reflections
+        - Learning Notes
+        - Photography
+        - Miscellaneous
+    validations:
+      required: true
+
+  - type: textarea
+    id: premise
+    attributes:
+      label: What's this post about?
+      description: The central idea or question.
+      placeholder: |
+        What am I trying to explore?
+        Why do I want to write about it?
+    validations:
+      required: true
+
+  - type: textarea
+    id: outline
+    attributes:
+      label: Outline
+      description: Rough structure, arguments, or sections.
+      placeholder: |
+        1. Introduction
+        2. Main discussion
+        3. Personal observations
+        4. Conclusion
+
+  - type: textarea
+    id: references
+    attributes:
+      label: References & Resources
+      description: Books, articles, links, code, images, etc.
+      placeholder: |
+        - https://example.com
+
+  - type: dropdown
+    id: status
+    attributes:
+      label: Writing status
+      options:
+        - Idea
+        - Researching
+        - Drafting
+        - Revising
+        - Ready to publish
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional notes
+      description: Anything else worth remembering.
