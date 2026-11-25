@@ -14,15 +14,15 @@ There are a lot of review posts about this small device already, and there was t
 
 ## 1. Why I Bought It
 
-**FOMO** is the main reason. Just kidding, but I want to utilize the idle time at work. While I have my Kobo Libra Colour, but the device is too big to not be noticed and that isn't good. With a small device like phone-size, it's easier to... slack off at work.
+**FOMO** is the main reason. Just kidding, but I want to utilize the idle time at work. While I have my Kobo Libra Colour, but the device is too big to not be noticed and that isn't good. With a small device like phone-size, it's easier to... slack off at work, ehem.
 
 ## 2. First Impressions
 
 First, I love the accessories with it, including a screen protector, 2 magnetic rings and card reader. The SD card feels kinda cheap that I replaced it with a Kioxa one. 
 
-I usually read the posts complain about its build quality on Reddit, but to me, it's good enough. I can feel the weight and a solid build, but not too heavy to make your wrist tired. Everything seems just fit?
+I usually read the posts complain about its build quality on Reddit, but to me, it's good enough. I can feel the weight and a solid build, but not too heavy to make your wrist tired. Everything seems just fit? I have no interests in metal build or fancy glass back, haha. 
 
-I have no problems with pogo charger, as I feel it's safer than USB-C for a thin device like this. And because it's an eink device, it lasts for days or weeks.
+I have no problems with pogo charger, as I feel it's safer than USB-C for a thin device like this, like I am afraid I would break the charging hole. And because it's an eink device, it lasts for days or weeks, so it isn't that inconvenient. 
 
 ## 3. Living with CrossInk
 
@@ -39,10 +39,33 @@ Below is an overview of my current setup:
     </div>
 </div>
 
-The buttons setup is intuitive 
+The buttons setup is intuitive and based on everyone's preference, so I don't share it here ^^
 
 ## 4. The Actual Reading Experience
+
+The reading experience is wonderful, it's my first Black & White device, and it really really almost made me buy another Kobo Clara BW (the only thing holds me back is there is no white Kobo Clara BW 😔)
+
+It's very very convenient to read in daylight, I can turn page with an easy flick of my hand wrist. I have used it to read on the way walking to work and any random times.
+
+The display isn't beautiful like Kobo Libra Colour (of course!) but it is not so ugly, I am used to it after some days.
+
+The device is so small that I can't be distracted or procrastinated 😃 The only friction is there is no cover wake-up feature, so I have to press a button to wake the device back from sleep. It's the only point I don't like.
+
 ## 5. X3 vs Kobo Libra Colour
+
+This is not a typical comparison I would do, as I bought them for 2 separated purposes. When you compare things, they must be on the same league.
+
+So, I use my KLC for:
+- Reading after turning off light - XTEINK doesn't have front light (I have no problems with this).
+- Reading pdf files.
+- Reading English and deep in philosophy books that I need to use dictionary and highlights.
+
+And, about X3, I use for:
+- Convenient flash reading.
+- Easy Vietnamese books.
+
+I don't u
+
 ## 6. What I Like and What I Don't
 
 ### Don't Like
