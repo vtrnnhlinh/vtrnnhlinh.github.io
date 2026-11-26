@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A few months with my XTEINK X3
-date: 2026-09-15 22:15:00 +0700
+date: 2026-11-26 18:45:00 +0700
 tags: reading hobbies english
 categories: Journal-of-Sciences
 giscus_comments: true
@@ -17,6 +17,12 @@ There are a lot of review posts about this small device already, and there was t
 **FOMO** is the main reason. Just kidding, but I want to utilize the idle time at work. While I have my Kobo Libra Colour, but the device is too big to not be noticed and that isn't good. With a small device like phone-size, it's easier to... slack off at work, ehem.
 
 ## 2. First Impressions
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/xteink_x3_appearance.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 First, I love the accessories with it, including a screen protector, 2 magnetic rings and card reader. The SD card feels kinda cheap that I replaced it with a Kioxa one. 
 
@@ -51,6 +57,12 @@ The display isn't beautiful like Kobo Libra Colour (of course!) but it is not so
 
 The device is so small that I can't be distracted or procrastinated 😃 The only friction is there is no cover wake-up feature, so I have to press a button to wake the device back from sleep. It's the only point I don't like.
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/xteink_x3_landscape.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
 ## 5. X3 vs Kobo Libra Colour
 
 This is not a typical comparison I would do, as I bought them for 2 separated purposes. When you compare things, they must be on the same league.
@@ -64,14 +76,34 @@ And, about X3, I use for:
 - Convenient flash reading.
 - Easy Vietnamese books.
 
-I don't u
+And usually, I spent much more time for the X3 than the KLC 😆
 
 ## 6. What I Like and What I Don't
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/xteink_x3_portrait.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+### Like
+
+- Ebooks upload is smart, it can automatically convert filename to the metadata. On KLC, I have to use Calibre to convert.
+- **Tilt Page Turn**. The device is small and light, and this feature makes it far easier for me to turn page, as my hand is small :)
+- The NFC! I set the IP to send files into the device with this feature, make it very very frictionless to send files from my phone to the device!
+- Main feature: Reading! No doubt I really love the reading experience on this device.
 
 ### Don't Like
 
 - Battery information isn't trustworthy
+- The text display isn't so cripsy... comparing to my KLC :)
+- There is no wake up from cover feature, every time I have to press Power button to wake the device up from sleep, kinda hate that :(
 
-  
-## 7. A Few Months Later
-## 8. Who Is It For?
+## 7. Who Is It For?
+
+It gives you a sense of freedom when there are a lot of open-source firmwares available and with a lot of options for customizations like 3D-printed cases, TheTwoSheep cases,... 
+
+It gives you the convenience of reading anytime, anywhere.
+
+But critically, consider to buy it if you already have a main ereader. The fancier mini eink devices like Picco, Metalio Plus, X4 Pro can be your main device hence they are unnecessarily more expensive
+.
